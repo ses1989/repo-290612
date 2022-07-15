@@ -1,0 +1,23 @@
+﻿---
+ID: "cad477f1-6166-403e-9be5-f818e9a179c8"
+Parent: "9b06d58f-b987-467f-b5f2-c44dc12df3bd"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Tempus-varius-at-placerat/Page Components"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222100Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13c70ec9-37cb-4ad8-a125-637bb7529bfe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222100Z

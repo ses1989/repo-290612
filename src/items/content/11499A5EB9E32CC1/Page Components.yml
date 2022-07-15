@@ -1,0 +1,23 @@
+﻿---
+ID: "60ce8042-b6a3-410f-8da2-69d8a971593a"
+Parent: "e9cd1cc9-e47f-460e-ba42-08d2811d95da"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Erat-tristique-gravida-dapibus/Page Components"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222026Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2bbec16b-a4a0-4e42-80d0-4192a765bb6d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222026Z

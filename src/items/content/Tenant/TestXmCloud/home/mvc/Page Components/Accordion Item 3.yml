@@ -1,0 +1,40 @@
+﻿---
+ID: "9871653f-749f-4a00-902e-23bf3e12bc4e"
+Parent: "ade3e4d5-17b1-4f14-a1ce-86417c772192"
+Template: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc/Page Components/Accordion Item 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210729T182358Z
+    - ID: "45efe66e-5ad2-4f1d-bad5-fdf281688681"
+      Hint: Content
+      Value: "Traceable to quality-driven smallholder sitios surrounding the communities of Machado, Poco Fundo, and Campestre. Enjoy a classic natural process profile of milk and dark chocolate, cherry, and roasted nut."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5718e787-142b-41d9-b5a1-0b18f45b8236"
+      Hint: Title
+      Value: BRAZIL MINAS GERAIS
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e70e80cd-8b67-4b8e-9d36-5d550cc84814"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210729T212029Z

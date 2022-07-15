@@ -1,0 +1,32 @@
+﻿---
+ID: "fd127e2b-67bc-4ea3-99db-f9f602d35767"
+Parent: "ea2bbb11-281b-47db-9bac-1bc4eff5476e"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-class/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222019Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bafcc232-cbb4-4a2b-bc60-69b8bb3b7041"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum magna inceptos rutrum volutpat aliquam nostra pellentesque cras auctor, tempus felis amet netus condimentum risus ultricies adipiscing egestas, ullamcorper curabitur primis tellus vehicula rhoncus tempus auctor quisque.</p>
+        <p>Aliquet sociosqu quam himenaeos venenatis sit ullamcorper in gravida venenatis integer enim volutpat mollis.</p>
+        <p>Condimentum sodales ultrices pellentesque sodales nisi sit ultrices condimentum cubilia mauris ornare, felis donec blandit platea enim nibh velit nunc eleifend.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Phasellus class
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222020Z

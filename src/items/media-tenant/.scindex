@@ -1,0 +1,37 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media-tenant\Tenant\shared.yml
+ID: "896b3d73-485c-4774-b6a9-4e293c9723aa"
+Parent: "d0e872e5-8ec1-4b8d-95b4-673c62a691da"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Tenant/shared
+Signature: 3Po9nKLJfxJqPfzW0nkIOkTCh1yRIl8XExJPBuwZgbQ=
+Modified: 637855358446838510
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media-tenant\Tenant.yml
+ID: "d0e872e5-8ec1-4b8d-95b4-673c62a691da"
+Parent: "90ae357f-6171-4ea9-808c-5600b678f726"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Tenant
+Signature: 3Po9nKLJfxJqPfzW0nkIOkTCh1yRIl8XExJPBuwZgbQ=
+Modified: 637855358446798506
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media-tenant\Tenant\Multi.yml
+ID: "d6c19063-e120-4a36-98ad-04b608f7869c"
+Parent: "d0e872e5-8ec1-4b8d-95b4-673c62a691da"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Tenant/Multi
+Signature: 64AMyuq9B2pVWzvcL8KFu15jeljjsZl0apK5sezJrPM=
+Modified: 637855358446818523
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media-tenant\Tenant\New site.yml
+ID: "46de1a4f-30da-47a5-9b4e-795dc61036c6"
+Parent: "d0e872e5-8ec1-4b8d-95b4-673c62a691da"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Tenant/New site
+Signature: 2VFkohdtH+N320AvE5qu55mQLxgDtLGhE4rNHB49xkg=
+Modified: 637855358446828487

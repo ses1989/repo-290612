@@ -1,0 +1,32 @@
+﻿---
+ID: "2e04eee4-8bac-4f4c-a2a3-39fb6adb76ec"
+Parent: "eba81962-e3d3-4952-acd8-44a42c87648b"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-fusce-sociosqu-ad/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222056Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5765a9e6-2512-4629-924e-2d33044f1724"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum varius mi laoreet eu, ullamcorper nibh id posuere vehicula adipiscing, vulputate cubilia enim elementum.</p>
+        <p>Litora scelerisque risus tempor tortor donec eget vivamus neque, quis posuere purus ante convallis pharetra et, habitasse lacinia nulla netus commodo molestie mollis.</p>
+        <p>Feugiat morbi eu id erat etiam pretium, aenean odio morbi felis nostra habitasse, pharetra at risus tempus nec litora nisl molestie primis augue mauris interdum facilisis eros.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Quisque fusce sociosqu ad
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222056Z

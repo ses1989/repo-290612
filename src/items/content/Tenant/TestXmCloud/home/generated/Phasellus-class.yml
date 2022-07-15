@@ -1,0 +1,44 @@
+﻿---
+ID: "f855ccd5-877a-4cdd-957a-b666701daf8d"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-class"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D2FCA1F3-DDDE-4B48-8948-99E80F17DE80}"
+              p:after="*[1=2]"
+              s:ds="{FD127E2B-67BC-4EA3-99DB-F9F602D35767}"
+              s:id="{4B77E956-C886-4AF9-85F1-60BD8CF872EE}"
+              s:ph="TestXmCloud-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222019Z
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Phasellus class
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Phasellus class
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf8691f1-9de8-4826-91c1-e5c40b1db371"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T063327Z

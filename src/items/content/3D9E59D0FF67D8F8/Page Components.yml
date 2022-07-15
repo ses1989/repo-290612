@@ -1,0 +1,23 @@
+﻿---
+ID: "78033d87-f63f-4bfa-bf29-266b6fb9f722"
+Parent: "b655befe-a466-4c29-85ad-6c4a2bb1deab"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Viverra-ultricies/Page Components"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222023Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0b1517f-1c47-4a4a-885a-5cdb381d22a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222023Z

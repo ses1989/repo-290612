@@ -1,0 +1,17 @@
+@model RenderingModel
+@using Feature.BasicContent
+@using Foundation.FieldRendering
+@{
+    // always render accordions open in EE with button hidden
+    string bodyStyle = Sitecore.Context.PageMode.IsExperienceEditor ?
+        "max-height: 100rem" : null;
+}
+<div class="accordion-item">
+    <div class="accordion-header">
+        <h3 data-e2e-id="accordion-item-title">@Html.Sitecore().Field(Templates.AccordionItem.Fields.Title)</h3>
+        <button></button>
+    </div>
+    <div class="accordion-body" style="@bodyStyle" data-e2e-id="accordion-item-content">
+        @Html.Sitecore().Field(Templates.AccordionItem.Fields.Content)
+    </div>
+</div>

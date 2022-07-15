@@ -1,0 +1,23 @@
+﻿---
+ID: "6586a388-d446-4e4c-8058-a75b1701edb5"
+Parent: "bd67946c-719d-492e-99d4-add5f82b7a9f"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/templates/Branches/Project/TestXmCloud/Product List Page/$name/Page Components
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210504T184410Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "371d5a77-4a0d-45ad-96b9-fd93a87f6aa1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210504T184410Z

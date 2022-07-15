@@ -1,0 +1,29 @@
+﻿---
+ID: "a1ef0924-d755-4e32-a1e9-d42ade7545e0"
+Parent: "ae7e6df3-ffad-498a-bc06-98a98adb2768"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: /sitecore/content/Tenant/TestXmCloud/home/foo/bar
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T205502Z
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Bar
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Bar
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c0ff054-fb66-4304-90a4-785ad18d827a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210517T205508Z

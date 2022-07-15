@@ -1,0 +1,61 @@
+﻿---
+ID: "a8cca5c3-118f-4fed-bc03-1f206623e5c7"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Nostra-est-placerat-ante"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23f42f5e-645c-4a72-9c61-79db1a331e64"
+      Hint: Image
+      Value: |
+        <image mediaid="{E584EBDF-0EF6-460F-8363-20C29585B9AA}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210506T200834Z
+    - ID: "2c2c386c-17c7-44c3-8796-3e720ba08079"
+      Hint: Features
+      Value: |
+        <ul>
+        <li>Vehicula eget habitant per</li>
+        <li>Malesuada vitae</li>
+        <li>Rutrum ullamcorper conubia adipiscing</li>
+        </ul>
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Nostra est placerat ante
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Nostra est placerat ante
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d812322-6cab-4b7e-8eae-071a1de9b2eb"
+    - ID: "9977fbe7-a0ff-475c-9a7c-ecb81c7f51cf"
+      Hint: Price
+      Value: 10.99
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be500a38-36a0-417b-86c5-e63ba71d0939"
+      Hint: Title
+      Value: Nostra est placerat ante
+    - ID: "be7e2d00-e405-4498-85f9-4f89d8ea2cfc"
+      Hint: ShortDescription
+      Value: Pellentesque amet tempor primis nunc
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210506T200834Z
+    - ID: "fc7c99d4-7301-44eb-908c-bf4ffca5a131"
+      Hint: RelatedProducts
+      Value: |
+        {25EE9446-F72F-46F9-924A-6EC879245C93}
+        {6C58997F-EDCD-4B7A-A103-6CF01E716B0D}
+        {578A239C-44B3-46ED-B5A7-39B67197BDEE}
+        {6BC5AD71-BE47-4948-A00B-2EDE4D80FFA2}

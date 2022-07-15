@@ -1,0 +1,23 @@
+{
+    "namespace": "TestXmCloud-basic-content",
+    "items": {
+        "includes": [
+            {
+                "name": "basic-content-templates",
+                "path": "/sitecore/templates/Feature/BasicContent"
+            },
+            {
+                "name": "basic-content-renderings",
+                "path": "/sitecore/layout/Renderings/Feature/BasicContent"
+            },
+            {
+                "name": "hello-resolver",
+                "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Hello Resolver"
+            },
+            {
+                "name": "tabs-resolver",
+                "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Tabs Resolver"
+            }
+        ]
+    }
+}

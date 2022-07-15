@@ -1,0 +1,32 @@
+﻿---
+ID: "509f0a65-8482-494b-a245-147fc52c886b"
+Parent: "75f13892-a171-4a2d-a95f-fc1cf68de71a"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Curabitur-inceptos-nibh/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222025Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df152619-be8f-408c-9fb0-8faa19115451"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum nostra tempor viverra cras taciti platea, porta donec fames praesent ullamcorper sodales himenaeos felis, urna sit nunc dapibus odio lacus libero ante quam nam aliquam sagittis non aliquet eros, sem praesent litora nibh orci habitant.</p>
+        <p>Per himenaeos commodo gravida lorem senectus, taciti duis vulputate nulla condimentum dui, pharetra habitant dolor suspendisse.</p>
+        <p>Massa nisi primis potenti etiam himenaeos turpis maecenas felis id scelerisque.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Curabitur inceptos nibh
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222025Z

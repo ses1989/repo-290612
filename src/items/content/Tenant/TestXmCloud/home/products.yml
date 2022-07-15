@@ -1,0 +1,36 @@
+﻿---
+ID: "b98b5e01-cb9c-4852-b0ff-88b5cfb22488"
+Parent: "a2eeda1d-d66f-519f-a070-a32afdc624ad"
+Template: "10b730ef-d8b6-4a15-bb50-101c15dea5f7"
+Path: /sitecore/content/Tenant/TestXmCloud/home/products
+SharedFields:
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Value: "{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210504T215529Z
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Products
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Products
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35e08b26-4eab-465f-8654-97af850e9fbe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210505T235201Z

@@ -1,0 +1,44 @@
+﻿---
+ID: "2290e3cf-8b36-4f22-a9d4-c7ec6b7c99d2"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Amet-imperdiet-suspendisse"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8B67B789-8512-434A-9997-E5302772FB36}"
+              p:after="*[1=2]"
+              s:ds="{8827B690-E68A-4534-BD0A-65FB85D42E07}"
+              s:id="{4B77E956-C886-4AF9-85F1-60BD8CF872EE}"
+              s:ph="TestXmCloud-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222021Z
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Amet imperdiet suspendisse
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Amet imperdiet suspendisse
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37d6282e-1eec-4a6b-8f8f-c1af5e109008"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T063118Z

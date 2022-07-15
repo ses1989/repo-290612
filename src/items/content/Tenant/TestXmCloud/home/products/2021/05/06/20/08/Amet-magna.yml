@@ -1,0 +1,61 @@
+﻿---
+ID: "7173a6e7-c5f6-4d89-a57e-a9ba18ca5ee0"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Amet-magna"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23f42f5e-645c-4a72-9c61-79db1a331e64"
+      Hint: Image
+      Value: |
+        <image mediaid="{8097546C-95A8-4F35-9015-A622A31E094E}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210506T200815Z
+    - ID: "2c2c386c-17c7-44c3-8796-3e720ba08079"
+      Hint: Features
+      Value: |
+        <ul>
+        <li>Nulla sollicitudin sociosqu</li>
+        <li>At sit</li>
+        <li>Senectus nam sociosqu</li>
+        </ul>
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Amet magna
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Amet magna
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69a50a3d-85c0-47ca-917f-c8796463771d"
+    - ID: "9977fbe7-a0ff-475c-9a7c-ecb81c7f51cf"
+      Hint: Price
+      Value: 12.99
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be500a38-36a0-417b-86c5-e63ba71d0939"
+      Hint: Title
+      Value: Amet magna
+    - ID: "be7e2d00-e405-4498-85f9-4f89d8ea2cfc"
+      Hint: ShortDescription
+      Value: Sociosqu purus enim cubilia ipsum cubilia
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210506T200815Z
+    - ID: "fc7c99d4-7301-44eb-908c-bf4ffca5a131"
+      Hint: RelatedProducts
+      Value: |
+        {25EE9446-F72F-46F9-924A-6EC879245C93}
+        {A8CCA5C3-118F-4FED-BC03-1F206623E5C7}
+        {CD8A27C2-1A94-442A-9087-A4E7584DCD68}
+        {B9E07A5A-F4D0-4176-B157-8762F72C8AE2}

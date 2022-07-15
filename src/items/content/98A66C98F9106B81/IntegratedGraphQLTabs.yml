@@ -1,0 +1,26 @@
+﻿---
+ID: "1745f6c7-9ef9-4492-9e0f-c96dbcbad49a"
+Parent: "4489f2ca-1e16-4b34-836d-77e7bb3fee2b"
+Template: "5595852a-c641-464c-8cf2-c07435ae9e1c"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/IntegratedGraphQLTabs
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210511T134549Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bfc73de-5949-4ca0-a83a-13843d4785c0"
+    - ID: "aebe204a-fd1d-49ec-9308-44d8529a9a3b"
+      Hint: Heading
+      Value: Integrated GraphQL Tabs Component
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210512T093509Z

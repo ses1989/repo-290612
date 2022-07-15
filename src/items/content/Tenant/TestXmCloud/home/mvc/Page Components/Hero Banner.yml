@@ -1,0 +1,79 @@
+﻿---
+ID: "d7ad29c1-1b7c-4b3b-add5-5cba6c2cb493"
+Parent: "ade3e4d5-17b1-4f14-a1ce-86417c772192"
+Template: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc/Page Components/Hero Banner
+Languages:
+- Language: "da-DK"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210728T214652Z
+    - ID: "5179186c-b95e-4e97-95ab-7958721a9aeb"
+      Hint: Title
+      Value: "MVC Hero-DK"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "89b0a8ed-0ee8-4512-b518-ab2c4c2a0b9e"
+      Hint: Subtitle
+      Value: "Subtitle-DK"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6fc61e8-c8aa-4145-84c0-3ae34e35296e"
+    - ID: "b5f61442-ff0f-46a5-90a8-d6d387de24a0"
+      Hint: Image
+      Value: |
+        <image mediaid="{18C245D1-9EEF-41A6-9093-FA240F84CB2A}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210729T164753Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210728T200654Z
+    - ID: "5179186c-b95e-4e97-95ab-7958721a9aeb"
+      Hint: Title
+      Value: MVC Hero
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "89b0a8ed-0ee8-4512-b518-ab2c4c2a0b9e"
+      Hint: Subtitle
+      Value: Subtitle
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d56eb89-c4b6-43ca-a130-a838404c56f2"
+    - ID: "b5f61442-ff0f-46a5-90a8-d6d387de24a0"
+      Hint: Image
+      Value: |
+        <image mediaid="{23BAAB67-4312-4A99-8BBE-A23EFC4BAF3B}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210729T164547Z

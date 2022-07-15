@@ -1,0 +1,6 @@
+tls:
+  certificates:
+    - certFile: C:\etc\traefik\certs\xmcloud.pem
+      keyFile: C:\etc\traefik\certs\xmcloud-key.pem
+    - certFile: C:\etc\traefik\certs\_wildcard.testxmcloud.localhost.pem
+      keyFile: C:\etc\traefik\certs\_wildcard.testxmcloud.localhost-key.pem

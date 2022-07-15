@@ -1,0 +1,32 @@
+﻿---
+ID: "f91bd804-1e33-4633-9291-efa6e91f51bc"
+Parent: "68b240ab-c86c-4044-9b6c-c04e885e615f"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Sit-blandit-mi/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222036Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "45db9187-784f-4542-a1bd-4c7c8fb88c07"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum congue nunc a ipsum mauris vel vestibulum urna tellus, felis nam cursus laoreet augue sit ullamcorper hendrerit praesent, urna curabitur per luctus accumsan viverra quam mi varius.</p>
+        <p>Praesent vulputate pellentesque aliquet aliquam leo lacinia faucibus curabitur elementum porta fringilla dolor, senectus torquent orci egestas dui adipiscing quam netus etiam pellentesque vestibulum dolor turpis condimentum gravida adipiscing donec hendrerit dui libero dapibus nibh condimentum.</p>
+        <p>Suscipit a nibh in netus interdum blandit maecenas risus, neque eu pellentesque semper sem nostra quisque proin, tincidunt mauris orci in ante vel scelerisque euismod lacinia duis consequat vel sed, pharetra vel cursus amet cubilia vitae, etiam vestibulum ut elit.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Sit blandit mi
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222037Z

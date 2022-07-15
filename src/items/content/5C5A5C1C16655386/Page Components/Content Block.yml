@@ -1,0 +1,32 @@
+﻿---
+ID: "2ef6a9bd-313d-455e-b4da-75fdcc81300a"
+Parent: "5d0532e1-255e-4d8c-a24c-b3fc8804cd5d"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ac-enim-tristique-sit/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222057Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a235da63-91cb-472a-b4dd-c116711ce4cb"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum euismod praesent hendrerit non placerat curae etiam ipsum quam cras malesuada odio, quisque ultricies litora vehicula dapibus primis nibh lectus id conubia sed.</p>
+        <p>Interdum arcu vitae ligula auctor nisi odio erat donec dictum quisque ad curabitur, commodo etiam ut taciti sapien gravida justo facilisis est mauris et malesuada blandit ultrices facilisis rhoncus suscipit sem fusce suscipit aenean, malesuada dolor suscipit scelerisque nisl vulputate arcu torquent turpis.</p>
+        <p>Magna iaculis luctus lorem pellentesque habitant, sociosqu in tellus consequat tempor, ad aliquet auctor euismod.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Ac enim tristique sit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222058Z

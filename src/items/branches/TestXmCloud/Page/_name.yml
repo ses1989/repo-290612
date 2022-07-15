@@ -1,0 +1,23 @@
+﻿---
+ID: "6b601886-bbc4-4c77-8934-5a2e7c8fe63f"
+Parent: "c3f4e122-1eb7-4235-bad1-ac00125d59ae"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: /sitecore/templates/Branches/Project/TestXmCloud/Page/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210504T184326Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09414d1a-826a-4f7f-8f4a-178a7f1b0da7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210504T184326Z

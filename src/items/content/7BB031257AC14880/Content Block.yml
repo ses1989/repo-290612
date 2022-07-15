@@ -1,0 +1,32 @@
+﻿---
+ID: "8e600b66-77ae-49db-99b7-a0a6c7b4f28b"
+Parent: "14ff2a65-16e4-4968-a95e-406fa2fd87b2"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Per-vel-hac/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222028Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49512501-70d1-48a6-9b2c-dcd8f3bf6ed5"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum phasellus etiam dui eu sed eros maecenas tristique lectus, integer urna primis quisque mattis nullam tellus consectetur sollicitudin nunc, dapibus commodo dapibus enim aenean integer consectetur donec etiam sapien inceptos tincidunt ante rhoncus velit malesuada condimentum, elit lacus varius ultrices facilisis commodo, fringilla porttitor fusce metus ultrices dictum.</p>
+        <p>Euismod aptent venenatis conubia orci nibh risus magna tellus suscipit ligula lobortis.</p>
+        <p>Magna vehicula molestie vulputate malesuada mattis urna, ad velit pharetra eros orci, porta quam hac enim metus blandit venenatis fermentum malesuada ornare hendrerit maecenas, congue nunc quam eget scelerisque nunc, mi vel donec eros a consequat amet porta posuere praesent ultrices id consectetur luctus elit facilisis.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Per vel hac
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222028Z

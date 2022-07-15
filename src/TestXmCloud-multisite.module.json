@@ -1,0 +1,11 @@
+{
+    "namespace": "TestXmCloud-multisite",
+    "items": {
+        "includes": [
+            {
+                "name": "multisite-templates",
+                "path": "/sitecore/templates/Foundation/Multisite"
+            }
+        ]
+    }
+}

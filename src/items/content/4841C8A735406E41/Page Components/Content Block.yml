@@ -1,0 +1,32 @@
+﻿---
+ID: "b71c8fed-96ca-4b1b-a774-b17a99e66e93"
+Parent: "2e5af254-1019-4566-a69f-492605f5bc22"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Auctor-metus-vitae/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222012Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "772be7be-f7c0-4d46-b7ed-5c9ba5480f84"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum netus viverra primis vitae malesuada tempor, lacinia potenti varius tincidunt taciti quam morbi vestibulum, habitant litora maecenas dapibus urna velit consectetur duis eget eros in nunc ultrices diam aliquam.</p>
+        <p>Mi malesuada suscipit feugiat pellentesque integer semper, id inceptos porta faucibus facilisis consequat himenaeos, placerat aliquam sollicitudin nunc magna ut curabitur placerat himenaeos eu feugiat dolor neque ipsum, viverra vivamus elementum egestas tellus tristique ut viverra, est convallis posuere donec leo velit proin mollis per dictumst varius laoreet ultrices vivamus.</p>
+        <p>Maecenas pellentesque porta vitae quis curabitur lectus bibendum eleifend, venenatis elit gravida morbi odio quisque ligula, accumsan quam hendrerit lacinia fermentum orci lorem purus lorem lacinia duis amet condimentum justo enim per.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Auctor metus vitae
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222013Z

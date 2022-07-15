@@ -1,0 +1,91 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products\_Product.yml
+ID: "abcecb30-2777-48c7-8860-813e5268816c"
+Parent: "4bb5aaa0-fb1e-4b8e-85dd-8bb135fbbe9c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Products/_Product
+Signature: L8uCHWr4bhXy1L2T8+o+s+zvby5uLjZgy2gV3YsxJHA=
+Modified: 637855358438046399
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products\_Product\__Standard Values.yml
+ID: "4f6e9ea5-92f0-4c16-bc78-a318bace2838"
+Parent: "abcecb30-2777-48c7-8860-813e5268816c"
+Template: "abcecb30-2777-48c7-8860-813e5268816c"
+Path: /sitecore/templates/Feature/Products/_Product/__Standard Values
+Signature: WT7a2GnGzU0n4k7l0fFDMWHlzi+2AAyChcbPeWirVcM=
+Modified: 637855358438196389
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products\_Product\Product\Features.yml
+ID: "2c2c386c-17c7-44c3-8796-3e720ba08079"
+Parent: "d5670e0a-5919-417c-8948-13469b8733a8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Products/_Product/Product/Features
+Signature: vtiGgN8Rvd0Tl26tvBrmsPPJHm+RGsJCxPCSq982vMs=
+Modified: 637855358438156390
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products\_Product\Product\Price.yml
+ID: "9977fbe7-a0ff-475c-9a7c-ecb81c7f51cf"
+Parent: "d5670e0a-5919-417c-8948-13469b8733a8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Products/_Product/Product/Price
+Signature: IWAEJnXtmVqKzdj6Ka03gNFU/oZHW+w/+jJC8jDe+KQ=
+Modified: 637855358438166393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products\_Product\Product\RelatedProducts.yml
+ID: "fc7c99d4-7301-44eb-908c-bf4ffca5a131"
+Parent: "d5670e0a-5919-417c-8948-13469b8733a8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Products/_Product/Product/RelatedProducts
+Signature: AJszLHOqTWRd+iX+QCJWjASkzEs4cQd+oVmEKT7HYAI=
+Modified: 637855358438176418
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products.yml
+ID: "4bb5aaa0-fb1e-4b8e-85dd-8bb135fbbe9c"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Products
+Signature: qaEquswAO7Hi9H//zRp1cy+hUl472XAPwK/XpyQ7NB0=
+Modified: 637855358438026394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products\_Product\Product.yml
+ID: "d5670e0a-5919-417c-8948-13469b8733a8"
+Parent: "abcecb30-2777-48c7-8860-813e5268816c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Products/_Product/Product
+Signature: KmowUujDp2ht02VRVp1Z3dD/aJiGJMlVZPBlVRrUfPk=
+Modified: 637855358438066397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products\_Product\Product\ShortDescription.yml
+ID: "be7e2d00-e405-4498-85f9-4f89d8ea2cfc"
+Parent: "d5670e0a-5919-417c-8948-13469b8733a8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Products/_Product/Product/ShortDescription
+Signature: IW2+iODAeXkS4pBK+ewSIDH9eUsQuwYJKvMxUkY5SGs=
+Modified: 637855358438116395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products\_Product\Product\Image.yml
+ID: "23f42f5e-645c-4a72-9c61-79db1a331e64"
+Parent: "d5670e0a-5919-417c-8948-13469b8733a8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Products/_Product/Product/Image
+Signature: Lyy/RHjxsXX7RRP5iX1QFSDy3f7XN0jwOzHEHCrycG8=
+Modified: 637855358438136400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-templates\Products\_Product\Product\Title.yml
+ID: "be500a38-36a0-417b-86c5-e63ba71d0939"
+Parent: "d5670e0a-5919-417c-8948-13469b8733a8"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Products/_Product/Product/Title
+Signature: RLSvyvJXlgBFz+XZ70p6bc+X612Oa0kq4n5zQWjfBaY=
+Modified: 637855358438096407

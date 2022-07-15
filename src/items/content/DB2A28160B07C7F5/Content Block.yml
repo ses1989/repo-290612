@@ -1,0 +1,32 @@
+﻿---
+ID: "9df52b7d-1a13-47bc-ac1c-d5711f0ad2b5"
+Parent: "94fbfe61-6ce7-403b-a08e-553628494c42"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nisi-primis/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T221949Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2902b3dc-1f25-4503-b77b-9533ba4c8ac6"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum in porttitor ac non senectus sagittis eleifend, lacus sapien curabitur diam potenti velit.</p>
+        <p>Varius condimentum fringilla elementum semper purus ut semper adipiscing himenaeos, laoreet rhoncus litora nulla tellus ante elit aptent diam cubilia ut lorem porttitor fames aliquam suscipit velit mi lacus.</p>
+        <p>Nisl turpis velit cursus maecenas in turpis adipiscing tortor faucibus ut, donec consectetur gravida suspendisse euismod neque cursus tincidunt nibh nunc, tempus posuere enim at nulla id taciti porttitor velit.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Nisi primis
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T221949Z

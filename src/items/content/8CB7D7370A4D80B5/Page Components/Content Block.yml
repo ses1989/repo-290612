@@ -1,0 +1,32 @@
+﻿---
+ID: "f0337109-fdc6-4ade-9822-c182336c33b1"
+Parent: "cb13f3de-0778-4633-9048-3425f15cffa2"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fusce-aenean-primis-placerat/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222034Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be57ddc6-a084-4194-9be9-58a92cb6520e"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum imperdiet quis ad nec donec ultrices gravida nibh, orci accumsan et imperdiet sit elementum nec hendrerit nostra, inceptos dapibus cursus curae eleifend pretium et vitae eleifend per ut risus mauris sagittis risus.</p>
+        <p>Molestie ligula cursus eleifend curabitur elementum erat mauris aliquam massa, platea vehicula condimentum eleifend nibh felis fusce vestibulum, felis consequat tempus feugiat duis potenti odio curae posuere egestas litora nunc lorem habitant curae augue in blandit.</p>
+        <p>Pellentesque consequat fusce dictum vel neque dictum ornare nisl tortor ipsum, aenean rhoncus malesuada torquent habitasse integer neque convallis laoreet curabitur blandit, condimentum fusce tristique duis nullam consequat sapien fringilla ultrices ac curabitur integer lobortis posuere quam integer netus imperdiet, semper vitae auctor sodales faucibus sit.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Fusce aenean primis placerat
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222034Z

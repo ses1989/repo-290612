@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-renderings\Navigation.yml
+ID: "db878121-56da-45f8-9581-dd1fa3df5e28"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Navigation
+Signature: ZfPzZucixO+HD/YFpEP0Z31aw0yRPh87R1a/BtR7PN0=
+Modified: 637855358437956391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-renderings\Navigation\Breadcrumbs.yml
+ID: "cc7ba644-7b5b-4092-a4f2-e82ed84289b2"
+Parent: "db878121-56da-45f8-9581-dd1fa3df5e28"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Navigation/Breadcrumbs
+Signature: XIJX8hX3NHIh/pTokHGPg50hjOGV8y2foxXax+SqusA=
+Modified: 637855358437976385
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-renderings\Navigation\Footer.yml
+ID: "78bcd6b7-fb7b-4d9d-90d1-78a2c45fcf49"
+Parent: "db878121-56da-45f8-9581-dd1fa3df5e28"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Navigation/Footer
+Signature: RFRZC1RaCUxLFmCweX4fZ52CQyt4/O3f4r4jDipMPCQ=
+Modified: 637855358437986400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-renderings\Navigation\Header.yml
+ID: "af0d28f1-b659-4392-8fcf-e250df527fa3"
+Parent: "db878121-56da-45f8-9581-dd1fa3df5e28"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Navigation/Header
+Signature: Lb8+BlgIkQFq8UUTHcIMFD4HPj0i2GW4bqtZUkaHUuA=
+Modified: 637855358438006389
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-renderings\Navigation\LanguageSelector.yml
+ID: "c2260f8e-922f-4922-97d7-1866b367f81f"
+Parent: "db878121-56da-45f8-9581-dd1fa3df5e28"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Navigation/LanguageSelector
+Signature: BA1mx9+NRm4rZ08/4TS4la/Da/RBMIMpvw3po9Y6/6c=
+Modified: 637855358438016401

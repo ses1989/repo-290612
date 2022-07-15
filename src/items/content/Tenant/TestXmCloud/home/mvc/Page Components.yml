@@ -1,0 +1,36 @@
+﻿---
+ID: "ade3e4d5-17b1-4f14-a1ce-86417c772192"
+Parent: "6eafde7f-56b9-4cd1-828f-6483348e63ec"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc/Page Components
+BranchID: "c3f4e122-1eb7-4235-bad1-ac00125d59ae"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AD0D8D69-0839-464A-8C6C-85CF70EE739F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210729T164204Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7f767ed-2405-4c6a-b3d7-1ab44a42c0d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210729T164204Z

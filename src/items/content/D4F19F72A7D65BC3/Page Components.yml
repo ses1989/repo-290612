@@ -1,0 +1,23 @@
+﻿---
+ID: "b4284a05-d671-4a10-89f0-427a767cf3b9"
+Parent: "7d110a3f-4558-4848-8f3a-d318fa486ee9"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Leo-nisl-eget-amet/Page Components"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222004Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9dcd3e76-e323-449f-93d0-3d91e1307871"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222004Z

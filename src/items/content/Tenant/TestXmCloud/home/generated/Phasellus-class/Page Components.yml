@@ -1,0 +1,23 @@
+﻿---
+ID: "ea2bbb11-281b-47db-9bac-1bc4eff5476e"
+Parent: "f855ccd5-877a-4cdd-957a-b666701daf8d"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-class/Page Components"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222019Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad41374f-1756-4664-8d67-bcba07d19bb2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222019Z

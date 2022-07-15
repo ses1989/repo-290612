@@ -1,0 +1,44 @@
+﻿---
+ID: "c4708927-6d3e-422a-81d7-76c792cf3a9e"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Porta-nec"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{17196D72-8177-4EEF-AD07-B810305DB73E}"
+              p:after="*[1=2]"
+              s:ds="{E5F57E8A-71FD-4ED8-BDB0-77CDAA067730}"
+              s:id="{4B77E956-C886-4AF9-85F1-60BD8CF872EE}"
+              s:ph="TestXmCloud-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222029Z
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Porta nec
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Porta nec
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "937ef7ce-91b8-467c-8568-71cf27d104e6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T063335Z

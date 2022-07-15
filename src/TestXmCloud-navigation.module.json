@@ -1,0 +1,15 @@
+{
+    "namespace": "TestXmCloud-navigation",
+    "items": {
+        "includes": [
+            {
+                "name": "navigation-templates",
+                "path": "/sitecore/templates/Feature/Navigation"
+            },
+            {
+                "name": "navigation-renderings",
+                "path": "/sitecore/layout/Renderings/Feature/Navigation"
+            }
+        ]
+    }
+}

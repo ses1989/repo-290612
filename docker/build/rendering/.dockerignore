@@ -1,0 +1,7 @@
+# only include source code required for build/runtime
+app/.vscode
+app/data
+app/node_modules
+app/sitecore
+
+**/*.md

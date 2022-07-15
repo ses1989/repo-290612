@@ -1,0 +1,12 @@
+@using Feature.BasicContent
+@using Foundation.FieldRendering
+
+@*
+    Note we are intentionally using multiple root DOM elements here to test HTML output through Layout Service
+*@
+<div class="container accordion-heading">
+    <h2 class="is-size-2" data-e2e-id="accordion-heading">@Html.Sitecore().Field(Templates.Accordion.Fields.Heading)</h2>
+</div>
+<div class="container accordion">
+    @Html.Sitecore().DynamicPlaceholder("TestXmCloud-accordion")
+</div>

@@ -1,0 +1,32 @@
+﻿---
+ID: "c4c1ee7e-cce7-491e-b69a-6bce2914c194"
+Parent: "7073ff99-18ce-4674-beca-6207fe2d727a"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Hac-odio/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222032Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9fef3c20-18b1-48de-b01f-55d9e591ac52"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum sit nisl tincidunt cursus neque id vitae sociosqu risus, quisque ligula sollicitudin nec curabitur urna ut consectetur consequat facilisis vehicula, luctus rhoncus augue odio duis quam tristique sollicitudin dictum.</p>
+        <p>Sagittis senectus sociosqu bibendum sem orci aliquet auctor primis enim, lobortis donec congue sollicitudin euismod curabitur vehicula convallis augue justo, dapibus sapien orci ullamcorper aenean class consectetur tristique dolor quisque sem luctus.</p>
+        <p>Praesent integer tellus ante nullam venenatis ut libero nam volutpat accumsan.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Hac odio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222033Z

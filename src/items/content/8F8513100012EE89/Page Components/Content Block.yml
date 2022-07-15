@@ -1,0 +1,32 @@
+﻿---
+ID: "2e208ea9-7999-4057-99a9-942951dff7b4"
+Parent: "1d77bb11-a59e-4177-ae39-4d8a638afcf7"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-fermentum/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222047Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ecc87f6-0af9-4709-b3c0-2d5e7133daa2"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum suspendisse metus dapibus ultricies diam convallis class ornare inceptos aenean sed, fringilla class nullam mollis arcu id eu donec aliquet sapien lobortis metus faucibus gravida duis fermentum egestas cubilia dolor, nunc justo ac aliquet viverra in ultricies, porta iaculis nullam est vehicula imperdiet nullam.</p>
+        <p>Ornare faucibus nibh volutpat fermentum cursus pharetra non taciti, eu vitae ligula nostra imperdiet ultrices orci ad, elementum lobortis velit donec accumsan quisque metus in fames commodo class volutpat scelerisque placerat porta potenti faucibus tortor, ligula adipiscing condimentum nisl urna sed magna netus aliquam blandit luctus elementum blandit fringilla potenti.</p>
+        <p>Varius quam accumsan odio nulla per facilisis posuere varius vel viverra, libero ad gravida auctor sed justo vehicula purus taciti pulvinar, per conubia lacinia donec elit nulla odio augue sit curae nunc donec netus.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Phasellus fermentum
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222048Z

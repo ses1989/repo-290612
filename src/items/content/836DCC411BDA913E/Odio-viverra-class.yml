@@ -1,0 +1,63 @@
+﻿---
+ID: "578a239c-44b3-46ed-b5a7-39b67197bdee"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Odio-viverra-class"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23f42f5e-645c-4a72-9c61-79db1a331e64"
+      Hint: Image
+      Value: |
+        <image mediaid="{7BD6DB0D-D0DA-4A6C-AB5F-A7C37AD00DB7}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210506T200803Z
+    - ID: "2c2c386c-17c7-44c3-8796-3e720ba08079"
+      Hint: Features
+      Value: |
+        <ul>
+        <li>Iaculis aliquam inceptos</li>
+        <li>Porttitor donec tristique inceptos</li>
+        <li>Nunc fringilla quis eleifend</li>
+        </ul>
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Odio viverra class
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Odio viverra class
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b4f678b-0dd5-4b82-b540-f7e2edef5410"
+    - ID: "9977fbe7-a0ff-475c-9a7c-ecb81c7f51cf"
+      Hint: Price
+      Value: 17.99
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be500a38-36a0-417b-86c5-e63ba71d0939"
+      Hint: Title
+      Value: Odio viverra class
+    - ID: "be7e2d00-e405-4498-85f9-4f89d8ea2cfc"
+      Hint: ShortDescription
+      Value: Sit porttitor nec mattis id mollis aliquet
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210506T200803Z
+    - ID: "fc7c99d4-7301-44eb-908c-bf4ffca5a131"
+      Hint: RelatedProducts
+      Value: |
+        {D46288F4-56CA-4E4D-826B-F5542C339D02}
+        {4B58E540-DFEE-4861-881F-12444DE18ABE}
+        {A8CCA5C3-118F-4FED-BC03-1F206623E5C7}
+        {07123A10-8C16-4CEA-B9E0-082F7BCADCE1}
+        {E809F938-6FF5-48C8-83D4-B19D8CEDB093}
+        {492F5761-8AE4-4A6E-9B26-3BD87AC2BA7E}

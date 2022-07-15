@@ -1,0 +1,19 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\layouts\TestXmCloud.yml
+ID: "7f1e7920-4244-55af-a9d7-76fba414eb0f"
+Parent: "da04b275-8838-4a3a-afee-817cf1fdd2eb"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Project/TestXmCloud
+Signature: dTYdZ28H21SmQ/L4TAJc7id8HJaTnJ+XWxxBrXVAFH4=
+Modified: 637855358438356399
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\layouts\TestXmCloud\Default.yml
+ID: "8edcb8e4-553c-404d-8e42-74d8ca9246cc"
+Parent: "7f1e7920-4244-55af-a9d7-76fba414eb0f"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/layout/Layouts/Project/TestXmCloud/Default
+Signature: AggTwlKgloIT9kpDEvkmVdmqcH7xmk7YjD+8MaXR8xY=
+Modified: 637855358438376391

@@ -1,0 +1,32 @@
+﻿---
+ID: "65031aa9-eed8-4383-8eb9-7866dfe8dccb"
+Parent: "f6cf54a1-6db5-49cb-866b-460a5c594dca"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Vulputate-magna/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222050Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a0efa14-3fe4-4b81-98b0-466ebf3e9bc6"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum vehicula elit nam vel dictumst bibendum sit mi massa cubilia, euismod orci taciti curabitur nullam feugiat volutpat malesuada aenean interdum primis sociosqu donec.</p>
+        <p>Pellentesque viverra duis sit adipiscing tortor laoreet scelerisque, quam auctor quisque pretium gravida bibendum nulla fames, gravida mollis magna accumsan luctus vehicula phasellus morbi rhoncus tempus ullamcorper aenean cubilia commodo, eget at aliquam aptent euismod convallis sociosqu, luctus suspendisse massa ut egestas massa.</p>
+        <p>Cubilia pretium lobortis suscipit auctor malesuada nostra ullamcorper malesuada et nam pretium felis.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Vulputate magna
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222051Z

@@ -1,0 +1,32 @@
+﻿---
+ID: "d310e521-56d1-4dba-98ed-aa2efff70fb8"
+Parent: "e2cf70da-5fe3-4759-b018-103a490cdd52"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fames-elit/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T221950Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b33a8058-069d-49d1-a9c9-d6204f7ff2ce"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum justo aenean dui fames justo iaculis venenatis luctus tortor laoreet malesuada, consectetur est nibh luctus massa class scelerisque class dolor dictum fermentum turpis interdum posuere curabitur.</p>
+        <p>Fringilla est netus vitae molestie commodo ligula, fames aenean urna etiam aenean donec nibh, leo purus nulla pulvinar condimentum bibendum maecenas proin vitae accumsan ut donec adipiscing turpis, semper primis adipiscing velit nisl aenean maecenas.</p>
+        <p>Nec elementum in habitasse urna felis fermentum, aliquet imperdiet habitasse commodo semper gravida luctus, sit ut senectus cursus donec morbi donec pharetra iaculis morbi ipsum urna non habitasse, praesent urna himenaeos turpis risus a blandit urna aliquet, vulputate enim consequat metus netus porttitor arcu elementum neque maecenas etiam lacus.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Fames elit
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T221951Z

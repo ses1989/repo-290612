@@ -1,0 +1,32 @@
+﻿---
+ID: "d0e802f0-0349-4193-a04b-0732d283c091"
+Parent: "cad477f1-6166-403e-9be5-f818e9a179c8"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Tempus-varius-at-placerat/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222100Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1666f18e-655d-4627-92b6-a386c3672dba"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum sodales pharetra lacinia commodo dictumst donec neque quisque, vivamus hac quisque eleifend aliquam pellentesque quis blandit, tristique aenean interdum tristique quisque congue aptent donec.</p>
+        <p>Sapien tempus interdum sociosqu tortor cubilia tempor mi felis ut turpis fusce consectetur.</p>
+        <p>Diam lobortis vulputate platea proin lacinia metus lacus sem eleifend fames arcu, ut vestibulum leo netus scelerisque mi lacinia egestas sodales tempor quisque, suscipit aptent litora etiam aliquet sed aliquam justo class molestie.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Tempus varius at placerat
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222101Z

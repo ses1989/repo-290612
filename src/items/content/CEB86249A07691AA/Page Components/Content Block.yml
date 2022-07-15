@@ -1,0 +1,32 @@
+﻿---
+ID: "9cdac388-f9ba-4a99-b527-786f49888173"
+Parent: "f5d8719c-0c62-436d-991b-3b678c98bbbd"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Molestie-dui-himenaeos/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222039Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f24b263-783e-4702-b8d5-c987d246b3b7"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum euismod feugiat placerat suspendisse neque aenean conubia adipiscing quisque lacinia luctus mauris.</p>
+        <p>Taciti nulla netus feugiat et rutrum volutpat mollis quisque, inceptos maecenas est bibendum dolor cubilia sem facilisis, quam massa vel placerat leo diam ante fermentum inceptos nulla augue fusce rutrum ut arcu litora ultricies per lorem non.</p>
+        <p>Elit aliquam consectetur non fusce turpis cubilia suscipit venenatis curae.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Molestie dui himenaeos
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222040Z

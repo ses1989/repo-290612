@@ -1,0 +1,37 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\metadata-templates\Metadata.yml
+ID: "93ebef74-efdc-43d7-8125-a99c07b21f83"
+Parent: "b26bd035-8d0a-4df3-8f67-2de3c7fdd74a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Metadata
+Signature: J+2vtLaO5nOPBDNROsOiuEVpOT7O6LbYz3UWrMg4sP0=
+Modified: 637855358437626433
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\metadata-templates\Metadata\_PageMetadata.yml
+ID: "08db9562-8961-4acb-bccd-5bd0096a4c64"
+Parent: "93ebef74-efdc-43d7-8125-a99c07b21f83"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Metadata/_PageMetadata
+Signature: GVaGv1fdxxRS+Al3p3T9cQaEKtxbwjTLmU7jcn9LLps=
+Modified: 637855358437636416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\metadata-templates\Metadata\_PageMetadata\Page Metadata\PageTitle.yml
+ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+Parent: "9228e0de-c04b-4cf6-b40e-d5f99a8e1fd6"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Metadata/_PageMetadata/Page Metadata/PageTitle
+Signature: Ip8LIXX+GOdJuEi1y6pxHH7qc9RpnOewf9JGGcjwFd4=
+Modified: 637855358437676391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\metadata-templates\Metadata\_PageMetadata\Page Metadata.yml
+ID: "9228e0de-c04b-4cf6-b40e-d5f99a8e1fd6"
+Parent: "08db9562-8961-4acb-bccd-5bd0096a4c64"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Metadata/_PageMetadata/Page Metadata
+Signature: lrvoB97a2Ue74wfekIw5ayuUdwRUGkFbXgrJBAtOlU4=
+Modified: 637855358437656409

@@ -1,0 +1,9 @@
+/data/cm/*
+!/data/cm/.gitkeep
+/data/mssql/*
+!/data/mssql/.gitkeep
+/data/solr/*
+!/data/solr/.gitkeep
+
+/deploy/*
+!/deploy/.gitkeep

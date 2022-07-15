@@ -1,0 +1,32 @@
+﻿---
+ID: "f8a117d4-3e8e-4337-b2d4-ff9eff72df3e"
+Parent: "a7b2f818-0cf5-4b58-bc02-fc11a54b2db4"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Praesent-ultrices/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222046Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b863fd21-150e-4ba4-8824-921565c9fbad"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum sociosqu id erat vitae nostra, nec odio morbi ad fermentum integer convallis, fringilla quam eget cursus mollis turpis hendrerit pharetra vulputate id proin fames, suscipit viverra non vehicula senectus, suspendisse massa sagittis placerat nullam.</p>
+        <p>Nisl diam aliquam class justo massa lacinia suspendisse, augue risus commodo proin vestibulum metus erat commodo, imperdiet malesuada varius curae nulla inceptos integer donec in leo.</p>
+        <p>Curabitur habitasse erat eget ultrices bibendum placerat nullam, pulvinar hendrerit ut nisi velit scelerisque lacinia auctor, sit aenean pellentesque tristique aliquam litora.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Praesent ultrices
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222046Z

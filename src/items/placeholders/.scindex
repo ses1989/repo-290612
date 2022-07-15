@@ -1,0 +1,55 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\placeholders\TestXmCloud\Header.yml
+ID: "dd7d2519-67d7-4cf8-88da-3f81c4673b52"
+Parent: "5c1cccf6-d6b4-5e50-9178-e0afef5d2a7e"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/TestXmCloud/Header
+Signature: AiRV9vl+fDkg+HczIDjMroaQwfWyWcUSGj1EJlKECu4=
+Modified: 637855358438426447
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\placeholders\TestXmCloud\Product Detail Page.yml
+ID: "8a78655d-27f7-4dde-bdba-96ec95fb8156"
+Parent: "5c1cccf6-d6b4-5e50-9178-e0afef5d2a7e"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/TestXmCloud/Product Detail Page
+Signature: hfHAPcuOcK5PRqEZknQUm3/BvwsNHIWsxg8ylTH584Q=
+Modified: 637855358438456397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\placeholders\TestXmCloud\Accordion.yml
+ID: "9b487a14-a9c1-4697-8713-a6ef25f7c168"
+Parent: "5c1cccf6-d6b4-5e50-9178-e0afef5d2a7e"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/TestXmCloud/Accordion
+Signature: GqIpLXWBFAAdC6Gc9oW/KLbiYneT6/43YfCBnASieEg=
+Modified: 637855358438406398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\placeholders\TestXmCloud\Main.yml
+ID: "e5e93324-53a0-42fd-96d7-164bf2019c0a"
+Parent: "5c1cccf6-d6b4-5e50-9178-e0afef5d2a7e"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/TestXmCloud/Main
+Signature: nrkmGuJ3z/ZWYzW0KZPLVsoICoPM/aKbyCgi9mJnvx0=
+Modified: 637855358438446388
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\placeholders\TestXmCloud.yml
+ID: "5c1cccf6-d6b4-5e50-9178-e0afef5d2a7e"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/TestXmCloud
+Signature: B+h/a7mb0zCh/a5mQQbMi3Cktj06CRwj23YTXQw5vF8=
+Modified: 637855358438386402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\placeholders\TestXmCloud\Product List Page.yml
+ID: "a017c50c-c3c1-40d4-ae44-d1eb8945eee7"
+Parent: "5c1cccf6-d6b4-5e50-9178-e0afef5d2a7e"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/TestXmCloud/Product List Page
+Signature: aUri7OychSa/RIPbUXqiwgL9pjzQXRce3/76BFnKepI=
+Modified: 637855358438466398

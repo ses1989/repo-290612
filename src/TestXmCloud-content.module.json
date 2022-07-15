@@ -1,0 +1,22 @@
+{
+  "namespace": "TestXmCloud-content",
+  "references": [
+    "TestXmCloud"
+  ],
+  "items": {
+    "includes": [
+      {
+        "name": "content",
+        "path": "/sitecore/content/Tenant"
+      },
+      {
+        "name": "media",
+        "path": "/sitecore/media library/TestXmCloud"
+      },
+      {
+        "name": "media-tenant",
+        "path": "/sitecore/media library/Project/Tenant"
+      }
+    ]
+  }
+}

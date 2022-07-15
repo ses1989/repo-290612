@@ -1,0 +1,14 @@
+{
+  "$schema": "./.sitecore/schemas/RootConfigurationFile.schema.json",
+  "modules": [
+    "src/*.module.json"
+  ],
+  "plugins": [
+  ],
+  "serialization": {
+    "defaultMaxRelativeItemPathLength": 60,
+    "defaultModuleRelativeSerializationPath": "items",
+    "removeOrphansForRoles": true,
+    "excludedFields": []
+  }
+}

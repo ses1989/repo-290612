@@ -1,0 +1,63 @@
+services:
+  nodejs:
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-nodejs:${VERSION:-latest}
+    build:
+      context: ../../docker/build/nodejs
+      args:
+        BASE_IMAGE: ${NODEJS_BASE_IMAGE}
+        NODEJS_VERSION: ${NODEJS_VERSION}
+    scale: 0
+
+  solution:
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-solution:${VERSION:-latest}
+    build:
+      context: ../..
+      args:
+        BASE_IMAGE: ${SOLUTION_BASE_IMAGE}
+        BUILD_IMAGE: ${SOLUTION_BUILD_IMAGE}
+        NUGET_USER: ${NUGET_USER}
+        NUGET_PASSWORD: ${NUGET_PASSWORD}
+    scale: 0
+
+  rendering:
+    isolation: ${ISOLATION}
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-rendering:${VERSION:-latest}
+    mem_limit: 2GB
+    build:
+      context: ../../docker/build/rendering
+      target: ${BUILD_TARGET}
+      args:
+        NODEJS_IMAGE: ${REGISTRY}${COMPOSE_PROJECT_NAME}-nodejs:${VERSION:-latest}
+    volumes:
+      - ..\..\src\rendering:C:\app
+    environment:
+      PUBLIC_URL: "https://${RENDERING_HOST}"
+      NEXTJS_DIST_DIR: ".next-container"
+      JSS_EDITING_SECRET: ${JSS_EDITING_SECRET}
+      SITECORE_API_HOST: "http://cm"
+    depends_on:
+      - cm
+      - nodejs
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.middlewares.force-STS-Header.headers.forceSTSHeader=true"
+      - "traefik.http.middlewares.force-STS-Header.headers.stsSeconds=31536000"
+      - "traefik.http.routers.rendering-secure.entrypoints=websecure"
+      - "traefik.http.routers.rendering-secure.rule=Host(`${RENDERING_HOST}`)"
+      - "traefik.http.routers.rendering-secure.tls=true"
+      - "traefik.http.routers.rendering-secure.middlewares=force-STS-Header"
+
+  traefik:
+    depends_on:
+      - rendering
+
+  cm:
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-xmcloud-cm:${SITECORE_VERSION}
+    build:
+      context: ../../docker/build/cm
+      args:
+        BASE_IMAGE: ${SITECORE_DOCKER_REGISTRY}sitecore-xmcloud-cm:${SITECORE_VERSION}
+        SOLUTION_IMAGE: ${REGISTRY}${COMPOSE_PROJECT_NAME}-solution:${VERSION:-latest}
+        TOOLS_ASSETS_IMAGE: ${SITECORE_TOOLS_REGISTRY}sitecore-docker-tools-assets:${TOOLS_VERSION}
+    depends_on:
+      - solution

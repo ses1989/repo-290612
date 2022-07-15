@@ -1,0 +1,11 @@
+{
+    "namespace": "TestXmCloud-metadata",
+    "items": {
+        "includes": [
+            {
+                "name": "metadata-templates",
+                "path": "/sitecore/templates/Foundation/Metadata"
+            }
+        ]
+    }
+}

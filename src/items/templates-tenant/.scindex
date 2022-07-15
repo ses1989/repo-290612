@@ -1,0 +1,181 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Headless Site.yml
+ID: "3a4b2470-e6fc-40e0-b449-37a3adbc6ace"
+Parent: "8e1b11cc-91c1-497c-92ab-4df69006b1bf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Tenant/Headless Site
+Signature: F2zGMpf/djzmGxtSfuNbKwU1YjF/in7655A6ZGQL+7A=
+Modified: 637855358438796407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\App Route.yml
+ID: "76d97745-5041-43df-b5bd-b30efad7eb97"
+Parent: "8e1b11cc-91c1-497c-92ab-4df69006b1bf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Tenant/App Route
+Signature: Am5Z31UiKd/DJ0zlAdD2SZ017UVpkNQuDoNPqytcZFg=
+Modified: 637855358438776411
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Partial Design Folder.yml
+ID: "4d4ec105-716f-4a5e-b3c3-4798e94d3ed8"
+Parent: "8e1b11cc-91c1-497c-92ab-4df69006b1bf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Tenant/Partial Design Folder
+Signature: nX4XzAXoNFnnv/decVUwoeMNqnBeFfsg5sbQOAriOIE=
+Modified: 637855358438866393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Page Designs.yml
+ID: "87771bf8-78aa-4e1b-8b41-bab4b1b616d1"
+Parent: "8e1b11cc-91c1-497c-92ab-4df69006b1bf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Tenant/Page Designs
+Signature: t3k8icPnuXhu0X+iHX3p9T244MIAN1OeOK0f7pjqGyQ=
+Modified: 637855358438846408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Headless Tenant\__Standard Values.yml
+ID: "a154156e-920f-4c02-8e6b-0791a523b7a2"
+Parent: "bb7b96cc-62e2-4850-872c-6905906daf0b"
+Template: "bb7b96cc-62e2-4850-872c-6905906daf0b"
+Path: /sitecore/templates/Project/Tenant/Headless Tenant/__Standard Values
+Signature: 4bD3q6FQDrz0h6R0WMae7Mji7DJrC2OHdqqAhWIdLXc=
+Modified: 637855358438986405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Partial Designs.yml
+ID: "ae38a714-3346-4ab1-8f5c-4a9875d049f3"
+Parent: "8e1b11cc-91c1-497c-92ab-4df69006b1bf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Tenant/Partial Designs
+Signature: gMJPA3jasHYDyRvpt59A+w3kO7Osml3wO/puTfXP68g=
+Modified: 637855358438876393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Partial Designs\__Standard Values.yml
+ID: "a16f8af5-9b4e-44b3-ae7c-2e9dbfc12088"
+Parent: "ae38a714-3346-4ab1-8f5c-4a9875d049f3"
+Template: "ae38a714-3346-4ab1-8f5c-4a9875d049f3"
+Path: /sitecore/templates/Project/Tenant/Partial Designs/__Standard Values
+Signature: pFkt48MkWg+VBqF+gKIaoJHPS8tkdRZeE6QDtf/tu1s=
+Modified: 637855358439126408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Page Design Folder\__Standard Values.yml
+ID: "c7899d01-3871-449e-b6a8-d6a0887e7051"
+Parent: "22f81f5f-6052-4597-a0f4-f99607bebd7a"
+Template: "22f81f5f-6052-4597-a0f4-f99607bebd7a"
+Path: /sitecore/templates/Project/Tenant/Page Design Folder/__Standard Values
+Signature: PoleNN4WqHR+HLQ8u3TTOqEJ3FQvFk/AsCRPcTEctjs=
+Modified: 637855358439026396
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant.yml
+ID: "8e1b11cc-91c1-497c-92ab-4df69006b1bf"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Tenant
+Signature: QaDwWXea5pksijlwX0cr32tYTxOD7DrmLytUBNYQKfs=
+Modified: 637855358438766392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Page Design Folder.yml
+ID: "22f81f5f-6052-4597-a0f4-f99607bebd7a"
+Parent: "8e1b11cc-91c1-497c-92ab-4df69006b1bf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Tenant/Page Design Folder
+Signature: W+8FS2nKfPJSO8qW5LTZ+T4Gkl0Be64EYectT4qEoMw=
+Modified: 637855358438826386
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\App Route\__Standard Values.yml
+ID: "62e41e9c-0e43-4944-9949-f07a5ec2d017"
+Parent: "76d97745-5041-43df-b5bd-b30efad7eb97"
+Template: "76d97745-5041-43df-b5bd-b30efad7eb97"
+Path: /sitecore/templates/Project/Tenant/App Route/__Standard Values
+Signature: tSKKirgwsvZAG1kyOLIfyVC90leEF1dt0wHd8d2hShw=
+Modified: 637855358438946399
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\JSS Settings\__Standard Values.yml
+ID: "72d6a636-c4ec-4418-aa46-67d91c22be03"
+Parent: "6c6fe3cc-7b5f-4b25-9d04-9486a10c8257"
+Template: "6c6fe3cc-7b5f-4b25-9d04-9486a10c8257"
+Path: /sitecore/templates/Project/Tenant/JSS Settings/__Standard Values
+Signature: erWvLNLx2sjPwosVFWM8xwA4EWJdyvI7XPmkKCY6SOw=
+Modified: 637855358439006393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\App Route\Content\Content.yml
+ID: "ba75c055-5025-40e3-9bba-4650bc0840e1"
+Parent: "2fe16b01-b1ec-4f36-b1e4-4f71db0e5ec2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Tenant/App Route/Content/Content
+Signature: u9rdnJJ1kOc8CxDE+RftROm6MHMT0Pn6PgSy6aeHC6g=
+Modified: 637855358438936392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Headless Tenant.yml
+ID: "bb7b96cc-62e2-4850-872c-6905906daf0b"
+Parent: "8e1b11cc-91c1-497c-92ab-4df69006b1bf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Tenant/Headless Tenant
+Signature: IqqP2k/wzkuTYnjCs4ZExDYpENtWxt6avTy/w8pQrf4=
+Modified: 637855358438806398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\JSS Settings.yml
+ID: "6c6fe3cc-7b5f-4b25-9d04-9486a10c8257"
+Parent: "8e1b11cc-91c1-497c-92ab-4df69006b1bf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Tenant/JSS Settings
+Signature: ABOkBXzaSr4xwDx6/z9YX/ukNqb/JTV79R3q9+mHkms=
+Modified: 637855358438816386
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Headless Site\__Standard Values.yml
+ID: "58c2e525-5b7d-482b-8e80-013c8571eb32"
+Parent: "3a4b2470-e6fc-40e0-b449-37a3adbc6ace"
+Template: "3a4b2470-e6fc-40e0-b449-37a3adbc6ace"
+Path: /sitecore/templates/Project/Tenant/Headless Site/__Standard Values
+Signature: IL6BmP0r9FxzwsLsUHtHUcU1RGAlWgSV9uOGjtxwJfg=
+Modified: 637855358438966400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\App Route\Content.yml
+ID: "2fe16b01-b1ec-4f36-b1e4-4f71db0e5ec2"
+Parent: "76d97745-5041-43df-b5bd-b30efad7eb97"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Tenant/App Route/Content
+Signature: Ehtaos+zACnYdQLhEDRmSIOwVDNDrRV2pyVTSDDuk+o=
+Modified: 637855358438896405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Partial Design Folder\__Standard Values.yml
+ID: "7a15e12e-ca54-44d9-8df9-f02a586d2896"
+Parent: "4d4ec105-716f-4a5e-b3c3-4798e94d3ed8"
+Template: "4d4ec105-716f-4a5e-b3c3-4798e94d3ed8"
+Path: /sitecore/templates/Project/Tenant/Partial Design Folder/__Standard Values
+Signature: JVHIl64YjAiWf5W20hF2OZuMulBd+P2SeilQHn9DFAk=
+Modified: 637855358439096397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\Page Designs\__Standard Values.yml
+ID: "9722ca54-6670-4348-bbe4-be0957409042"
+Parent: "87771bf8-78aa-4e1b-8b41-bab4b1b616d1"
+Template: "87771bf8-78aa-4e1b-8b41-bab4b1b616d1"
+Path: /sitecore/templates/Project/Tenant/Page Designs/__Standard Values
+Signature: bM0OmT24FtWSYkk5yxPyeWpBL4b8O369Cd9CjJXAsnI=
+Modified: 637855358439046391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\templates-tenant\Tenant\App Route\Content\Title.yml
+ID: "d61b3a1c-c454-4cda-9224-cf078266bb40"
+Parent: "2fe16b01-b1ec-4f36-b1e4-4f71db0e5ec2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Tenant/App Route/Content/Title
+Signature: mjKPCAF1y3obnTSnPZ8yK93RUuxE4r6s1SSTfsi6Rk8=
+Modified: 637855358438916405

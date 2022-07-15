@@ -1,0 +1,28 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\multisite-templates\Multisite.yml
+ID: "192ce527-264e-4a44-b1db-1a48b835de13"
+Parent: "b26bd035-8d0a-4df3-8f67-2de3c7fdd74a"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Multisite
+Signature: qaEquswAO7Hi9H//zRp1cy+hUl472XAPwK/XpyQ7NB0=
+Modified: 637855358437686405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\multisite-templates\Multisite\Site.yml
+ID: "900e9c29-7afa-4aa7-95c8-f98584ba618e"
+Parent: "192ce527-264e-4a44-b1db-1a48b835de13"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Multisite/Site
+Signature: frmif7bedKWkjlwQtrmZ4/RJVW9jgGuXhvvQhTDWLg4=
+Modified: 637855358437776378
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\multisite-templates\Multisite\Site\__Standard Values.yml
+ID: "363823bc-0bc0-41d1-b543-35eff2f3905a"
+Parent: "900e9c29-7afa-4aa7-95c8-f98584ba618e"
+Template: "900e9c29-7afa-4aa7-95c8-f98584ba618e"
+Path: /sitecore/templates/Foundation/Multisite/Site/__Standard Values
+Signature: J2oebnyMHq6SNvDp86ujcjU5scIp8PGlirG4YXiD08w=
+Modified: 637855358437806388

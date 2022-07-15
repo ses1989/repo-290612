@@ -1,0 +1,10 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\hello-resolver\Hello Resolver.yml
+ID: "09f32d0b-4520-4ab1-aac8-84a690275d8a"
+Parent: "c626493f-1cc3-4986-a701-f28b83d649f7"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Hello Resolver
+Signature: TlX/XQp9BlHJZNGrfjn1na9axEgVY8CXzuOZbYQAV/Q=
+Modified: 637855358437606450

@@ -1,0 +1,77 @@
+﻿---
+ID: "710d918a-1f4d-50ee-971d-4b627c3944be"
+Parent: "23b68596-59e1-51b3-9386-7d80e7585a76"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: /sitecore/content/Tenant/TestXmCloud/home/Page Components/ContentBlock
+Languages:
+- Language: "da-DK"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210512T185316Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c26c316-cef3-4725-a4f9-70f8db6d635b"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Her er en <a href="~/link.aspx?_id=8601EF21436A48A08B67A7FCCBBC5125&amp;_z=z">link til Multi webstedets startside</a>.</p>
+        <p>Mattis pellentesque id nibh tortor id. Vitae aliquet nec ullamcorper sit amet risus nullam. Urna neque viverra justo nec ultrices dui sapien eget. Morbi tempus iaculis urna id volutpat lacus laoreet non. Commodo odio aenean sed adipiscing diam. Consequat semper viverra nam libero justo. Amet consectetur adipiscing elit ut aliquam. Neque laoreet suspendisse interdum consectetur libero. Leo a diam sollicitudin tempor id. Orci ac auctor augue mauris augue neque gravida in. Non sodales neque sodales ut etiam sit. Tellus integer feugiat scelerisque varius morbi. Diam maecenas sed enim ut sem. Id aliquet lectus proin nibh nisl condimentum id.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Velkommen til E2E TestXmCloud
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210512T215605Z
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210414T184833Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc15ed34-6771-44b5-82db-f8651713297b"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Here is a <a data-e2e-id="cross-site" href="~/link.aspx?_id=8601EF21436A48A08B67A7FCCBBC5125&amp;_z=z">link to the Multi site home page</a>.</p>
+        <p>Here is a <a data-e2e-id="same-site" href="~/link.aspx?_id=B98B5E01CB9C4852B0FF88B5CFB22488&amp;_z=z">link to the TestXmCloud site products page</a>.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Welcome to E2E TestXmCloud
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210513T182824Z

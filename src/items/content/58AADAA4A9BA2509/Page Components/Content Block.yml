@@ -1,0 +1,32 @@
+﻿---
+ID: "e9f9a5c2-c2ef-4614-9538-ed830ad1d547"
+Parent: "fff49a27-1e8e-4cab-8b01-25167e9637c3"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Inceptos-ac-varius-magna/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222016Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6e8a2c3-302b-4e52-b187-a777fb3c2c4a"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum tellus vulputate leo dui suscipit donec aenean etiam porta, praesent adipiscing morbi sagittis mauris orci integer nibh platea, rutrum massa adipiscing himenaeos gravida etiam ultrices justo interdum.</p>
+        <p>Curae primis tincidunt risus integer ligula blandit, eget dapibus morbi mi at mattis, nunc malesuada tincidunt cubilia class amet inceptos pharetra hac aenean nibh lobortis rutrum placerat.</p>
+        <p>Senectus habitant auctor molestie cursus dictumst suspendisse per non porta, litora tincidunt lorem class sit tincidunt inceptos.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Inceptos ac varius magna
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222017Z

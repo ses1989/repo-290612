@@ -1,0 +1,37 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\languages\Languages\da-DK.yml
+ID: "cc465a08-dc1f-47d0-90ab-d573fccd7a2b"
+Parent: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
+Template: "f68f13a6-3395-426a-b9a1-fa2dc60d94eb"
+Path: "/sitecore/system/Languages/da-DK"
+Signature: 63u0JgQP0VJrp3bEmgb0HB0XgDNT7OkhP41yFLXl/ss=
+Modified: 637855358438316418
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\languages\Languages\en-GB.yml
+ID: "ce7e44c3-f3a2-475e-9afd-3bda4a249e23"
+Parent: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
+Template: "f68f13a6-3395-426a-b9a1-fa2dc60d94eb"
+Path: "/sitecore/system/Languages/en-GB"
+Signature: iJYPPRK6nR/o2AJq+dzzZnPsQjgu/UapoAk0Vg/grYg=
+Modified: 637855358438326393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\languages\Languages.yml
+ID: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
+Parent: "13d6d6c6-c50b-4bbd-b331-2b04f1a58f21"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/system/Languages
+Signature: zILdQ2LKsMnLBag1NQxFwiNvoQPW/KxU312ViHwbypU=
+Modified: 637855358438296382
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\languages\Languages\fr-FR.yml
+ID: "169da386-bb78-451a-abfd-28d1928dfbb3"
+Parent: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
+Template: "f68f13a6-3395-426a-b9a1-fa2dc60d94eb"
+Path: "/sitecore/system/Languages/fr-FR"
+Signature: oZPy5VqlkPpaaPUOKfFmeLrn62nAKcm43+8MVD0zosc=
+Modified: 637855358438346400

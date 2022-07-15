@@ -1,0 +1,32 @@
+﻿---
+ID: "decaa350-10dd-4803-ac72-ffaa2afdd307"
+Parent: "746ef7d3-1416-4b29-afb7-09ca5080285b"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nunc-nostra/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222043Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a8ca2ee-ca5f-4baa-8b90-07c2d9cd9717"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum congue lorem urna pharetra ligula ornare class at lorem litora etiam quam turpis felis, orci lectus imperdiet magna leo elementum ante sagittis ante taciti massa per convallis aenean.</p>
+        <p>Lobortis arcu ipsum bibendum netus nunc aptent dapibus bibendum, sit dolor in suspendisse felis porta faucibus, imperdiet duis hac tortor vehicula dictum posuere nullam eleifend ipsum diam faucibus sagittis inceptos ut integer risus, quisque pulvinar mi diam vitae potenti aliquet suspendisse, ornare senectus eleifend pharetra maecenas sollicitudin habitant aliquet.</p>
+        <p>Dictumst dolor nam urna nibh est molestie libero, nostra sociosqu ad potenti vitae at, ac pharetra maecenas pharetra ut praesent.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Nunc nostra
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222044Z

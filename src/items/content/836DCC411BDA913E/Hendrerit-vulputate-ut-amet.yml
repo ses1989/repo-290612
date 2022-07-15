@@ -1,0 +1,63 @@
+﻿---
+ID: "b9e07a5a-f4d0-4176-b157-8762f72c8ae2"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Hendrerit-vulputate-ut-amet"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23f42f5e-645c-4a72-9c61-79db1a331e64"
+      Hint: Image
+      Value: |
+        <image mediaid="{089BB547-8380-425B-8122-E7F5181707A7}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210506T200812Z
+    - ID: "2c2c386c-17c7-44c3-8796-3e720ba08079"
+      Hint: Features
+      Value: |
+        <ul>
+        <li>Nec metus velit</li>
+        <li>Est id tincidunt</li>
+        <li>Curabitur placerat volutpat</li>
+        </ul>
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Hendrerit vulputate ut amet
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Hendrerit vulputate ut amet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7dce4de-d384-42d9-9d88-30999d9723d2"
+    - ID: "9977fbe7-a0ff-475c-9a7c-ecb81c7f51cf"
+      Hint: Price
+      Value: 19.99
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be500a38-36a0-417b-86c5-e63ba71d0939"
+      Hint: Title
+      Value: Hendrerit vulputate ut amet
+    - ID: "be7e2d00-e405-4498-85f9-4f89d8ea2cfc"
+      Hint: ShortDescription
+      Value: Est ornare volutpat dui augue habitant nec
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210506T200812Z
+    - ID: "fc7c99d4-7301-44eb-908c-bf4ffca5a131"
+      Hint: RelatedProducts
+      Value: |
+        {D9DB0033-333E-48CB-99B4-62DA31FF929A}
+        {E0490F69-33C3-417D-8732-8B8B1D137E0B}
+        {578A239C-44B3-46ED-B5A7-39B67197BDEE}
+        {521A7ABD-315E-4A83-9907-2F7E3D35C55C}
+        {A8CCA5C3-118F-4FED-BC03-1F206623E5C7}
+        {4F2883EF-0D97-434E-9DF4-0E716239A2E5}

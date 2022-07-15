@@ -1,0 +1,73 @@
+﻿---
+ID: "6704da9a-192b-425f-8bbd-7d4b909b585f"
+Parent: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: /sitecore/templates/Project/TestXmCloud/Page Types/Product Detail Page/__Standard Values
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{8EDCB8E4-553C-404D-8E42-74D8CA9246CC}">
+        <p
+          uid="{530E4D44-6DBB-4F71-A1B9-8A0D3C42B671}"
+          key="TestXmCloud-main"
+          md="{8A78655D-27F7-4DDE-BDBA-96EC95FB8156}" />
+        <r
+          id="{AF0D28F1-B659-4392-8FCF-E250DF527FA3}"
+          ph="TestXmCloud-header"
+          uid="{473B46A1-EC1B-4352-ADF7-F21853E07DAA}" />
+        <r
+          id="{CC7BA644-7B5B-4092-A4F2-E82ED84289B2}"
+          ph="TestXmCloud-header"
+          uid="{23ABA807-F46F-42F5-948B-59D901FF4C5F}" />
+        <r
+          id="{C2260F8E-922F-4922-97D7-1866B367F81F}"
+          ph="TestXmCloud-header"
+          uid="{523902EE-669E-4F11-B8FC-EF4552178B64}" />
+        <r
+          id="{4F577938-E122-432E-B95A-8FDD1F0A3691}"
+          ph="TestXmCloud-main"
+          uid="{619CAF4E-E4F0-4400-9C7B-B2E0E3281518}" />
+        <r
+          id="{165B981E-0814-40DB-8394-85C3128D9595}"
+          ph="TestXmCloud-main"
+          uid="{0583BFAC-C584-49BC-95F9-14662B3BC41F}" />
+        <r
+          id="{3D321DFB-ADF6-4E16-AEEE-20494ACBF1E5}"
+          ph="TestXmCloud-main"
+          uid="{965789E3-066F-4A17-936C-4C799D4B8945}" />
+      </d>
+    </r>
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210504T212238Z
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b34d6594-b0b6-49f0-93e1-9a46fc32afda"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be500a38-36a0-417b-86c5-e63ba71d0939"
+      Hint: Title
+      Value: $name
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T064756Z

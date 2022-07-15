@@ -1,0 +1,2728 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\11499A5EB9E32CC1\Page Components.yml
+ID: "60ce8042-b6a3-410f-8da2-69d8a971593a"
+Parent: "e9cd1cc9-e47f-460e-ba42-08d2811d95da"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Erat-tristique-gravida-dapibus/Page Components"
+Signature: HxRG3Txt2hJGLfh97LOEwiftCQln4kll3FmUAahE2mQ=
+Modified: 637855358442246395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\3599A01CE44F25B6\Content Block.yml
+ID: "e5f57e8a-71fd-4ed8-bdb0-77cdaa067730"
+Parent: "807aa269-4bb6-49a3-9f26-4fe921890e2e"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Porta-nec/Page Components/Content Block"
+Signature: 2yUSP5m+Zo2TTHk3fFnKs5UD5cVafeSqlbTmcZvO4Ns=
+Modified: 637855358443736413
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant.yml
+ID: "519f19d9-8d4a-46a5-9cd8-b49d9121beb7"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "bb7b96cc-62e2-4850-872c-6905906daf0b"
+Path: /sitecore/content/Tenant
+Signature: l9cTKjDPu3sq3CDSfrpfWVnC0sCLSeVWjEETDqy/w6Y=
+Modified: 637855358439296404
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\15C6CC9EE5AFC0FA\Page Components.yml
+ID: "4a5f4399-35ab-4a13-8d2c-5719abc9cf26"
+Parent: "a5f2958d-45d4-4d0b-be32-234ad69786de"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Semper-vivamus-massa/Page Components"
+Signature: vuFQFfVXuhdivXCSId6m0y+OCFKPyvOJoUXJP/F1Ufw=
+Modified: 637855358442776392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\380C530D2EB67541\Content Block.yml
+ID: "50f5870f-99ff-4748-aac0-d0ed6c79092f"
+Parent: "d5ef7d1e-7896-4072-8c04-3a93e1885a06"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Felis-tristique/Page Components/Content Block"
+Signature: BmmVi4p2K9jWTs4xh/DTmQEMwhYKxp7DA+FvH0Y8Yro=
+Modified: 637855358443406413
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\37DE5293AABDC813\Page Components.yml
+ID: "6fb6ae1b-58d3-4fcf-97b4-a126f14d67ee"
+Parent: "a1f42015-a783-4806-a8a1-7d5810d006b3"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Dui-facilisis-faucibus-mattis/Page Components"
+Signature: r0aIsVoYAR0WxeeRLhwomS81aXSHnxm5Z+mzu3Kk47U=
+Modified: 637855358442196403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\3E3928E3AFC635F6\Content Block.yml
+ID: "7bd0c0d5-5d63-4541-89ef-e1b5fc60fef6"
+Parent: "cea1ae4e-5f66-4c69-8b8e-9e178f5245d1"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Gravida-litora/Page Components/Content Block"
+Signature: YQecaRWzfvVD33MrmJd7g7Vm75y/PuyjhZeoZL22M4Q=
+Modified: 637855358443446397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\4702E0FD52D307DC\Content Block.yml
+ID: "ccbbfb1d-9925-4106-b748-bf2dccd5a407"
+Parent: "989373bd-1ec4-462f-ad92-801d16f05231"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-faucibus/Page Components/Content Block"
+Signature: JIPKfbhFeWGpHy3ScCJB38rE4upsEjeHYP+hvRA+53k=
+Modified: 637855358443796423
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\4604A648F99D51F8\Page Components.yml
+ID: "82d778e4-814e-4160-baa3-93e8120205c9"
+Parent: "979644ae-0e81-4a14-a1e1-f0d9e3bc2b9e"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Sapien-in-taciti-urna/Page Components"
+Signature: U1pQStjku37c3v+0BK+6rTOh+d/GXgJY7Nq9Wf/k/ho=
+Modified: 637855358442756407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\576DAF00C7274ACA\Content Block.yml
+ID: "c4c1ee7e-cce7-491e-b69a-6bce2914c194"
+Parent: "7073ff99-18ce-4674-beca-6207fe2d727a"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Hac-odio/Page Components/Content Block"
+Signature: s4LjwSBoEQQwfFo4oteo6AK8a5qRGnlM3nEG6rf/aQI=
+Modified: 637855358443456390
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\5B29D61AC88EF899\Page Components.yml
+ID: "51951242-1d3f-434b-bdad-5cd0e3854563"
+Parent: "69904597-6130-41ea-8551-81211ef39b33"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Proin-quisque-per-litora/Page Components"
+Signature: aRGt0m/3Z+EJxxS1ije9wuw9MUsbcxrSZUyN0U79IIw=
+Modified: 637855358442696396
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\58C2EC47518465D1\Content Block.yml
+ID: "2740a3a9-eb3d-4e81-ba4f-0ad2566db92a"
+Parent: "39fd68aa-44bb-4dce-9109-684c830b2229"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Per-vel-libero/Page Components/Content Block"
+Signature: K2qQisadCGGdSNhzhhJadvvWSGgNd1MR3JCh1oBOsHQ=
+Modified: 637855358443686432
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\5E15D875C6656A5D\Content Block.yml
+ID: "d310e521-56d1-4dba-98ed-aa2efff70fb8"
+Parent: "e2cf70da-5fe3-4759-b018-103a490cdd52"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fames-elit/Page Components/Content Block"
+Signature: GFo5VyFkvMPVgbP/SYFaRWXJn5wW62fjwLc+yJRpj7Y=
+Modified: 637855358443366422
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\718DBDDE8180A466\Content Block.yml
+ID: "decaa350-10dd-4803-ac72-ffaa2afdd307"
+Parent: "746ef7d3-1416-4b29-afb7-09ca5080285b"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nunc-nostra/Page Components/Content Block"
+Signature: o2U1IHIQt/+i7tQ1pFCbs8T/C3RMho0He/kErfVSxm0=
+Modified: 637855358443616432
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\69F8474B63183B36\Page Components.yml
+ID: "3333f062-f536-4912-92de-70e0029abc94"
+Parent: "3fe75278-c439-4f4e-814b-c92f9e20593f"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Odio-quisque-habitasse/Page Components"
+Signature: rHie+M5ZpUW0mYq4ysVcSjO4EcHqndHCiIENITbUNjs=
+Modified: 637855358442566402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7450C5CAFBE22F77\Page Components.yml
+ID: "930ece92-1277-4e8a-b67c-8ef304b51aae"
+Parent: "5e2126e0-417a-4de1-a489-f7e3cf646167"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-ullamcorper/Page Components"
+Signature: ibULvUjyylyrv8Rg4pwsOJ8CXte4a3qSg2Mr02cAcOY=
+Modified: 637855358442736397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7D8DFB7D344350B7\Page Components.yml
+ID: "d32ffe50-5c23-478e-ba66-37c65d07d583"
+Parent: "316dc6d1-4287-4806-ba72-86ee95f3b991"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Senectus-enim-nec/Page Components"
+Signature: 0//1HVIA6GtftoY/Lk8SxML7LKtMWwnE0XMSaSMUeAk=
+Modified: 637855358442796400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7B9A307BA26F654A\Page Components.yml
+ID: "e471c13d-6a82-491c-8e10-56e82b5fd54f"
+Parent: "85728574-b9d1-42b0-9870-fbe7d507724e"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Pellentesque-massa-erat/Page Components"
+Signature: 2AI2egZ8s6b4K9saZfcOhD+dfJH63cXnlHPh7OcXlEM=
+Modified: 637855358442576419
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7B19D1DD9544ED73\Page Components.yml
+ID: "30b5fb50-d32e-4932-b9ce-285782d8183f"
+Parent: "8eb4b4d4-b0d5-4b85-9710-19397309804c"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Velit-odio-praesent-per/Page Components"
+Signature: HtgKT+aPBzZixaUP0VepVn0jjLJb0OY8NtXcj3XsRMw=
+Modified: 637855358442876405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Hendrerit-vulputate-ut-amet.yml
+ID: "b9e07a5a-f4d0-4176-b157-8762f72c8ae2"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Hendrerit-vulputate-ut-amet"
+Signature: 3H5S58jcXfO/66w8kDEl/pGBPYpJ6hAca9wlQEv6BG4=
+Modified: 637855358444396410
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Id-tortor-vulputate.yml
+ID: "492f5761-8ae4-4a6e-9b26-3bd87ac2ba7e"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Id-tortor-vulputate"
+Signature: 5R2iBv5gxBxXtRDjSuedwCwltwJOxfEy+zOn/GPgYUQ=
+Modified: 637855358444406420
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Hendrerit-eleifend.yml
+ID: "9487f2b5-d44b-4c2f-bde8-678747b29229"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Hendrerit-eleifend"
+Signature: VRZueu/PWXqa16e2I1X61bjnkDkIklIV6tiEIJOSOrc=
+Modified: 637855358444386420
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Orci-proin-est-dui.yml
+ID: "25ee9446-f72f-46f9-924a-6ec879245c93"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Orci-proin-est-dui"
+Signature: /gEaHlxDUdtheGVbs5P2u/g+YnOGFyKBTQFWJcpOy6o=
+Modified: 637855358444536418
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Venenatis-potenti-platea.yml
+ID: "c9987b5d-f501-4d8c-9f76-eaa4eef14191"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Venenatis-potenti-platea"
+Signature: PZy1KHG+NXd4Vt6RWJqgt/K806S3AeZQnXCgjK839sc=
+Modified: 637855358444606424
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Non-rutrum-leo-enim.yml
+ID: "6bc5ad71-be47-4948-a00b-2ede4d80ffa2"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Non-rutrum-leo-enim"
+Signature: onRxcyRvkOwu9FGdM5d8DXCzTum8ClGAEr1g1a8kVE0=
+Modified: 637855358444496421
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\8CB7D7370A4D80B5\Page Components.yml
+ID: "cb13f3de-0778-4633-9048-3425f15cffa2"
+Parent: "9109e719-ba8d-459d-a171-2aa61a929467"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fusce-aenean-primis-placerat/Page Components"
+Signature: 7zRfeAaHDjZDZPl+qS4rkEBwbW/bGIrojTCSkyINdzk=
+Modified: 637855358442336395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\CA0CCE682A01AF50\Page Components.yml
+ID: "9153b8e9-3446-4025-8901-919c86572369"
+Parent: "dab8844d-5f74-40ac-83bc-99a5fb1edb4d"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Dictum-cursus-commodo-posuere/Page Components"
+Signature: Q/Hp4R6840TDoJc54SsoejDP/SQuJgJtTRwbY73uu+I=
+Modified: 637855358442176406
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Nostra-est-placerat-ante.yml
+ID: "a8cca5c3-118f-4fed-bc03-1f206623e5c7"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Nostra-est-placerat-ante"
+Signature: z9oXj1A69VXkSB/jDUH+e3xis82lPpsapy1b8+A6ars=
+Modified: 637855358444516409
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\8F8513100012EE89\Page Components.yml
+ID: "1d77bb11-a59e-4177-ae39-4d8a638afcf7"
+Parent: "c3522d55-23b8-4086-bf2d-e37a21e4d342"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-fermentum/Page Components"
+Signature: QElAO3tzZzIOMOypm3fZS1d7W/FYMX/sYySBVBltNvg=
+Modified: 637855358442646395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\CEB86249A07691AA\Page Components.yml
+ID: "f5d8719c-0c62-436d-991b-3b678c98bbbd"
+Parent: "aeaf4756-5aa2-4f70-9749-d771257f89b1"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Molestie-dui-himenaeos/Page Components"
+Signature: RqP6DzFGvyGrXbs2aH0zETcpjm5GR6u7YojrhA5qpkg=
+Modified: 637855358442486396
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\9364149BB4DABF07\Page Components.yml
+ID: "eba81962-e3d3-4952-acd8-44a42c87648b"
+Parent: "c6c30ab8-a503-4075-8161-cd918dcb936d"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-fusce-sociosqu-ad/Page Components"
+Signature: 6uEjPuI+b7gw/WgbiSMMniRNMDgFcMbyZMIUqWSaUvw=
+Modified: 637855358442726402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\D31FBD41D8035A0E\Page Components.yml
+ID: "b63f0771-86a6-412b-ab0f-1ffbd1afaa60"
+Parent: "4e71a5e0-b219-450c-9b87-42a3192317ad"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Accumsan-himenaeos/Page Components"
+Signature: 5HgwyAk9+sMlK+0fJAypqS7tKXQXVDj8Ij+fryPZ8JE=
+Modified: 637855358442066403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\E9262F0065F3C6FF\Morning.yml
+ID: "e9e81c77-4d8f-4129-a8df-30510b03ec49"
+Parent: "04343c36-802b-445c-9370-83de7b768e32"
+Template: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/ContentsResolverTabs/Morning
+Signature: MPEvk+nodpNx4KS6DqDItlyVm2msDdmo7KlOXX4ci8o=
+Modified: 637855358444076427
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\962AA0E5F2A2D85E\Content Block.yml
+ID: "db088a06-9073-40b5-bdc2-2e5052c74995"
+Parent: "47e49620-ad33-40e1-bf0e-e76c04aa3832"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ut-enim-cursus/Page Components/Content Block"
+Signature: 5yqoSXiqfwqMJqYaK68m7b1pNmeWPp0l3QLHVeVWNl4=
+Modified: 637855358443976415
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\D403E33470E72AC5\Content Block.yml
+ID: "f91bd804-1e33-4633-9291-efa6e91f51bc"
+Parent: "68b240ab-c86c-4044-9b6c-c04e885e615f"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Sit-blandit-mi/Page Components/Content Block"
+Signature: 0vTXSifDgBNs8ckhJ8WHljsnpyhe+VYliRFsEVkKK1o=
+Modified: 637855358443916431
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\EFA06B573E5B7E30\Page Components.yml
+ID: "bc6d6434-f475-4981-bdea-c658adab3e2b"
+Parent: "20cb50f9-88bb-4137-ae64-80c64dcdd14f"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nam-tincidunt-sem-hendrerit/Page Components"
+Signature: 3H7iNTpNd9fl+kMA+PiBQ0uZ0+AYc+KwyOt/N+w/CDs=
+Modified: 637855358442506395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\D4F19F72A7D65BC3\Page Components.yml
+ID: "b4284a05-d671-4a10-89f0-427a767cf3b9"
+Parent: "7d110a3f-4558-4848-8f3a-d318fa486ee9"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Leo-nisl-eget-amet/Page Components"
+Signature: F09NO/1iOGjDag1XC6cFi7i4fKS0SaghXMdbZ90RDtE=
+Modified: 637855358442426398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\F216FFCF3C11A870\Content Block.yml
+ID: "fd127e2b-67bc-4ea3-99db-f9f602d35767"
+Parent: "ea2bbb11-281b-47db-9bac-1bc4eff5476e"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-class/Page Components/Content Block"
+Signature: 8DEX1x0hniq6i/B2zAGeiQh5dfxIYIvxNN8uLzpx4Sw=
+Modified: 637855358443706422
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\15C6CC9EE5AFC0FA\Page Components\Content Block.yml
+ID: "eb82e4f7-65e5-4ab1-b854-850b8a384387"
+Parent: "4a5f4399-35ab-4a13-8d2c-5719abc9cf26"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Semper-vivamus-massa/Page Components/Content Block"
+Signature: aUFKoCKX3VGyTACIZYj1mrQNIuE/ePvSm+9bczOHxD0=
+Modified: 637855358443876429
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\D9068693D6EF0D65\Page Components.yml
+ID: "cad477f1-6166-403e-9be5-f818e9a179c8"
+Parent: "9b06d58f-b987-467f-b5f2-c44dc12df3bd"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Tempus-varius-at-placerat/Page Components"
+Signature: gMErS5lqdrRVgCenUgXR1aAtbG8x7CuK2kxecabJwtg=
+Modified: 637855358442826402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\F7BF624CF5ED0D8B\Page Components.yml
+ID: "a7b2f818-0cf5-4b58-bc02-fc11a54b2db4"
+Parent: "3d3e0fb9-1711-46cb-b3df-e2d561e1e170"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Praesent-ultrices/Page Components"
+Signature: Dd58bjMu7FJ7UZ7pyMV2X+F4XT/a0f5unK6t/1ajHrk=
+Modified: 637855358442676386
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\280B536EBAAC17AE\Page Components\Content Block.yml
+ID: "c9ce3f72-66c3-49d8-8d00-7ecb7c91a090"
+Parent: "bf937fb3-2b15-4dbc-bdda-2a4b0ed51bd8"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Elit-tempor-ut-turpis/Page Components/Content Block"
+Signature: Bynt9RG6I4KvVUdlQRFf5cPbGeWwUunR/xC0xLa6NpI=
+Modified: 637855358443316429
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\F9EE2F5EB0FF5891\Page Components.yml
+ID: "e02925bf-d381-4549-904b-556b0a24ac28"
+Parent: "2290e3cf-8b36-4f22-a9d4-c7ec6b7c99d2"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Amet-imperdiet-suspendisse/Page Components"
+Signature: 8udfVG7XZwLwYRmLkyJ792TY4GwOTINS6kuG976rteM=
+Modified: 637855358442106400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\5C5A5C1C16655386\Page Components\Content Block.yml
+ID: "2ef6a9bd-313d-455e-b4da-75fdcc81300a"
+Parent: "5d0532e1-255e-4d8c-a24c-b3fc8804cd5d"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ac-enim-tristique-sit/Page Components/Content Block"
+Signature: Q1SGDGIN75wyazR9m7eAYaEu7mSxiD1fjq2KKqEsJls=
+Modified: 637855358443196415
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7450C5CAFBE22F77\Page Components\Content Block.yml
+ID: "edbb2a38-f5f2-4e58-9982-728fb5327fdc"
+Parent: "930ece92-1277-4e8a-b67c-8ef304b51aae"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-ullamcorper/Page Components/Content Block"
+Signature: KScuJhkUronKFHKTJs4kfGhdc9C6/Tl5d7eeLCVrGe8=
+Modified: 637855358443836423
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\FCC1961B29C3D64D\Page Components.yml
+ID: "6c3af89a-f893-42c6-a958-b7ecf3100451"
+Parent: "f0a5d148-b708-449a-8cd2-d7d4534ebcd4"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ut-vulputate-neque/Page Components"
+Signature: 7NY611XOD7G04kEnDnUucd/QKMr60vavQ5vF9KxGIHM=
+Modified: 637855358442866391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\5EDFFFBF4EADC09B\Page Components\Content Block.yml
+ID: "509f0a65-8482-494b-a245-147fc52c886b"
+Parent: "75f13892-a171-4a2d-a95f-fc1cf68de71a"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Curabitur-inceptos-nibh/Page Components/Content Block"
+Signature: 8DGeR00GlzXQ4G5DncyX9PAcgK5EpPYDz3f3uT4utJ8=
+Modified: 637855358443266417
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7B19D1DD9544ED73\Page Components\Content Block.yml
+ID: "1e8e9785-a720-48b0-a1b4-79eaf558b20d"
+Parent: "30b5fb50-d32e-4932-b9ce-285782d8183f"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Velit-odio-praesent-per/Page Components/Content Block"
+Signature: sobaTJpezrYHahvoWnn0IGCuXpccgJ38RGgq3VxuNHY=
+Modified: 637855358444016394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud.yml
+ID: "3b49267e-a864-4299-842c-1ea812d59feb"
+Parent: "519f19d9-8d4a-46a5-9cd8-b49d9121beb7"
+Template: "3a4b2470-e6fc-40e0-b449-37a3adbc6ace"
+Path: /sitecore/content/Tenant/TestXmCloud
+Signature: X5XborBg/lnGRDdLMzjz8bldnBwQYSkGsn7VWkNwn6A=
+Modified: 637855358439336404
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\BCAA9EB2D26C9FC9\Page Components\Content Block.yml
+ID: "324eecb0-c3d4-4d0d-bd19-fb8522fefa13"
+Parent: "f65f2cd1-e395-4ce3-b65c-bfa313c36023"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Felis-odio-turpis/Page Components/Content Block"
+Signature: pQyz74kS+qrqo7MIAIZLmBZxdQD/i6iqKtOnzdzzcgg=
+Modified: 637855358443396402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\9364149BB4DABF07\Page Components\Content Block.yml
+ID: "2e04eee4-8bac-4f4c-a2a3-39fb6adb76ec"
+Parent: "eba81962-e3d3-4952-acd8-44a42c87648b"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-fusce-sociosqu-ad/Page Components/Content Block"
+Signature: qYFZAjt7p8lI7CChrFmN4j+yb0h5uGiebj1d5lV9EDU=
+Modified: 637855358443816447
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\06A1E561A275064D\Page Components\Content Block.yml
+ID: "c2f96227-dc80-4a25-8057-d75563a6eab2"
+Parent: "85b9dadb-d615-4d4d-8589-99221bdb0c3f"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Convallis-enim-fermentum/Page Components/Content Block"
+Signature: 8c/A2r6964qBO/BgNHAtbClnOWmvtPSzeE0RB3vPwag=
+Modified: 637855358443246395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\CA0CCE682A01AF50\Page Components\Content Block.yml
+ID: "7bee5fd9-755c-491d-aaad-771c1c1ced1f"
+Parent: "9153b8e9-3446-4025-8901-919c86572369"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Dictum-cursus-commodo-posuere/Page Components/Content Block"
+Signature: 9De7/mzMoW5E3c1UXKltbv/Mv0IC4ybitXndhqW/Xmc=
+Modified: 637855358443286417
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\98A66C98F9106B81\IntegratedGraphQLTabs\August.yml
+ID: "4b96c547-6ae6-477a-a5ee-beee60661a0a"
+Parent: "1745f6c7-9ef9-4492-9e0f-c96dbcbad49a"
+Template: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/IntegratedGraphQLTabs/August
+Signature: y/diy64u+pSm8p9D0AcBOskSHB+wRKSX6YAGeijgPMc=
+Modified: 637855358444156413
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\37DE5293AABDC813\Page Components\Content Block.yml
+ID: "feedd9a4-d7f0-42d5-97cd-578cc669d623"
+Parent: "6fb6ae1b-58d3-4fcf-97b4-a126f14d67ee"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Dui-facilisis-faucibus-mattis/Page Components/Content Block"
+Signature: Q4RPwkwOAwZPVq69UHMujwOQIsK9aHRM6+DgvGhR/Aw=
+Modified: 637855358443306415
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Media.yml
+ID: "32eac74e-1271-4bb4-96ce-6724974b7574"
+Parent: "771ef428-def1-4183-90f6-ef1d6f1ff3f7"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/Tenant/Multi/Media
+Signature: ZzeaKD3AohV/SWy3FPkQS/OCVxeAUKbolR7ovDOyDUo=
+Modified: 637855358439376416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Data.yml
+ID: "aa2b236a-c982-4185-b403-8f0fb29ad035"
+Parent: "771ef428-def1-4183-90f6-ef1d6f1ff3f7"
+Template: "a29d272e-9d48-453c-9e9d-b47585fa7f20"
+Path: /sitecore/content/Tenant/Multi/Data
+Signature: LuIqDrtGYlBV9dkkkR/ZmyuoX9zsGbn3JsC1aIzU5l4=
+Modified: 637855358439386409
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\3D9E59D0FF67D8F8\Page Components\Content Block.yml
+ID: "a9c7fdb1-06f2-4fee-a0b1-de04faef5f3d"
+Parent: "78033d87-f63f-4bfa-bf29-266b6fb9f722"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Viverra-ultricies/Page Components/Content Block"
+Signature: 0d/RIS1fl4B9PAf22G2F9TXBjnvGN2fFR/r6y9G1O6E=
+Modified: 637855358444036394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\multi Dictionary.yml
+ID: "403ef3d7-8535-4adf-843f-97696bacba75"
+Parent: "771ef428-def1-4183-90f6-ef1d6f1ff3f7"
+Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
+Path: /sitecore/content/Tenant/Multi/multi Dictionary
+Signature: q5de5GuXyLujWune4Zdttnk2saYUNhPW3lQECRwYR3E=
+Modified: 637855358439406408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\home.yml
+ID: "8601ef21-436a-48a0-8b67-a7fccbbc5125"
+Parent: "771ef428-def1-4183-90f6-ef1d6f1ff3f7"
+Template: "4e29755e-e894-4294-922f-29d936cce6fe"
+Path: /sitecore/content/Tenant/Multi/home
+Signature: myrevVMdqegobIA9TDYmwqnapgGcsDaJeyHpvyZH+2U=
+Modified: 637855358439356396
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7B9A307BA26F654A\Page Components\Content Block.yml
+ID: "7fc4dd9a-dafc-435d-9016-531456ae6397"
+Parent: "e471c13d-6a82-491c-8e10-56e82b5fd54f"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Pellentesque-massa-erat/Page Components/Content Block"
+Signature: No6BocgarFOspH5l0SiyvjDGenkgaPHaLHsnTT7jduE=
+Modified: 637855358443656401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Data\Promos.yml
+ID: "5d4c9e2a-ed43-407a-946e-7d5c5c4b22fd"
+Parent: "aa2b236a-c982-4185-b403-8f0fb29ad035"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Tenant/Multi/Data/Promos
+Signature: x0Q6hLsrYTSxj8Sr50nIqNXecsxX6agYs4i+C5pmrmM=
+Modified: 637855358439626388
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Data\Link Lists.yml
+ID: "0c4c2865-0477-4d87-b159-e7229c805991"
+Parent: "aa2b236a-c982-4185-b403-8f0fb29ad035"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/Tenant/Multi/Data/Link Lists
+Signature: 8lvj2XYFbKLQ+oA9V3q1AoW1FxYaK2JAIFRk9xYjEyI=
+Modified: 637855358439596405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7D8DFB7D344350B7\Page Components\Content Block.yml
+ID: "80541679-d94a-475e-84ff-1197166344ac"
+Parent: "d32ffe50-5c23-478e-ba66-37c65d07d583"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Senectus-enim-nec/Page Components/Content Block"
+Signature: KZLlkxkv7o8eB6uoVxSD3tiALV3BT5YkVEe6/GRTzbk=
+Modified: 637855358443896425
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Data\Texts.yml
+ID: "57784b7b-81d5-410d-92c8-091f9a66435d"
+Parent: "aa2b236a-c982-4185-b403-8f0fb29ad035"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/content/Tenant/Multi/Data/Texts
+Signature: kcqjQaQeDeGgtQIteriG5xLMkXUpQvD/Kdgl3lkmtro=
+Modified: 637855358439636404
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Data\Navigation Filters.yml
+ID: "ef788c97-7849-42ce-a91a-bcecbd01014f"
+Parent: "aa2b236a-c982-4185-b403-8f0fb29ad035"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Tenant/Multi/Data/Navigation Filters
+Signature: 3PaHfXoDUoqDscLP2K8p2MozaRzoXjDo7ON0cvJjlig=
+Modified: 637855358439606399
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\CEB86249A07691AA\Page Components\Content Block.yml
+ID: "9cdac388-f9ba-4a99-b527-786f49888173"
+Parent: "f5d8719c-0c62-436d-991b-3b678c98bbbd"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Molestie-dui-himenaeos/Page Components/Content Block"
+Signature: y+OwV9NEnnzXEW6cOLM098ZJIdOSrad66EbJWIygA8c=
+Modified: 637855358443556393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Settings\Sitemap.yml
+ID: "a9ccdfe9-2b5e-4521-8062-110bd6149827"
+Parent: "6f4ea3bc-1dda-43b3-af1b-af4a5d31a000"
+Template: "651bcad2-f32d-4cb3-9bd4-db9b895382bf"
+Path: /sitecore/content/Tenant/Multi/Settings/Sitemap
+Signature: DDo21f1TpgqxNTldrH1qUdKoou2bJNhbFUlgQ3Ij+9A=
+Modified: 637855358439866412
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Settings\Shared Sites Settings.yml
+ID: "7a1d5466-3e17-4809-9776-9d1dca7bec14"
+Parent: "6f4ea3bc-1dda-43b3-af1b-af4a5d31a000"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/Tenant/Multi/Settings/Shared Sites Settings
+Signature: 0K5hUhUO2t3kKBmd1NSLwgn+wWDJYQ2TFEWiX80ixP8=
+Modified: 637855358439836420
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\D31FBD41D8035A0E\Page Components\Content Block.yml
+ID: "8fa68456-e097-4633-9994-940838324a71"
+Parent: "b63f0771-86a6-412b-ab0f-1ffbd1afaa60"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Accumsan-himenaeos/Page Components/Content Block"
+Signature: JXVuKsc/wE5222MQwFFWBYV0/fUqu3q85YaF4O5akHY=
+Modified: 637855358443176413
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Shared Content\Accordion Items.yml
+ID: "9d266989-74c9-4ee4-ad7a-6c380809a7c9"
+Parent: "0c6e2d56-5e05-4f98-9424-f6e432d8f53f"
+Template: "8fb2c42c-b950-4be3-b1c6-8ba7f11b2ed8"
+Path: /sitecore/content/Tenant/Multi/Shared Content/Accordion Items
+Signature: fu6OFDaQLDrrSgs8bZrFyNLUtZuuHRFxUbLkz5BZxLw=
+Modified: 637855358439666413
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Settings\Site Grouping.yml
+ID: "57f22bfb-e975-4a68-ae91-23ca35121056"
+Parent: "6f4ea3bc-1dda-43b3-af1b-af4a5d31a000"
+Template: "8357f958-9aaa-46db-8898-36448a96356f"
+Path: /sitecore/content/Tenant/Multi/Settings/Site Grouping
+Signature: ennoUpv7q8SBlWF78SIpZIOK3xmG3j+18a4sqdBJgaI=
+Modified: 637855358439856402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Settings.yml
+ID: "1933b415-6759-48a3-9bfc-2b9d731993fe"
+Parent: "3b49267e-a864-4299-842c-1ea812d59feb"
+Template: "6c6fe3cc-7b5f-4b25-9d04-9486a10c8257"
+Path: /sitecore/content/Tenant/TestXmCloud/Settings
+Signature: k+OgTZPmJ5CYfWqOrhWzHMF1n4AvVLan7sF8CfT5xPM=
+Modified: 637855358439536393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Available Renderings.yml
+ID: "727f77bb-bf31-4042-a941-aab53193948c"
+Parent: "8dcd3f27-7991-447f-a249-f5e66c8b46eb"
+Template: "26ec1d18-11b2-4dd9-8326-f6115f4fd7eb"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Available Renderings
+Signature: 6E2PHDdBKZo46fEMuSrqBUBFBSiP5nlycckqGrwFbLY=
+Modified: 637855358440303929
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Data\Navigation Filters.yml
+ID: "bec7d80d-7ad2-4b52-adf2-5b1768af4b2e"
+Parent: "a44c633c-234a-4eca-aa2d-b0c832486278"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Tenant/TestXmCloud/Data/Navigation Filters
+Signature: 8ZADwXZEGoTXnKw8m2WQX7VTnIzWnVlG3IqBlz9SicI=
+Modified: 637855358440126394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Shared Content.yml
+ID: "a9278512-54c9-4e16-875e-41e808c807ef"
+Parent: "3b49267e-a864-4299-842c-1ea812d59feb"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Tenant/TestXmCloud/Shared Content
+Signature: yjE/5FuKSpmG+7Tm3ada6zFuIWIllsDrgTZRjYdhGsI=
+Modified: 637855358439516442
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants.yml
+ID: "8e5916fa-c8b4-41dc-9272-729143052f47"
+Parent: "8dcd3f27-7991-447f-a249-f5e66c8b46eb"
+Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants
+Signature: xnvZBGJHIpx1G5AydXueOicnSlMKmml1ggUAn9e9tko=
+Modified: 637855358440316395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Data\Promos.yml
+ID: "c6291254-49af-428c-88ed-827fb5b61797"
+Parent: "a44c633c-234a-4eca-aa2d-b0c832486278"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Tenant/TestXmCloud/Data/Promos
+Signature: WL5n6gDtUcfnbbqH9ewN7/0xWiCSaaZfKyInkDaUhf4=
+Modified: 637855358440146407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\6B8FBFBD355868B5\Integer-bibendum-fermentum-congue\Page Components\Content Block.yml
+ID: "210112dd-2829-4407-89b4-2170d473d2e6"
+Parent: "57569500-6260-4584-b700-61d9ed6baf0b"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Integer-bibendum-fermentum-congue/Page Components/Content Block"
+Signature: d2Darn5LgonEwQO84oXWhdOYyk/YYdM54Fm2W25UpKo=
+Modified: 637855358443496421
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Page Designs.yml
+ID: "e04fe3c9-79e6-4fc0-94f3-53bbac339c19"
+Parent: "8dcd3f27-7991-447f-a249-f5e66c8b46eb"
+Template: "87771bf8-78aa-4e1b-8b41-bab4b1b616d1"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Page Designs
+Signature: icklMTrFC7qPhH34ocYh7fOZyn3ksLFB6dufS7Scbh4=
+Modified: 637855358440336395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Data\Texts.yml
+ID: "0a25f3ba-1a65-41ac-9942-7c261f577262"
+Parent: "a44c633c-234a-4eca-aa2d-b0c832486278"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: /sitecore/content/Tenant/TestXmCloud/Data/Texts
+Signature: P/eoMn5OtlF91Sxmh5kZbUJdd9xVlRrOym5qzFEmyPg=
+Modified: 637855358440166392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Data\Images.yml
+ID: "2bac430a-bab3-4618-ae18-0e36b98bda90"
+Parent: "aa2b236a-c982-4185-b403-8f0fb29ad035"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: /sitecore/content/Tenant/Multi/Data/Images
+Signature: VHb+u35OI+OFlgCtm5PmPM3P8Css3k4oQSVDmFf6qb4=
+Modified: 637855358439576436
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Partial Designs.yml
+ID: "b3704379-6b18-4114-a603-9577db53f07d"
+Parent: "8dcd3f27-7991-447f-a249-f5e66c8b46eb"
+Template: "ae38a714-3346-4ab1-8f5c-4a9875d049f3"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Partial Designs
+Signature: 7GlLH2ZSOqnFQs1SzWUo2teCp+Is+4TTBMZHvmB/gzg=
+Modified: 637855358440346435
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Dictionary\Products-Detail-Price.yml
+ID: "c2e7d5cc-eaf7-475a-acc1-7686b82e7a95"
+Parent: "af368d9a-7c88-56ae-8a26-7deddd1a5bae"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: "/sitecore/content/Tenant/TestXmCloud/Dictionary/Products-Detail-Price"
+Signature: dNQ08t7jM4dJcsN4cowptbVgA0LJ1S34rzHPW/JgtcM=
+Modified: 637855358440196412
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Shared Content\Content Blocks.yml
+ID: "3cb84969-26b4-4ee7-b864-9545f32b6f95"
+Parent: "0c6e2d56-5e05-4f98-9424-f6e432d8f53f"
+Template: "31da74c3-31db-4ef2-8053-b41b96cc2f14"
+Path: /sitecore/content/Tenant/Multi/Shared Content/Content Blocks
+Signature: UGwxH93tIPR01anNq+b/VZ4dy7gS0pWqm7tZcvfSWgY=
+Modified: 637855358439676408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Settings\Site Grouping\Multi.yml
+ID: "ee1ea8c7-1df5-4412-9d0f-988323078599"
+Parent: "57f22bfb-e975-4a68-ae91-23ca35121056"
+Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
+Path: /sitecore/content/Tenant/Multi/Settings/Site Grouping/Multi
+Signature: t7k8SJkbNZXcZoMsL4DV27394qcq3eQQe4ZN0+QCcbo=
+Modified: 637855358440706409
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Shared Content\Accordion Items.yml
+ID: "81fa48c8-e980-4b81-a8bc-491c9d892c74"
+Parent: "a9278512-54c9-4e16-875e-41e808c807ef"
+Template: "8fb2c42c-b950-4be3-b1c6-8ba7f11b2ed8"
+Path: /sitecore/content/Tenant/TestXmCloud/Shared Content/Accordion Items
+Signature: fu6OFDaQLDrrSgs8bZrFyNLUtZuuHRFxUbLkz5BZxLw=
+Modified: 637855358440236415
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Shared Content\Hero Banners.yml
+ID: "ece00a2b-91f4-462e-8672-28efad3d37bd"
+Parent: "0c6e2d56-5e05-4f98-9424-f6e432d8f53f"
+Template: "456f5066-3169-4cda-b827-ed0917a75776"
+Path: /sitecore/content/Tenant/Multi/Shared Content/Hero Banners
+Signature: eNr0QRpdS3Nv9QMkM21+fOe9KVMRTCn/IlvjuBRXsXs=
+Modified: 637855358439696410
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\foo\bar.yml
+ID: "a1ef0924-d755-4e32-a1e9-d42ade7545e0"
+Parent: "ae7e6df3-ffad-498a-bc06-98a98adb2768"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: /sitecore/content/Tenant/TestXmCloud/home/foo/bar
+Signature: iktZJ2Nv4nwezwjanB72XgX8V5DJrCYyFkKgMCI5h/4=
+Modified: 637855358440756410
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Shared Content\Content Blocks.yml
+ID: "52df3e45-1883-427b-abe1-ffc9aa26e4e9"
+Parent: "a9278512-54c9-4e16-875e-41e808c807ef"
+Template: "31da74c3-31db-4ef2-8053-b41b96cc2f14"
+Path: /sitecore/content/Tenant/TestXmCloud/Shared Content/Content Blocks
+Signature: UGwxH93tIPR01anNq+b/VZ4dy7gS0pWqm7tZcvfSWgY=
+Modified: 637855358440256410
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Data\Images.yml
+ID: "5235292d-8139-4870-bfc6-9cb9ed86b729"
+Parent: "a44c633c-234a-4eca-aa2d-b0c832486278"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: /sitecore/content/Tenant/TestXmCloud/Data/Images
+Signature: vlNelAjCyBaKdGg+IFn3gSWcK//KAgFdjIisXuycD3k=
+Modified: 637855358440086398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\foo\Page Components.yml
+ID: "33f69857-5bfc-4079-891f-3a313a4e0e4d"
+Parent: "ae7e6df3-ffad-498a-bc06-98a98adb2768"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/content/Tenant/TestXmCloud/home/foo/Page Components
+Signature: QATAFzzN8cIjrHqoSb9Hge9t1l4xcjnYm+KhxVyeXH8=
+Modified: 637855358440776397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Shared Content\Hero Banners.yml
+ID: "68c01753-2fbd-4da2-a481-3cd8ad6f6070"
+Parent: "a9278512-54c9-4e16-875e-41e808c807ef"
+Template: "456f5066-3169-4cda-b827-ed0917a75776"
+Path: /sitecore/content/Tenant/TestXmCloud/Shared Content/Hero Banners
+Signature: eNr0QRpdS3Nv9QMkM21+fOe9KVMRTCn/IlvjuBRXsXs=
+Modified: 637855358440276480
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Data\Link Lists.yml
+ID: "401f2988-6d32-4866-9118-64410a309a86"
+Parent: "a44c633c-234a-4eca-aa2d-b0c832486278"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: /sitecore/content/Tenant/TestXmCloud/Data/Link Lists
+Signature: MnePqK7oUQ6QVbhreQ4P7bhwOpvIWxksbw500REOEho=
+Modified: 637855358440106400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Ac-enim-tristique-sit.yml
+ID: "e6899bb0-b01f-475f-acb9-eb1f20d9bc07"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ac-enim-tristique-sit"
+Signature: lObZ/uIZye1a5G7FZZTyqLTRD87oVV5gJ2KTIPjFEaU=
+Modified: 637855358440816425
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\home\Page Components\Content Block.yml
+ID: "944ad98d-b9ea-4d4e-bbb0-3b941cecdd10"
+Parent: "a1a70ff8-7a83-4c17-a344-3754fd2d907b"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: /sitecore/content/Tenant/Multi/home/Page Components/Content Block
+Signature: NYQSAivJHC3LML0aRCc9KNXvTpfP9Ac2qr+cIe2ezk4=
+Modified: 637855358440476416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Settings\Redirects.yml
+ID: "119dec90-2d7a-41ca-9188-8f572625ebeb"
+Parent: "1933b415-6759-48a3-9bfc-2b9d731993fe"
+Template: "c2dc4690-af44-48c7-bb21-90d1ad246732"
+Path: /sitecore/content/Tenant/TestXmCloud/Settings/Redirects
+Signature: yJsL6xNVY6cZ7SC1p5ceBRRGSWq0gHETn3I3cDSs1Jw=
+Modified: 637855358440406400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Nunc-nostra.yml
+ID: "886f48f8-52e3-437d-855c-eade97c2fe69"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nunc-nostra"
+Signature: zJeYCbFlyVSJRgZ407+Xp5C32Hu7UHq6AGdPt5zYXFI=
+Modified: 637855358441226450
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Accumsan-himenaeos.yml
+ID: "4e71a5e0-b219-450c-9b87-42a3192317ad"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Accumsan-himenaeos"
+Signature: 8vaWNhY/ZQZnHdzQlpe0EQ92uAOCowmMjviSChsoOr0=
+Modified: 637855358440796399
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Settings\Shared Sites Settings.yml
+ID: "8d000fb5-8a09-4f80-a1a4-2f213d58862b"
+Parent: "1933b415-6759-48a3-9bfc-2b9d731993fe"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/Tenant/TestXmCloud/Settings/Shared Sites Settings
+Signature: EGtjoeKzuURXLuNs9RZpjxdxaQNVcIF6YpsSBFR/7dk=
+Modified: 637855358440426416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Odio-quisque-habitasse.yml
+ID: "3fe75278-c439-4f4e-814b-c92f9e20593f"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Odio-quisque-habitasse"
+Signature: wV3sa2CHg9mJFU2YIAlkU8/W/6G5r6tnEmGYD4H2aKM=
+Modified: 637855358441246387
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Amet-imperdiet-suspendisse.yml
+ID: "2290e3cf-8b36-4f22-a9d4-c7ec6b7c99d2"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Amet-imperdiet-suspendisse"
+Signature: SMrRr3O94Xp/qmj05QpoAOtIo1iIDubrkeAZmJu6VX8=
+Modified: 637855358440836384
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Settings\Site Grouping.yml
+ID: "bdfca1a9-d574-4a47-b567-9a8d8ac75cf8"
+Parent: "1933b415-6759-48a3-9bfc-2b9d731993fe"
+Template: "8357f958-9aaa-46db-8898-36448a96356f"
+Path: /sitecore/content/Tenant/TestXmCloud/Settings/Site Grouping
+Signature: AcOifIUW5lhcMgPP8nsmb0m9Q6JFbA0RBagXLP8BiJY=
+Modified: 637855358440446396
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Pellentesque-massa-erat.yml
+ID: "85728574-b9d1-42b0-9870-fbe7d507724e"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Pellentesque-massa-erat"
+Signature: 1a3KQW2+K6+aj0vIPao6VozgTGbXshNJPHrRW7bXfpE=
+Modified: 637855358441266387
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Auctor-metus-vitae.yml
+ID: "6b8e4363-3ee5-4ce6-8edc-4b39b4f223d8"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Auctor-metus-vitae"
+Signature: t9DF7gCzH36QDijjjlLWSJ56QOZAPeSbxK8ZPrF3zW0=
+Modified: 637855358440856392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Settings\Sitemap.yml
+ID: "2b1931dd-2bfa-4866-9c6f-c9c697c1efe9"
+Parent: "1933b415-6759-48a3-9bfc-2b9d731993fe"
+Template: "651bcad2-f32d-4cb3-9bd4-db9b895382bf"
+Path: /sitecore/content/Tenant/TestXmCloud/Settings/Sitemap
+Signature: WozW6/80Cb7YRthveWvUABh8Jjq84BUv0jgCmCHw0I0=
+Modified: 637855358440456400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Per-vel-hac.yml
+ID: "b8f24a83-eb7f-4631-b419-07d1f478fa30"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Per-vel-hac"
+Signature: HESQNmy+mbYedVHqkU/NXGUgRDuECRjVz6N38F4cpnw=
+Modified: 637855358441276401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Convallis-enim-fermentum.yml
+ID: "cd350811-ef4a-430d-ac14-1fdb2cf5b03f"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Convallis-enim-fermentum"
+Signature: gdATNhtN3og9mVSjJX6jTmLjx7t/YSsFJPCjC7O5cxc=
+Modified: 637855358440876408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Curabitur-inceptos-nibh.yml
+ID: "2836445d-d0ff-40c9-b921-eb9b1aa3a4e5"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Curabitur-inceptos-nibh"
+Signature: scdjqwME4EyUXJ1va0++/xnl3wI4m3ulpNMZGOsApJI=
+Modified: 637855358440886386
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\hello\Page Components.yml
+ID: "4489f2ca-1e16-4b34-836d-77e7bb3fee2b"
+Parent: "11810e52-78de-480e-8fcc-42a9726da422"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components
+Signature: KRH3ZqKtoccP/VOq59l9X54BHon0aBLyZVDCnDqfuXg=
+Modified: 637855358441616393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Per-vel-libero.yml
+ID: "d21026a1-2be0-4f02-b968-16a95a182ccf"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Per-vel-libero"
+Signature: YqdDtpl0mHqJZhZfEyEk0NIsjH/N5nmJN01n/UYat3o=
+Modified: 637855358441286403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Dictum-cursus-commodo-posuere.yml
+ID: "dab8844d-5f74-40ac-83bc-99a5fb1edb4d"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Dictum-cursus-commodo-posuere"
+Signature: cbSbYunKkAlPoHNFaODXF/IsCDLeO1uYthc/CvHhGDI=
+Modified: 637855358440906389
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\mvc\Page Components.yml
+ID: "ade3e4d5-17b1-4f14-a1ce-86417c772192"
+Parent: "6eafde7f-56b9-4cd1-828f-6483348e63ec"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc/Page Components
+Signature: 5X7nnNbhmye9DbQIzgWMUJ5g/xBeKqwJeW9Yewau6MQ=
+Modified: 637855358441636407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Phasellus-class.yml
+ID: "f855ccd5-877a-4cdd-957a-b666701daf8d"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-class"
+Signature: ISo/1tOm6hcaDMIdSnEt9oZsria7c4UPVhNqLHiJytE=
+Modified: 637855358441296390
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Dui-facilisis-faucibus-mattis.yml
+ID: "a1f42015-a783-4806-a8a1-7d5810d006b3"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Dui-facilisis-faucibus-mattis"
+Signature: QrxsWac1UzWK20CtRHTtBKjHNHxSeiPAdw02Cf3LJ+A=
+Modified: 637855358440926424
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\Page Components\ContentBlock.yml
+ID: "710d918a-1f4d-50ee-971d-4b627c3944be"
+Parent: "23b68596-59e1-51b3-9386-7d80e7585a76"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: /sitecore/content/Tenant/TestXmCloud/home/Page Components/ContentBlock
+Signature: C786MX4+15IIsWDeH6lPo80Yib5b24D4zXaWbK/jZQI=
+Modified: 637855358440736426
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Phasellus-fermentum.yml
+ID: "c3522d55-23b8-4086-bf2d-e37a21e4d342"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-fermentum"
+Signature: TXBY+k1iOoZWmTbnHpbdk4FoiraRFlGp3TrN27G06jU=
+Modified: 637855358441316399
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Elit-tempor-ut-turpis.yml
+ID: "e15e18f9-6f07-4908-b283-0e76ee48a6ed"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Elit-tempor-ut-turpis"
+Signature: ojfx8yKjUJcy/lNK/clZBdYWboY+thFZApXh+9gsn1k=
+Modified: 637855358440936398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021.yml
+ID: "b78ec137-d844-43da-9bb2-360a6fbb9590"
+Parent: "b98b5e01-cb9c-4852-b0ff-88b5cfb22488"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Tenant/TestXmCloud/home/products/2021
+Signature: f+UrXCPpDGvb+YIH7X9MW4oC6Gz55pK6rC1pqKUIyog=
+Modified: 637855358441656406
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Porta-nec.yml
+ID: "c4708927-6d3e-422a-81d7-76c792cf3a9e"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Porta-nec"
+Signature: 6FMsWssSpfO5f7RWZeSZcicvJADHolVV+1OR0Mtj200=
+Modified: 637855358441326422
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Mauris-est.yml
+ID: "cba3a4a8-d475-44fd-9475-360c20336473"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Mauris-est"
+Signature: 03/xmrs/2WNoMg7fehp3etjSae3zMEn1Fwmv59y7kMc=
+Modified: 637855358441176387
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Fames-elit\Page Components.yml
+ID: "e2cf70da-5fe3-4759-b018-103a490cdd52"
+Parent: "823df2aa-63ce-490a-b959-e3fa6095cb10"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fames-elit/Page Components"
+Signature: GMw49m10i1YszXEZMHLPBe/wMSwdYhmtaDCGXyzWVDI=
+Modified: 637855358442266394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\Page Components.yml
+ID: "c53ed367-a678-4bd9-ae17-d6837f9c3699"
+Parent: "b98b5e01-cb9c-4852-b0ff-88b5cfb22488"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/content/Tenant/TestXmCloud/home/products/Page Components
+Signature: xqPqztlXCAxUu8c9UtPsU26F6/Ajouz5aYyHAzKxYb0=
+Modified: 637855358441676415
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Molestie-dui-himenaeos.yml
+ID: "aeaf4756-5aa2-4f70-9749-d771257f89b1"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Molestie-dui-himenaeos"
+Signature: oMcMrHcyNKl9mF30WXJ63bUc8d2pM/gsLhsZcVwGcnI=
+Modified: 637855358441186387
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Fames-ultricies\Page Components.yml
+ID: "edf437eb-0db4-491f-8ebf-a87509b678ec"
+Parent: "d40a330d-7a24-4005-8563-509037a68e83"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fames-ultricies/Page Components"
+Signature: oACfQftamWYUtsP+CgBbCr3WEY8iwiue8ztF3xqyWE0=
+Modified: 637855358442284496
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Available Renderings\Media.yml
+ID: "f52d5581-ffc9-406c-aff9-7f268ab377a9"
+Parent: "727f77bb-bf31-4042-a941-aab53193948c"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Available Renderings/Media
+Signature: pI1h+y01x+PrisPDbmeS9cT7noTuL0xcF8CBU+e5700=
+Modified: 637855358441706454
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Nam-tincidunt-sem-hendrerit.yml
+ID: "20cb50f9-88bb-4137-ae64-80c64dcdd14f"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nam-tincidunt-sem-hendrerit"
+Signature: ZF2zO0wJk9cXsrl3gbVOht7UuKOntGDVEkrDOlUSPC8=
+Modified: 637855358441206389
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Felis-tristique\Page Components.yml
+ID: "d5ef7d1e-7896-4072-8c04-3a93e1885a06"
+Parent: "a64f405f-4c4f-44fd-96c2-82c5cf90d60c"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Felis-tristique/Page Components"
+Signature: dZuepVEj5cnIfWLsYR8JxpcTtgNNIln4CqXtvLdUOYM=
+Modified: 637855358442316416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Available Renderings\Navigation.yml
+ID: "a34026d9-f8d3-4677-b299-047d42633a6e"
+Parent: "727f77bb-bf31-4042-a941-aab53193948c"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Available Renderings/Navigation
+Signature: EPcecWISXOIOJ5YN1I7w/wDS1efEAh52GUl40uNrcpc=
+Modified: 637855358441716407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Nisi-primis.yml
+ID: "b48fb9e3-afda-4ce4-82a5-df767ed0a3c8"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nisi-primis"
+Signature: L8pE8c0mR8Ud45HjVAYzPwzjmVKHUXgBgSt/2mKKXD0=
+Modified: 637855358441216392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Gravida-litora\Page Components.yml
+ID: "cea1ae4e-5f66-4c69-8b8e-9e178f5245d1"
+Parent: "367b2999-09c2-447d-b09d-22634ce8b0df"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Gravida-litora/Page Components"
+Signature: f9UKH5sDIGEzJFzYW9qokVE6vVPpbUJ4LN0SnH55dos=
+Modified: 637855358442356397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Available Renderings\Page Content.yml
+ID: "47f282ac-23c0-4068-941a-ef0f9c4935c4"
+Parent: "727f77bb-bf31-4042-a941-aab53193948c"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Available Renderings/Page Content
+Signature: KKbGimlug9xXQozCN87CU/Kr2Drw/jKRfOPyKxu8diI=
+Modified: 637855358441736412
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Ut-vulputate-neque.yml
+ID: "f0a5d148-b708-449a-8cd2-d7d4534ebcd4"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ut-vulputate-neque"
+Signature: tUGfLY4DVCK+jkStPdIzGOPBYL8/2PLsEB6LZi7jaNY=
+Modified: 637855358441536415
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\LinkList\Default.yml
+ID: "36128142-7d65-4a31-95a9-8ca32902eadd"
+Parent: "e2363acb-ee70-4050-aa4f-9ee8bc3a16f5"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/LinkList/Default
+Signature: oN5vHQSMkvsXlQVAol5jiQ5Y94b1tSWh5+gBMtnUXdE=
+Modified: 637855358443076393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Hac-odio\Page Components.yml
+ID: "7073ff99-18ce-4674-beca-6207fe2d727a"
+Parent: "e0bc036f-118e-4d9b-b8a7-ec3aae5934bc"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Hac-odio/Page Components"
+Signature: UGt6vea2Tc7FTzauNQvOFF7ekNIohfw3uBffmiCKa7o=
+Modified: 637855358442366397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Velit-odio-praesent-per.yml
+ID: "8eb4b4d4-b0d5-4b85-9710-19397309804c"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Velit-odio-praesent-per"
+Signature: 6Iobo39Djm5y0lX7sDYJuhu/FAfxuECjqXwXyYnmUno=
+Modified: 637855358441556440
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\Promo\Default.yml
+ID: "1908c64c-e310-4c9e-ac87-d099455c1104"
+Parent: "ace1ff52-67f4-41a6-af6c-8d023fe7ca96"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/Promo/Default
+Signature: QKYO4oQtf9LogNNzM2eCmqQv01ugQxpN4UoeEoIDhwA=
+Modified: 637855358443106424
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Mauris-est\Page Components.yml
+ID: "3986b1ad-977f-47d0-86f4-c0bdd13ce4ad"
+Parent: "cba3a4a8-d475-44fd-9475-360c20336473"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Mauris-est/Page Components"
+Signature: ZDD13VSFoIz9gnmrBwUIBiJxIkp82ZkJg111AKiKWso=
+Modified: 637855358442466400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Viverra-ultricies.yml
+ID: "b655befe-a466-4c29-85ad-6c4a2bb1deab"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Viverra-ultricies"
+Signature: HySheUGGi4svSLlWxTRvqpkXXzCM5OoW3ohheDxNJ44=
+Modified: 637855358441566455
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\RichText\Default.yml
+ID: "31024288-c28d-4927-a3cd-afeb4ca81f96"
+Parent: "1929e848-9ff8-4cce-9d21-701782b5b7b6"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/RichText/Default
+Signature: vgtXMtfRWuX/Rpwc73R8UuU9cMaV7xyWpl3xJqy1wTE=
+Modified: 637855358443126426
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Nisi-primis\Page Components.yml
+ID: "94fbfe61-6ce7-403b-a08e-553628494c42"
+Parent: "b48fb9e3-afda-4ce4-82a5-df767ed0a3c8"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nisi-primis/Page Components"
+Signature: 0ExkZI51H6U1gYlSisFWNAr6WF/PxHijNrFnL8GkqG4=
+Modified: 637855358442536387
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Vulputate-magna.yml
+ID: "c280c0e4-43a3-44d4-ab62-e8f72958e768"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Vulputate-magna"
+Signature: tBeSy/943+GuIxJefBNFo4PFh1XtQmCFj5N8XqQWWdg=
+Modified: 637855358441596393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\Title\Default.yml
+ID: "61703470-154b-47a9-980d-692c38709bc0"
+Parent: "7bd1b896-090f-48ed-977a-673b5bf42f45"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/Title/Default
+Signature: LQ3WomSER3WIsxwkEmgey0Z0S4hkWBfqX8t3BCokAsg=
+Modified: 637855358443146387
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Nunc-nostra\Page Components.yml
+ID: "746ef7d3-1416-4b29-afb7-09ca5080285b"
+Parent: "886f48f8-52e3-437d-855c-eade97c2fe69"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nunc-nostra/Page Components"
+Signature: cOfTspuokvGUntDyZSDen6dbKkY5TocTLKCzlQS+tjc=
+Modified: 637855358442546406
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\RichText\Default.yml
+ID: "25fe4245-82e8-40ec-93fb-fbb6ba1acd9d"
+Parent: "3a2de2bd-dec9-49f1-b5ef-29787d566509"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/RichText/Default
+Signature: PKWuBqsvxeCoVeeahwCoQn/IttnrgNUwpUVHTytRkRU=
+Modified: 637855358441996397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\Title\Default.yml
+ID: "2a6bdae7-db5d-4deb-8d3a-a7990d813746"
+Parent: "db5e4245-1f5a-4b12-a2ff-b9b1aec58fec"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/Title/Default
+Signature: tRK0CUr6VaVf4MYvHxE7zHFJM0rJ7A33Qf6idESQ26s=
+Modified: 637855358442016444
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\foo\bar\baz.yml
+ID: "1756dd34-32f7-4249-a378-1f993716f912"
+Parent: "a1ef0924-d755-4e32-a1e9-d42ade7545e0"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: /sitecore/content/Tenant/TestXmCloud/home/foo/bar/baz
+Signature: 8EaihysZxiT7QTW85zSd8lmzlCjlBjFbHY9Kyy1IHNw=
+Modified: 637855358442036398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\foo\bar\Page Components.yml
+ID: "006ddafe-699a-493f-ae2a-a91cf38f48cc"
+Parent: "a1ef0924-d755-4e32-a1e9-d42ade7545e0"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/content/Tenant/TestXmCloud/home/foo/bar/Page Components
+Signature: Uy6oUpedlf0/MsOPrzwZ7VDYujtNZOsp7Rux3/rxqsQ=
+Modified: 637855358442046412
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\mvc\Page Components\Accordion.yml
+ID: "85ceda89-8d41-4fac-a051-56e4fd7326e0"
+Parent: "ade3e4d5-17b1-4f14-a1ce-86417c772192"
+Template: "8fc93314-f687-4266-a5a9-45d5ef24081e"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc/Page Components/Accordion
+Signature: v1Ij3BTQzWxW7dulFH/BROFC7WE69Bli3M74UtjJXGg=
+Modified: 637855358442956393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\mvc\Page Components\Hero Banner.yml
+ID: "d7ad29c1-1b7c-4b3b-add5-5cba6c2cb493"
+Parent: "ade3e4d5-17b1-4f14-a1ce-86417c772192"
+Template: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc/Page Components/Hero Banner
+Signature: ojh2oG/b5Nhs3TzofbnzcmKeRVjtoOgWGAiGa5c3E1w=
+Modified: 637855358443016430
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05.yml
+ID: "3f49d581-c0de-4e96-a613-6362f9a26142"
+Parent: "b78ec137-d844-43da-9bb2-360a6fbb9590"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Tenant/TestXmCloud/home/products/2021/05
+Signature: f+UrXCPpDGvb+YIH7X9MW4oC6Gz55pK6rC1pqKUIyog=
+Modified: 637855358443036416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\Image\Default.yml
+ID: "ef0fc8e9-59f6-4218-bcca-3a57fc5faedb"
+Parent: "e63a6092-a087-48e1-86f1-c10b588edb9c"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/Image/Default
+Signature: /R0a/XOqmoCypHxxdLknuOszabspJOLGYi7HdLmTRmc=
+Modified: 637855358443056392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\6B8FBFBD355868B5\Integer-bibendum-fermentum-congue.yml
+ID: "a8aeba88-00ed-4d7e-85fa-f14b09bdd3c4"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Integer-bibendum-fermentum-congue"
+Signature: xDQJU9gYKaZLQIUtaI9EwuQwIZkScA+FROu1z2jIp5s=
+Modified: 637855358441136402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7BB031257AC14880\Content Block.yml
+ID: "8e600b66-77ae-49db-99b7-a0a6c7b4f28b"
+Parent: "14ff2a65-16e4-4968-a95e-406fa2fd87b2"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Per-vel-hac/Page Components/Content Block"
+Signature: ri6vpTPsEc/eqICllLmaZ91V5/KVytCxpnQiBctfDVU=
+Modified: 637855358443676407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Feugiat-curabitur.yml
+ID: "d9db0033-333e-48cb-99b4-62da31ff929a"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Feugiat-curabitur"
+Signature: Ru8umErQ+Kpm9TohF9eXb0STFDV1SXUNhVypykjk9QU=
+Modified: 637855358444356411
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Inceptos-imperdiet.yml
+ID: "4f3d31e0-c029-4db9-aba9-f332bf280d81"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Inceptos-imperdiet"
+Signature: a6QUnfThUIUdiBuE5ojpVftkj0gT/6JwyXlIQ/SviQo=
+Modified: 637855358444426416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Venenatis-turpis-vehicula.yml
+ID: "d9eb6936-b1fe-46dc-ac55-4b623296277c"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Venenatis-turpis-vehicula"
+Signature: QEPFLYhd6kAkbowGaL5PJ3oPFyzVz9fPbvqifSlDE6M=
+Modified: 637855358444616407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\BCAA9EB2D26C9FC9\Page Components.yml
+ID: "f65f2cd1-e395-4ce3-b65c-bfa313c36023"
+Parent: "d2287e08-fda8-446e-ac9e-47076f191777"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Felis-odio-turpis/Page Components"
+Signature: /xUiKr/4JxP5erSKD2TSa1zBvPk5JKks72DKatG19Mw=
+Modified: 637855358442306394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\E9262F0065F3C6FF\Evening.yml
+ID: "8c9e0b10-4d64-4a3b-b6f3-bc3a9dd94f52"
+Parent: "04343c36-802b-445c-9370-83de7b768e32"
+Template: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/ContentsResolverTabs/Evening
+Signature: xKDQA2frabMkyn197TVOtCSc/l8tKqvz1QX0gz3fHpY=
+Modified: 637855358444116429
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\3ED073C8058E6F9C\Page Components\Content Block.yml
+ID: "b66e9f67-12f3-438c-a595-5f3b633dd829"
+Parent: "345c3c1d-e38f-42ee-b5a3-6435a23f3079"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Erat-elit-ut-senectus/Page Components/Content Block"
+Signature: 232FBSRkUFKIz7GxCwxnCa77cc4SqNMA1taRTWqbiVA=
+Modified: 637855358443336428
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\58AADAA4A9BA2509\Page Components\Content Block.yml
+ID: "e9f9a5c2-c2ef-4614-9538-ed830ad1d547"
+Parent: "fff49a27-1e8e-4cab-8b01-25167e9637c3"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Inceptos-ac-varius-magna/Page Components/Content Block"
+Signature: ZaXj0xWe8gnrN8XTifOVqnstC1Gs+yeU+YgwLuLUMzc=
+Modified: 637855358443476418
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\5B29D61AC88EF899\Page Components\Content Block.yml
+ID: "585981a9-ac5a-42d9-ac7a-bfd86ecc4dad"
+Parent: "51951242-1d3f-434b-bdad-5cd0e3854563"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Proin-quisque-per-litora/Page Components/Content Block"
+Signature: 93SMCyJqpjTE26wICeZP8WrPaL6MuZIFeGzw8RwA+RQ=
+Modified: 637855358443786469
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\98A66C98F9106B81\IntegratedGraphQLTabs\June.yml
+ID: "467cf153-2d3f-4478-92e2-c9887930e3d5"
+Parent: "1745f6c7-9ef9-4492-9e0f-c96dbcbad49a"
+Template: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/IntegratedGraphQLTabs/June
+Signature: O3MA6Leleox6AVabc/BvCOmyuS1XAbeRn44gJ3tSuis=
+Modified: 637855358444146414
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\B10C21A197A55421\Page Components\Content Block.yml
+ID: "4d442954-1a35-42a2-9dac-621222d73522"
+Parent: "80f056dc-f052-4aa2-9150-4526cf7469b8"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ullamcorper-risus-ante/Page Components/Content Block"
+Signature: O7UoJVtC92iDPKq4GpCw026Baucqkf321Z0qXlQr9u8=
+Modified: 637855358443956401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\D4F19F72A7D65BC3\Page Components\Content Block.yml
+ID: "faf8c184-bae2-4a33-942a-bf28f7260520"
+Parent: "b4284a05-d671-4a10-89f0-427a767cf3b9"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Leo-nisl-eget-amet/Page Components/Content Block"
+Signature: H5eWemsHWPWN0HakrxZR4i3f77fk/ajITwxgZjhjH7Q=
+Modified: 637855358443506456
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\D9068693D6EF0D65\Page Components\Content Block.yml
+ID: "d0e802f0-0349-4193-a04b-0732d283c091"
+Parent: "cad477f1-6166-403e-9be5-f818e9a179c8"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Tempus-varius-at-placerat/Page Components/Content Block"
+Signature: yK6Q67wLcxgOLetS+SuwB5XzUt3UGKARjh34QVlDT3o=
+Modified: 637855358443936420
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Shared Content.yml
+ID: "0c6e2d56-5e05-4f98-9424-f6e432d8f53f"
+Parent: "771ef428-def1-4183-90f6-ef1d6f1ff3f7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Tenant/Multi/Shared Content
+Signature: yjE/5FuKSpmG+7Tm3ada6zFuIWIllsDrgTZRjYdhGsI=
+Modified: 637855358439416389
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Data.yml
+ID: "a44c633c-234a-4eca-aa2d-b0c832486278"
+Parent: "3b49267e-a864-4299-842c-1ea812d59feb"
+Template: "a29d272e-9d48-453c-9e9d-b47585fa7f20"
+Path: /sitecore/content/Tenant/TestXmCloud/Data
+Signature: F+aWC3Kh7F/gJn6s/EfgNuhbZKsvDBQDwhNg2mEQzzA=
+Modified: 637855358439486404
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants.yml
+ID: "c1708e5e-2ca0-4471-87cb-9f3d7b68d130"
+Parent: "859ba3e4-3741-4182-97c9-7085589fd98a"
+Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants
+Signature: gVU5UFsAnyeqsDhaVohXkzAqV6fzdjxdchd9XgKLG3s=
+Modified: 637855358439736407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Page Designs.yml
+ID: "74d756a2-ace3-4ac2-af26-a634b5f0cb50"
+Parent: "859ba3e4-3741-4182-97c9-7085589fd98a"
+Template: "87771bf8-78aa-4e1b-8b41-bab4b1b616d1"
+Path: /sitecore/content/Tenant/Multi/Presentation/Page Designs
+Signature: ku3xj25JWDKVuRku/NRE+349j+yK9xetWZRZ8sDLTHg=
+Modified: 637855358439756464
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Dictionary\Products-RelatedProducts-Title.yml
+ID: "60ba2c45-0fbb-4e6c-b5ba-b254c64b04e5"
+Parent: "af368d9a-7c88-56ae-8a26-7deddd1a5bae"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: "/sitecore/content/Tenant/TestXmCloud/Dictionary/Products-RelatedProducts-Title"
+Signature: XBPgj9O6aEpmfINhJR+74LeyPHTzYG8gsyyt2BQSi3E=
+Modified: 637855358440216394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Dictionary\Products.yml
+ID: "747eb6fb-3a56-4acf-9319-a093056fe870"
+Parent: "af368d9a-7c88-56ae-8a26-7deddd1a5bae"
+Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Path: /sitecore/content/Tenant/TestXmCloud/Dictionary/Products
+Signature: G39pxRWjwq/kcrjIcXMlZYhcmGLmfHtXOdaDD+qQqjQ=
+Modified: 637855358440186392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Placeholder Settings.yml
+ID: "ba96003a-be92-4d27-85e9-97a456e5b305"
+Parent: "8dcd3f27-7991-447f-a249-f5e66c8b46eb"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Placeholder Settings
+Signature: QAXmEp/kUn+X2NpPqXUvkep6jKoG4gVlqL5p7kHzVCE=
+Modified: 637855358440366418
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Styles.yml
+ID: "642f6c44-c68f-4031-a4e4-96908fac30a7"
+Parent: "8dcd3f27-7991-447f-a249-f5e66c8b46eb"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Styles
+Signature: pxFlfyBuo2C6PWcyesGqsSfTrc1fdg6kSkJyDgJ3ujI=
+Modified: 637855358440386417
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\Title.yml
+ID: "db5e4245-1f5a-4b12-a2ff-b9b1aec58fec"
+Parent: "c1708e5e-2ca0-4471-87cb-9f3d7b68d130"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/Title
+Signature: ime8C2L33DNQetlEqqTRrauhnxwX4RktVDKyT0HEsPA=
+Modified: 637855358440676423
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Partial Designs\Empty.yml
+ID: "467ff079-37fc-46ac-b879-9babd244e88b"
+Parent: "32c7b515-60b2-4c67-9ac8-6758d6630e4b"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Tenant/Multi/Presentation/Partial Designs/Empty
+Signature: pAc/YlLia1LvHE8fqKWm0U+/xtBU3vsQEogUycIGiWs=
+Modified: 637855358440696392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Hac-odio.yml
+ID: "e0bc036f-118e-4d9b-b8a7-ec3aae5934bc"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Hac-odio"
+Signature: cHWYIGSm3+uvSEKoHoXDXHZdR93sMozBlnAhf7IIM70=
+Modified: 637855358441056430
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Inceptos-ac-varius-magna.yml
+ID: "f5af7eda-1855-4b41-8f38-f9eb9c127779"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Inceptos-ac-varius-magna"
+Signature: rrsOrLEWeBeif61oUvjQc+AqZtwbRguM6Jr4egtCBGE=
+Modified: 637855358441066408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Leo-nisl-eget-amet.yml
+ID: "7d110a3f-4558-4848-8f3a-d318fa486ee9"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Leo-nisl-eget-amet"
+Signature: vS9vyEGBbdsX0sl/N6jW0QfGLKZC8ygvuoYa1PWpcBs=
+Modified: 637855358441146405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Massa-litora-fringilla-quis.yml
+ID: "26a1d4c1-6e04-4857-89c4-e45707067d8e"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Massa-litora-fringilla-quis"
+Signature: olz3rMuVtvy5CWvMpgNJJcskhjYe90+MhnrKAozJgmM=
+Modified: 637855358441166398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Sit-blandit-mi.yml
+ID: "6bdf5c3b-6841-45ef-a42a-2a23e9598d05"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Sit-blandit-mi"
+Signature: G+T2nu0UeLM92fk8TCYb5eM5SiFL4hhI9CYDnYf5ULY=
+Modified: 637855358441466417
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Tempus-varius-at-placerat.yml
+ID: "9b06d58f-b987-467f-b5f2-c44dc12df3bd"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Tempus-varius-at-placerat"
+Signature: 3VWuh5k+/m9n0yW2FJKqWJvviynct9jK5jjFDKocquQ=
+Modified: 637855358441486408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Ullamcorper-risus-ante.yml
+ID: "81bf309b-e233-406d-95e8-91417e2e4e64"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ullamcorper-risus-ante"
+Signature: 5HjXyXyzL6heV9sB5qX85qbVgjSmPeyGhXS6uHbf3Us=
+Modified: 637855358441506405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Ut-enim-cursus.yml
+ID: "16289bcd-b60d-4b9c-be8c-3d40b7b48880"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ut-enim-cursus"
+Signature: aWJ8djOiRPj3czdso4zPOkKpAvIlj9aGJEFumpQweCc=
+Modified: 637855358441526402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\Image\Default.yml
+ID: "8d134543-2fac-4b19-a8d1-2e7b5a13c093"
+Parent: "d1778452-0eec-4e31-9e39-27587c572be9"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/Image/Default
+Signature: LDlUPt+X017a/wlZ42+wKehpHlFDkrxYoJyc2cH2+4E=
+Modified: 637855358441916399
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\LinkList\Default.yml
+ID: "4fc5b071-2c84-4cea-ace7-141c9827ebbb"
+Parent: "3744e36b-97e3-43bc-a548-c624b1b85c8e"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/LinkList/Default
+Signature: 6dsjKqFduhP3kJsUmkhAxylQ4lm2kr6xUkpzNq9Z3Zs=
+Modified: 637855358441936403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\PageContent\Default.yml
+ID: "31f9262b-a343-4966-9d8a-5a7895f0936d"
+Parent: "3e1520a9-8b8a-404e-8b39-ced71e044724"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/PageContent/Default
+Signature: Rr8l+jOS1x8mjU8slUBm1DWtDbFxgNdaHVL3oTYwyLI=
+Modified: 637855358441956393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\Promo\Default.yml
+ID: "c45e5bc6-8998-4bf6-9d68-55c05042a5ae"
+Parent: "a51871d1-15bb-4eac-8424-5571e63d4d7e"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/Promo/Default
+Signature: oPR49OikHHcuTIzymk5as8I0SHIJG+/SnbVsLok23Mw=
+Modified: 637855358441976393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\hello\Page Components\ContentsResolverTabs.yml
+ID: "04343c36-802b-445c-9370-83de7b768e32"
+Parent: "4489f2ca-1e16-4b34-836d-77e7bb3fee2b"
+Template: "5595852a-c641-464c-8cf2-c07435ae9e1c"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/ContentsResolverTabs
+Signature: 5TYiZMehrw+oAoQcWApSU5TKY6glL45fsFF6wTMRiHE=
+Modified: 637855358442926400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\mvc\Page Components\Accordion Item 1.yml
+ID: "7ed8e97e-de89-4f22-9a93-c0349eacbd9e"
+Parent: "ade3e4d5-17b1-4f14-a1ce-86417c772192"
+Template: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc/Page Components/Accordion Item 1
+Signature: QSg69dHhZuLekQhid62JwXhem/RDKA0BEGituCf6foo=
+Modified: 637855358442970592
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\mvc\Page Components\Accordion Item 2.yml
+ID: "6ad280ef-3ba8-422a-a787-c8326c7161d9"
+Parent: "ade3e4d5-17b1-4f14-a1ce-86417c772192"
+Template: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc/Page Components/Accordion Item 2
+Signature: meYFKc0IixYd1fyn6zSHqUIIa6E/ZKtcO417vog636A=
+Modified: 637855358442986418
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\mvc\Page Components\Accordion Item 3.yml
+ID: "9871653f-749f-4a00-902e-23bf3e12bc4e"
+Parent: "ade3e4d5-17b1-4f14-a1ce-86417c772192"
+Template: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc/Page Components/Accordion Item 3
+Signature: R63USi+Ma5rTll2IMbCkIZek1/G21JEfvHh1NqfOfMo=
+Modified: 637855358442996403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\foo\bar\baz\Page Components.yml
+ID: "0787cf7e-e222-4997-9048-a4942497bb2e"
+Parent: "1756dd34-32f7-4249-a378-1f993716f912"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/content/Tenant/TestXmCloud/home/foo/bar/baz/Page Components
+Signature: bHmvAcb5iBVYo3kJwWrBspi85uRHhq5wZ9n6gmHkBmo=
+Modified: 637855358443162134
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05\06.yml
+ID: "02707cb8-c6f1-4700-beaf-f81dd134b77b"
+Parent: "3f49d581-c0de-4e96-a613-6362f9a26142"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06
+Signature: f+UrXCPpDGvb+YIH7X9MW4oC6Gz55pK6rC1pqKUIyog=
+Modified: 637855358444196388
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\foo\bar\baz\Page Components\Content Block.yml
+ID: "a4ff0e3a-fc7e-4f66-9b3f-6181a7d3f545"
+Parent: "0787cf7e-e222-4997-9048-a4942497bb2e"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: /sitecore/content/Tenant/TestXmCloud/home/foo/bar/baz/Page Components/Content Block
+Signature: mxTW4NUa2NqImWDU67F+AZYqPJ5V0iEF/WETn9FzU0Q=
+Modified: 637855358444216413
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05\06\20.yml
+ID: "8650ca60-5743-4de0-a0a9-8ed956960d28"
+Parent: "02707cb8-c6f1-4700-beaf-f81dd134b77b"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20
+Signature: f+UrXCPpDGvb+YIH7X9MW4oC6Gz55pK6rC1pqKUIyog=
+Modified: 637855358444236426
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\06A1E561A275064D\Page Components.yml
+ID: "85b9dadb-d615-4d4d-8589-99221bdb0c3f"
+Parent: "cd350811-ef4a-430d-ac14-1fdb2cf5b03f"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Convallis-enim-fermentum/Page Components"
+Signature: NYD1RVdRkFTMy+uvLG/PsY0tT8FxBQ8Vtbg4TYNxaqA=
+Modified: 637855358442146391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\3D9E59D0FF67D8F8\Page Components.yml
+ID: "78033d87-f63f-4bfa-bf29-266b6fb9f722"
+Parent: "b655befe-a466-4c29-85ad-6c4a2bb1deab"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Viverra-ultricies/Page Components"
+Signature: RM7oXfsxxx9s/CKHsYBA51Kvw/EOzQ3tC8GoH8n5wNg=
+Modified: 637855358442896417
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\1539D6B611203E31\Page Components.yml
+ID: "fa487188-4efa-4033-a568-d0218fe9b997"
+Parent: "26a1d4c1-6e04-4857-89c4-e45707067d8e"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Massa-litora-fringilla-quis/Page Components"
+Signature: 6RFKXsFDhGnTXwStLvpCfW8a6MNcjIXM8RXMu5Mp/TE=
+Modified: 637855358442446404
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\4841C8A735406E41\Page Components.yml
+ID: "2e5af254-1019-4566-a69f-492605f5bc22"
+Parent: "6b8e4363-3ee5-4ce6-8edc-4b39b4f223d8"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Auctor-metus-vitae/Page Components"
+Signature: P+ic6N332ybA7R5PQhhotA3tlli+brP8LIceJkOabgg=
+Modified: 637855358442126417
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\280B536EBAAC17AE\Page Components.yml
+ID: "bf937fb3-2b15-4dbc-bdda-2a4b0ed51bd8"
+Parent: "e15e18f9-6f07-4908-b283-0e76ee48a6ed"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Elit-tempor-ut-turpis/Page Components"
+Signature: v6oaE3zVDBcskbO8nJLA9BC6NICSST2rhRaZaBs5jgo=
+Modified: 637855358442206405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\5C5A5C1C16655386\Page Components.yml
+ID: "5d0532e1-255e-4d8c-a24c-b3fc8804cd5d"
+Parent: "e6899bb0-b01f-475f-acb9-eb1f20d9bc07"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ac-enim-tristique-sit/Page Components"
+Signature: fQAlzVgemu3zO/9NVcMZpX+I3xxxVNqL6gHR8OHa/SM=
+Modified: 637855358442086398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\3ED073C8058E6F9C\Page Components.yml
+ID: "345c3c1d-e38f-42ee-b5a3-6435a23f3079"
+Parent: "4086e855-8d88-4401-9312-85fa552981e0"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Erat-elit-ut-senectus/Page Components"
+Signature: I2sVmJUcr4Nmf56Je6XwU7mfmNE3hwYglIYuV7Wlra0=
+Modified: 637855358442226413
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\5EDFFFBF4EADC09B\Page Components.yml
+ID: "75f13892-a171-4a2d-a95f-fc1cf68de71a"
+Parent: "2836445d-d0ff-40c9-b921-eb9b1aa3a4e5"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Curabitur-inceptos-nibh/Page Components"
+Signature: pA5ebX8afBwUNsUdIGRY8j/VU+VLZMJFHXQZLj4qIXo=
+Modified: 637855358442166412
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\58AADAA4A9BA2509\Page Components.yml
+ID: "fff49a27-1e8e-4cab-8b01-25167e9637c3"
+Parent: "f5af7eda-1855-4b41-8f38-f9eb9c127779"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Inceptos-ac-varius-magna/Page Components"
+Signature: RDo3syxItcr5x/zwm2jvo1LI7NWpoe8latZIlwkyYXE=
+Modified: 637855358442386447
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\In-felis-pharetra-ut.yml
+ID: "4b58e540-dfee-4861-881f-12444de18abe"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/In-felis-pharetra-ut"
+Signature: Cs/3/iWwlBu1YA93o0BghLqAD1BQW5WERPjRDc7KXUY=
+Modified: 637855358444436417
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\5E356A9767F57C37\Default.yml
+ID: "98165b43-34ff-4fdc-824c-0526565b64c7"
+Parent: "d77667da-b011-4b23-accf-b74a0ead94cf"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/PageContent/Default
+Signature: XsxXVv6DHQO7imG4gpCkn+BOU1m/FlQ3Mnnj044Lbg4=
+Modified: 637855358443086404
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Odio-viverra-class.yml
+ID: "578a239c-44b3-46ed-b5a7-39b67197bdee"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Odio-viverra-class"
+Signature: dOZ6jWyyLGNqgjFjgz1aCU3R+635lSj/jhFa9lCILno=
+Modified: 637855358444526426
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\7AF2064649349E99\Content Block.yml
+ID: "011816d8-caa1-4efe-a192-a4de5e0dc4f4"
+Parent: "3986b1ad-977f-47d0-86f4-c0bdd13ce4ad"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Mauris-est/Page Components/Content Block"
+Signature: Dj2ydreiQ+Dpi4XsCcxgBYS+IAx+kia5aMh2RqmUlII=
+Modified: 637855358443536425
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Ullamcorper-bibendum-ultricies-volutpat.yml
+ID: "d46288f4-56ca-4e4d-826b-f5542c339d02"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Ullamcorper-bibendum-ultricies-volutpat"
+Signature: pU4Z4l4v3u8pNlzD4Pej9U5EF1bX+1ffSKDi0RxfAWE=
+Modified: 637855358444566394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Hac-dapibus-vehicula.yml
+ID: "a84f42c8-122c-43fe-9c53-eae70fdf77b9"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Hac-dapibus-vehicula"
+Signature: UAW1fu9mslEdaMN9+GhPcEsBx/gnVYz9j4lmuOrpB/Y=
+Modified: 637855358444366432
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\98A66C98F9106B81\IntegratedGraphQLTabs.yml
+ID: "1745f6c7-9ef9-4492-9e0f-c96dbcbad49a"
+Parent: "4489f2ca-1e16-4b34-836d-77e7bb3fee2b"
+Template: "5595852a-c641-464c-8cf2-c07435ae9e1c"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/IntegratedGraphQLTabs
+Signature: AmAItawiqQJ+9jJFHvCuQyrJIawocTorYP9Zop0tcFI=
+Modified: 637855358442946392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Metus-ac-tristique-urna.yml
+ID: "e0490f69-33c3-417d-8732-8b8b1d137e0b"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Metus-ac-tristique-urna"
+Signature: 3KxfIeI+JwaK8Vi1Y2piFy2oBtqBdtLxFq0hYiPU5pQ=
+Modified: 637855358444476410
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\DB2A28160B07C7F5\Content Block.yml
+ID: "9df52b7d-1a13-47bc-ac1c-d5711f0ad2b5"
+Parent: "94fbfe61-6ce7-403b-a08e-553628494c42"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nisi-primis/Page Components/Content Block"
+Signature: 1v+kXE5op3rQGLuHUyg+qBB8k7gHWBOR4Pc0kAKYQJg=
+Modified: 637855358443596433
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Morbi-libero-interdum.yml
+ID: "bcb6aa3d-7391-4ca3-8fcf-b5fcd334bd46"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Morbi-libero-interdum"
+Signature: 7c4ZRDoicwFygEtGVjCkzlsxNUTiy51bqg9m9uByIN4=
+Modified: 637855358444486383
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\E502D193FDB9145E\Lorem-amet-sapien.yml
+ID: "6c58997f-edcd-4b7a-a103-6cf01e716b0d"
+Parent: "de272049-05be-42d4-a5c0-8a14b86f4c59"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/07/Lorem-amet-sapien"
+Signature: jb9NIIhTeRCnT3CZFNsfWFK8GmWAxD51VMS9znPqQl8=
+Modified: 637855358444276419
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Platea-aptent-posuere.yml
+ID: "521a7abd-315e-4a83-9907-2f7e3d35c55c"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Platea-aptent-posuere"
+Signature: ESPEjk/FeogE0p4y8Nl9Lx3xVu2LfIHpYX7Zc8xSMDM=
+Modified: 637855358444546396
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\FFB63C57D78695BF\Content Block.yml
+ID: "5260ebe7-7a1d-4df1-86e3-79f23884cd52"
+Parent: "edf437eb-0db4-491f-8ebf-a87509b678ec"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fames-ultricies/Page Components/Content Block"
+Signature: eGlblMnhEi4iKJl6Uf4GKIc+lhtDKWd/xkNE+lAU7rU=
+Modified: 637855358443376399
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\836DCC411BDA913E\Sed-habitant-hendrerit.yml
+ID: "ae55fcf4-21fa-4531-ac83-bebc45c2a0b0"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Sed-habitant-hendrerit"
+Signature: BOQYaT2VobQRgR76pTlU/bd5t+edrNxa2A42azlQO/s=
+Modified: 637855358444556390
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi.yml
+ID: "771ef428-def1-4183-90f6-ef1d6f1ff3f7"
+Parent: "519f19d9-8d4a-46a5-9cd8-b49d9121beb7"
+Template: "3a4b2470-e6fc-40e0-b449-37a3adbc6ace"
+Path: /sitecore/content/Tenant/Multi
+Signature: Q8oW3vuJINFrPAOGKJDuFEmA6UkJV8NZK+cXWw+5bPk=
+Modified: 637855358439316406
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\ABCBDFF636A624EB\Content Block.yml
+ID: "65031aa9-eed8-4383-8eb9-7866dfe8dccb"
+Parent: "f6cf54a1-6db5-49cb-866b-460a5c594dca"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Vulputate-magna/Page Components/Content Block"
+Signature: 0n89rwsLKIVM83Ksp0t2vcSnsqkJiEC+BHAKULexVfM=
+Modified: 637855358444056390
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\4604A648F99D51F8\Page Components\Content Block.yml
+ID: "c0e73e55-f6c4-4e4e-a2c3-c0238bd5f25d"
+Parent: "82d778e4-814e-4160-baa3-93e8120205c9"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Sapien-in-taciti-urna/Page Components/Content Block"
+Signature: zs3StBrk9cNYhRRVej2Tf1runqTD0w+qw2/FZR7TP2U=
+Modified: 637855358443856402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\B10C21A197A55421\Page Components.yml
+ID: "80f056dc-f052-4aa2-9150-4526cf7469b8"
+Parent: "81bf309b-e233-406d-95e8-91417e2e4e64"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ullamcorper-risus-ante/Page Components"
+Signature: cbXPVoAo66lr6cNqlsBo0Q6tQztIde/0D/hMz11I/OY=
+Modified: 637855358442836386
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\4841C8A735406E41\Page Components\Content Block.yml
+ID: "b71c8fed-96ca-4b1b-a774-b17a99e66e93"
+Parent: "2e5af254-1019-4566-a69f-492605f5bc22"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Auctor-metus-vitae/Page Components/Content Block"
+Signature: 4AEZ0pDGG1RNlHR7zc7mmt1cg7Y+fkbRiVvFiOLh3y0=
+Modified: 637855358443226419
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\E502D193FDB9145E\Tellus-ullamcorper-tortor-justo.yml
+ID: "07123a10-8c16-4cea-b9e0-082f7bcadce1"
+Parent: "de272049-05be-42d4-a5c0-8a14b86f4c59"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/07/Tellus-ullamcorper-tortor-justo"
+Signature: 9VjZblxIB+MDdAUZHJhHax0loYKG7sIDOQiIycN3a+c=
+Modified: 637855358444286393
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\98A66C98F9106B81\IntegratedGraphQLTabs\December.yml
+ID: "6c079277-ea89-44de-85a1-262d3d392ecf"
+Parent: "1745f6c7-9ef9-4492-9e0f-c96dbcbad49a"
+Template: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/IntegratedGraphQLTabs/December
+Signature: iIqLeR78mlhOnRPZOnP3ObgiW0vlAWL1Q+zGleqA4F8=
+Modified: 637855358444176419
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\E9262F0065F3C6FF\Afternoon.yml
+ID: "68d9d8c7-34bf-4067-9aa0-e159398a6e5e"
+Parent: "04343c36-802b-445c-9370-83de7b768e32"
+Template: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/ContentsResolverTabs/Afternoon
+Signature: 8k4PalynSbwWSqiZwhVPBTNcVAZ8DiGuNgLBOQiwyMo=
+Modified: 637855358444096397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\98A66C98F9106B81\IntegratedGraphQLTabs\January.yml
+ID: "aafa9343-849e-417b-a9c4-3f621c45ab98"
+Parent: "1745f6c7-9ef9-4492-9e0f-c96dbcbad49a"
+Template: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/IntegratedGraphQLTabs/January
+Signature: eNgZATfkjK3qW8evMTsSD1w8myHgMZCVqGHK5u96r3M=
+Modified: 637855358444136424
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\11499A5EB9E32CC1\Page Components\Content Block.yml
+ID: "11575dba-072d-4993-b838-1223abcdfb08"
+Parent: "60ce8042-b6a3-410f-8da2-69d8a971593a"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Erat-tristique-gravida-dapibus/Page Components/Content Block"
+Signature: MdCTBXzsksDNbENrs6tjdr7Y9CVvUhOT9w2T9kSUtbU=
+Modified: 637855358443346410
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\F9EE2F5EB0FF5891\Page Components\Content Block.yml
+ID: "8827b690-e68a-4534-bd0a-65fb85d42e07"
+Parent: "e02925bf-d381-4549-904b-556b0a24ac28"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Amet-imperdiet-suspendisse/Page Components/Content Block"
+Signature: Aehw75Sp2/c7QQpMEkXnGMpr5fNiHX4H9n3k7O5Oh7w=
+Modified: 637855358443216423
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\1539D6B611203E31\Page Components\Content Block.yml
+ID: "a55874ba-0da4-4ae8-92fd-cd571cc5b08b"
+Parent: "fa487188-4efa-4033-a568-d0218fe9b997"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Massa-litora-fringilla-quis/Page Components/Content Block"
+Signature: lDOCgvPlC7iGLNGllwm1UoqhLX6T7+W+N6lPDx2JicI=
+Modified: 637855358443526433
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\FCC1961B29C3D64D\Page Components\Content Block.yml
+ID: "5113160e-b383-4eee-9145-977b5a8b0dc0"
+Parent: "6c3af89a-f893-42c6-a958-b7ecf3100451"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ut-vulputate-neque/Page Components/Content Block"
+Signature: EUAe/lQVDMf8fGsd2vwMjneUKvlsfkqYA6hPeN9JQgI=
+Modified: 637855358444006394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\69F8474B63183B36\Page Components\Content Block.yml
+ID: "b5a77693-57c2-43ba-8554-10ec47f4e141"
+Parent: "3333f062-f536-4912-92de-70e0029abc94"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Odio-quisque-habitasse/Page Components/Content Block"
+Signature: nXfe+P0cW1QG3nTtM1TIea+Uk0X7EkAL9OZfIrdzNRk=
+Modified: 637855358443636460
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation.yml
+ID: "859ba3e4-3741-4182-97c9-7085589fd98a"
+Parent: "771ef428-def1-4183-90f6-ef1d6f1ff3f7"
+Template: "0a70fa73-8923-4a6e-abf3-4134f25f3221"
+Path: /sitecore/content/Tenant/Multi/Presentation
+Signature: I7upoa58vGTK5z9fCOpT/Uf5Y4wN6yrJiERw21axd2k=
+Modified: 637855358439436401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\6B8FBFBD355868B5\Integer-bibendum-fermentum-congue\Page Components.yml
+ID: "57569500-6260-4584-b700-61d9ed6baf0b"
+Parent: "a8aeba88-00ed-4d7e-85fa-f14b09bdd3c4"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Integer-bibendum-fermentum-congue/Page Components"
+Signature: dsjhjfpNy4+RieWf3SeD3bIoASjg3/vlgSwbhbShCa8=
+Modified: 637855358442406407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Settings.yml
+ID: "6f4ea3bc-1dda-43b3-af1b-af4a5d31a000"
+Parent: "771ef428-def1-4183-90f6-ef1d6f1ff3f7"
+Template: "6c6fe3cc-7b5f-4b25-9d04-9486a10c8257"
+Path: /sitecore/content/Tenant/Multi/Settings
+Signature: EGllMLbvmFc+j36D8yjSk5jqHDq5MXv4ax/RBgDKXvA=
+Modified: 637855358439446391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\8CB7D7370A4D80B5\Page Components\Content Block.yml
+ID: "f0337109-fdc6-4ade-9822-c182336c33b1"
+Parent: "cb13f3de-0778-4633-9048-3425f15cffa2"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fusce-aenean-primis-placerat/Page Components/Content Block"
+Signature: cA+9jDyyu//DoP52dD2x+JkVf5bIWavJHXjo3GRm12I=
+Modified: 637855358443426432
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\home\Page Components.yml
+ID: "a1a70ff8-7a83-4c17-a344-3754fd2d907b"
+Parent: "8601ef21-436a-48a0-8b67-a7fccbbc5125"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/content/Tenant/Multi/home/Page Components
+Signature: a3ZrfPLI0/52dI+PnJcgCW0qO8B6ahU5Hvfj1dl57DU=
+Modified: 637855358439556420
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\8F8513100012EE89\Page Components\Content Block.yml
+ID: "2e208ea9-7999-4057-99a9-942951dff7b4"
+Parent: "1d77bb11-a59e-4177-ae39-4d8a638afcf7"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-fermentum/Page Components/Content Block"
+Signature: RJqfwbJQtW9+LWwBpYw8yH04vWl0TC1XyAEX5H0C7vg=
+Modified: 637855358443726395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Available Renderings.yml
+ID: "4e39cabd-63f5-4365-b139-3e1155d27932"
+Parent: "859ba3e4-3741-4182-97c9-7085589fd98a"
+Template: "26ec1d18-11b2-4dd9-8326-f6115f4fd7eb"
+Path: /sitecore/content/Tenant/Multi/Presentation/Available Renderings
+Signature: 2l9Zd+QRiRQ4HJ5JupzPUTorV0DZpD6to5wDX2fxsR0=
+Modified: 637855358439716386
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\EFA06B573E5B7E30\Page Components\Content Block.yml
+ID: "e48dcb28-f0b0-4264-8229-4162f638804a"
+Parent: "bc6d6434-f475-4981-bdea-c658adab3e2b"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nam-tincidunt-sem-hendrerit/Page Components/Content Block"
+Signature: br7Q9btCRzeJSiAwEbFTvGjpcQePf+Nj5SXeIkPJ5S4=
+Modified: 637855358443576586
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\foo.yml
+ID: "ae7e6df3-ffad-498a-bc06-98a98adb2768"
+Parent: "a2eeda1d-d66f-519f-a070-a32afdc624ad"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: /sitecore/content/Tenant/TestXmCloud/home/foo
+Signature: hyXoZpFhdgx3J1OeMgVmgTUqW7Ye7v7/YqQxftDqNjU=
+Modified: 637855358439906483
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\F7BF624CF5ED0D8B\Page Components\Content Block.yml
+ID: "f8a117d4-3e8e-4337-b2d4-ff9eff72df3e"
+Parent: "a7b2f818-0cf5-4b58-bc02-fc11a54b2db4"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Praesent-ultrices/Page Components/Content Block"
+Signature: nIqoUeixqDVHyf8J8V0h/XtzMl2ciCGXSRqAplLoXVQ=
+Modified: 637855358443766610
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated.yml
+ID: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Parent: "a2eeda1d-d66f-519f-a070-a32afdc624ad"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: /sitecore/content/Tenant/TestXmCloud/home/generated
+Signature: F3QdQRibrSPrlZQuH5sxT3rBHGljOFzNRANvqwPAXic=
+Modified: 637855358439926417
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Dictionary.yml
+ID: "af368d9a-7c88-56ae-8a26-7deddd1a5bae"
+Parent: "3b49267e-a864-4299-842c-1ea812d59feb"
+Template: "0a2847e6-9885-450b-b61e-f9e6528480ef"
+Path: /sitecore/content/Tenant/TestXmCloud/Dictionary
+Signature: hhM+Rw/EV4r8l7OJAEi+tDsPkTiUd23WzHnWeBXeI5I=
+Modified: 637855358439506403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Available Renderings\Media.yml
+ID: "af9c5e67-4abc-4851-88e0-a107c6305577"
+Parent: "4e39cabd-63f5-4365-b139-3e1155d27932"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Tenant/Multi/Presentation/Available Renderings/Media
+Signature: /iMA62Ic+HvilytAwK1qqzQFa4si7Kp8T8zQLCqGIfw=
+Modified: 637855358440496408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home.yml
+ID: "a2eeda1d-d66f-519f-a070-a32afdc624ad"
+Parent: "3b49267e-a864-4299-842c-1ea812d59feb"
+Template: "4e29755e-e894-4294-922f-29d936cce6fe"
+Path: /sitecore/content/Tenant/TestXmCloud/home
+Signature: vQmOASup76Wy/Uky6ecTcbD1cDAYUCg42oEW1rp0l9s=
+Modified: 637855358439468402
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Available Renderings\Navigation.yml
+ID: "5d77f2cb-0602-4032-b6b9-31341684650a"
+Parent: "4e39cabd-63f5-4365-b139-3e1155d27932"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Tenant/Multi/Presentation/Available Renderings/Navigation
+Signature: yLTuJzfRHuIvJtHTyW/cNtRTrw22nFyqVlTdhgEweLk=
+Modified: 637855358440516398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Media.yml
+ID: "8374b62b-7986-4d03-96db-3dc58e8220af"
+Parent: "3b49267e-a864-4299-842c-1ea812d59feb"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/Tenant/TestXmCloud/Media
+Signature: /tItr793U2Bo+5wnsmeuJlQRdbMx34Fe0ikYKA/YlJQ=
+Modified: 637855358439476391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Available Renderings\Page Content.yml
+ID: "79833ca9-dacd-4f87-b91f-991b5a456e52"
+Parent: "4e39cabd-63f5-4365-b139-3e1155d27932"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Tenant/Multi/Presentation/Available Renderings/Page Content
+Signature: s8ywzu/P3q8W5DPO/JD4pzAVOHYKL47VD1flc/RSPs0=
+Modified: 637855358440536398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation.yml
+ID: "8dcd3f27-7991-447f-a249-f5e66c8b46eb"
+Parent: "3b49267e-a864-4299-842c-1ea812d59feb"
+Template: "0a70fa73-8923-4a6e-abf3-4134f25f3221"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation
+Signature: su2gp1vTQz02n49wc2ucIzz7b3gQkMkv6lR6dhwVqMg=
+Modified: 637855358439526451
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\Image.yml
+ID: "d1778452-0eec-4e31-9e39-27587c572be9"
+Parent: "c1708e5e-2ca0-4471-87cb-9f3d7b68d130"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/Image
+Signature: rtOyqkR1oHJM1egnbtYcBhGosSv8TB+hfszsStD/BGA=
+Modified: 637855358440556416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Partial Designs.yml
+ID: "32c7b515-60b2-4c67-9ac8-6758d6630e4b"
+Parent: "859ba3e4-3741-4182-97c9-7085589fd98a"
+Template: "ae38a714-3346-4ab1-8f5c-4a9875d049f3"
+Path: /sitecore/content/Tenant/Multi/Presentation/Partial Designs
+Signature: vMwU8bJoTdX0p0R+6F+KVCEcn4CcvA4DZUgraCS7vvU=
+Modified: 637855358439776400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Erat-elit-ut-senectus.yml
+ID: "4086e855-8d88-4401-9312-85fa552981e0"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Erat-elit-ut-senectus"
+Signature: mBat1nzSw27yYQGdQWcHJ6bppN2bk1kamvDxcV8mCHs=
+Modified: 637855358440946397
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Placeholder Settings.yml
+ID: "c208459a-afd9-4dbe-bc34-b9284b9702f9"
+Parent: "859ba3e4-3741-4182-97c9-7085589fd98a"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/Tenant/Multi/Presentation/Placeholder Settings
+Signature: N9ENbwm5JQnK8Cj2b3v513DLRRJ5G8gYX3pPqWD9aKE=
+Modified: 637855358439786400
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Erat-tristique-gravida-dapibus.yml
+ID: "e9cd1cc9-e47f-460e-ba42-08d2811d95da"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Erat-tristique-gravida-dapibus"
+Signature: pHLrE33uOaVJXrF3M6q7xitF0SDP4x5+RXrRhJZpoHI=
+Modified: 637855358440966395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Styles.yml
+ID: "1c760b08-64ed-4e80-924d-add73991b529"
+Parent: "859ba3e4-3741-4182-97c9-7085589fd98a"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Tenant/Multi/Presentation/Styles
+Signature: LnAHmhfkUwNdH92qDu/tC5WEqHVfYIIr2+O2QL7nIKU=
+Modified: 637855358439816395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Fames-elit.yml
+ID: "823df2aa-63ce-490a-b959-e3fa6095cb10"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fames-elit"
+Signature: xIMc9+vmL/rJdphqrPbSauf0iUvfCws6uXWHSB+asWw=
+Modified: 637855358440981152
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Settings\Redirects.yml
+ID: "8b414b17-a6b7-4e0e-80d6-8192254109ad"
+Parent: "6f4ea3bc-1dda-43b3-af1b-af4a5d31a000"
+Template: "c2dc4690-af44-48c7-bb21-90d1ad246732"
+Path: /sitecore/content/Tenant/Multi/Settings/Redirects
+Signature: Rfv9utKKNC1PKrKd++g2OTZdpgKWBh9WAZy6y3DnCok=
+Modified: 637855358439826401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Fames-ultricies.yml
+ID: "d40a330d-7a24-4005-8563-509037a68e83"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fames-ultricies"
+Signature: hWb32BcKbV9wXfokiZ5jk1BcmcdY1GbKn4g3zBJN6GQ=
+Modified: 637855358440986442
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\hello.yml
+ID: "11810e52-78de-480e-8fcc-42a9726da422"
+Parent: "a2eeda1d-d66f-519f-a070-a32afdc624ad"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello
+Signature: mS/FaAjB6VqP0jO9lg6YlL8Xb52ubuwaUR1CCcqy2Bc=
+Modified: 637855358439946390
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Praesent-ultrices.yml
+ID: "3d3e0fb9-1711-46cb-b3df-e2d561e1e170"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Praesent-ultrices"
+Signature: js/GHhhPMZBrc4pUO0glS624V4iAxzOHl45cNlU55wI=
+Modified: 637855358441346398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\mvc.yml
+ID: "6eafde7f-56b9-4cd1-828f-6483348e63ec"
+Parent: "a2eeda1d-d66f-519f-a070-a32afdc624ad"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: /sitecore/content/Tenant/TestXmCloud/home/mvc
+Signature: tCRGofZ/2zXICfN2CCsOcoSUVVKZg8p2Miy8qA75X90=
+Modified: 637855358440026406
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Proin-quisque-per-litora.yml
+ID: "69904597-6130-41ea-8551-81211ef39b33"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Proin-quisque-per-litora"
+Signature: OH4WWEI4V0VPPRV3250D2jnK11G7+AKEkw4bwse7Icc=
+Modified: 637855358441356406
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\Page Components.yml
+ID: "23b68596-59e1-51b3-9386-7d80e7585a76"
+Parent: "a2eeda1d-d66f-519f-a070-a32afdc624ad"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: /sitecore/content/Tenant/TestXmCloud/home/Page Components
+Signature: tFJDXc12iTuN1dSkCsUZcIswgKpp55GPv+9UOOGriL0=
+Modified: 637855358439886448
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Quisque-faucibus.yml
+ID: "53b143c6-217b-4a70-b1ff-f21c50cbcc34"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-faucibus"
+Signature: IRHfNya8P9fk4TRajZzLilKFtBR1YsQzK5ZhRU+h7n4=
+Modified: 637855358441376403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products.yml
+ID: "b98b5e01-cb9c-4852-b0ff-88b5cfb22488"
+Parent: "a2eeda1d-d66f-519f-a070-a32afdc624ad"
+Template: "10b730ef-d8b6-4a15-bb50-101c15dea5f7"
+Path: /sitecore/content/Tenant/TestXmCloud/home/products
+Signature: QFzOs+OAa76WM2VearJ8r2EeLXqN0f477vleld7oZTQ=
+Modified: 637855358440066401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Quisque-fusce-sociosqu-ad.yml
+ID: "c6c30ab8-a503-4075-8161-cd918dcb936d"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-fusce-sociosqu-ad"
+Signature: 35oI4VP7pVRiQUe17/KM09YigKTouyQidOMJW3oB/1g=
+Modified: 637855358441396411
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\LinkList.yml
+ID: "3744e36b-97e3-43bc-a548-c624b1b85c8e"
+Parent: "c1708e5e-2ca0-4471-87cb-9f3d7b68d130"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/LinkList
+Signature: RPetM74GoiBSMyWcisMXruRvjfeH3HRX4b9J9QZvpG8=
+Modified: 637855358440576503
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\Image.yml
+ID: "e63a6092-a087-48e1-86f1-c10b588edb9c"
+Parent: "8e5916fa-c8b4-41dc-9272-729143052f47"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/Image
+Signature: mAtj8orRioGElrPINFRmkO/ecRqlN1LHnjaNMQ3MYu8=
+Modified: 637855358441756403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\PageContent.yml
+ID: "3e1520a9-8b8a-404e-8b39-ced71e044724"
+Parent: "c1708e5e-2ca0-4471-87cb-9f3d7b68d130"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/PageContent
+Signature: CfdXfbCS2yvcJXKr8hW5OL14ewR1Hj++RT2weJGzH0Y=
+Modified: 637855358440596405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\LinkList.yml
+ID: "e2363acb-ee70-4050-aa4f-9ee8bc3a16f5"
+Parent: "8e5916fa-c8b4-41dc-9272-729143052f47"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/LinkList
+Signature: 8/UL+msL5/fwdd/Hn9OR1+D/NLqXXH6Us/lavRa42Ek=
+Modified: 637855358441776394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\Promo.yml
+ID: "a51871d1-15bb-4eac-8424-5571e63d4d7e"
+Parent: "c1708e5e-2ca0-4471-87cb-9f3d7b68d130"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/Promo
+Signature: hYh4NUrup8+cmExYFva0PqrX1UUj3yBOZXUxt0j1wtw=
+Modified: 637855358440616403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\PageContent.yml
+ID: "d77667da-b011-4b23-accf-b74a0ead94cf"
+Parent: "8e5916fa-c8b4-41dc-9272-729143052f47"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/PageContent
+Signature: UPD+J5fPgD1dnQSUWJ8OtmpC+JuQ8FFMGv80oidnLzg=
+Modified: 637855358441786388
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\Multi\Presentation\Headless Variants\RichText.yml
+ID: "3a2de2bd-dec9-49f1-b5ef-29787d566509"
+Parent: "c1708e5e-2ca0-4471-87cb-9f3d7b68d130"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/Multi/Presentation/Headless Variants/RichText
+Signature: qOZTFQQYGH5oSp1KMPP906qMELog+HfwmZKc8lULF50=
+Modified: 637855358440656392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\Promo.yml
+ID: "ace1ff52-67f4-41a6-af6c-8d023fe7ca96"
+Parent: "8e5916fa-c8b4-41dc-9272-729143052f47"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/Promo
+Signature: NKh1JCXzU2PsKQh6JIaNWuKJtHp2qPjQ5ETU1lMggqk=
+Modified: 637855358441806384
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Felis-odio-turpis.yml
+ID: "d2287e08-fda8-446e-ac9e-47076f191777"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Felis-odio-turpis"
+Signature: mJTA0Abm/SHTHddNnKFtpiD8kAWwaYfBoCY20+rj6wA=
+Modified: 637855358440996437
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Per-vel-hac\Page Components.yml
+ID: "14ff2a65-16e4-4968-a95e-406fa2fd87b2"
+Parent: "b8f24a83-eb7f-4631-b419-07d1f478fa30"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Per-vel-hac/Page Components"
+Signature: p6lOvNidf2Xw/rbskzuIKj7mLfD0M8SDQjF+hperMpQ=
+Modified: 637855358442596405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Felis-tristique.yml
+ID: "a64f405f-4c4f-44fd-96c2-82c5cf90d60c"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Felis-tristique"
+Signature: Tuye3kgcQilwPgXcZmXbzeLNtvuZoBtaN73xNw5rDy8=
+Modified: 637855358441016403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Per-vel-libero\Page Components.yml
+ID: "39fd68aa-44bb-4dce-9109-684c830b2229"
+Parent: "d21026a1-2be0-4f02-b968-16a95a182ccf"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Per-vel-libero/Page Components"
+Signature: 56RFZ1dRJgXs1nvW4xtZogpuWFOPKyr/w8mqhjNy70g=
+Modified: 637855358442616410
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Fusce-aenean-primis-placerat.yml
+ID: "9109e719-ba8d-459d-a171-2aa61a929467"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Fusce-aenean-primis-placerat"
+Signature: LuglrtbRFkpMj5WA8B8KALB9tFOllmO/o68b8P1HrIs=
+Modified: 637855358441026413
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Phasellus-class\Page Components.yml
+ID: "ea2bbb11-281b-47db-9bac-1bc4eff5476e"
+Parent: "f855ccd5-877a-4cdd-957a-b666701daf8d"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Phasellus-class/Page Components"
+Signature: ERdfTQaz1dPypqgAcW1uuGYmoQ3n1TaSusdVxpewHc4=
+Modified: 637855358442636403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Gravida-litora.yml
+ID: "367b2999-09c2-447d-b09d-22634ce8b0df"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Gravida-litora"
+Signature: qqUEeLGqKak3k1OwLbVGpd5aco4KJJZGzDyFTvCrjMg=
+Modified: 637855358441036391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Porta-nec\Page Components.yml
+ID: "807aa269-4bb6-49a3-9f26-4fe921890e2e"
+Parent: "c4708927-6d3e-422a-81d7-76c792cf3a9e"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Porta-nec/Page Components"
+Signature: iMki9cIrljzy52xKO0y9lXg7bipW8aM7DsycZW5oCG8=
+Modified: 637855358442666392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Quisque-ullamcorper.yml
+ID: "5e2126e0-417a-4de1-a489-f7e3cf646167"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-ullamcorper"
+Signature: SzmjM8yCJbvNAiVju3zYYbLlrqHnvO5JbReqFoKh14w=
+Modified: 637855358441416434
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05\06\20\07.yml
+ID: "de272049-05be-42d4-a5c0-8a14b86f4c59"
+Parent: "8650ca60-5743-4de0-a0a9-8ed956960d28"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/07
+Signature: f+UrXCPpDGvb+YIH7X9MW4oC6Gz55pK6rC1pqKUIyog=
+Modified: 637855358444256432
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Sapien-in-taciti-urna.yml
+ID: "979644ae-0e81-4a14-a1e1-f0d9e3bc2b9e"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Sapien-in-taciti-urna"
+Signature: Fb5eSxOV9lpBfktp44wZQq7jj3bj4M5WTTEqSaAneQw=
+Modified: 637855358441426457
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05\06\20\08.yml
+ID: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Parent: "8650ca60-5743-4de0-a0a9-8ed956960d28"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08
+Signature: Ry55NAZ7zGHIYqzYEANLFaJCAK7plRc7bKHOSu5LK24=
+Modified: 637855358444266433
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Semper-vivamus-massa.yml
+ID: "a5f2958d-45d4-4d0b-be32-234ad69786de"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Semper-vivamus-massa"
+Signature: SlN+hBMuAa7BK6endPy2JEl/gHBfx/5++V3+cuSXMvw=
+Modified: 637855358441436429
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05\06\20\08\Amet-magna.yml
+ID: "7173a6e7-c5f6-4d89-a57e-a9ba18ca5ee0"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Amet-magna"
+Signature: PX/rcMo00NfJkB8FC/cHo7yNJv/uYGE1SWyS9IVyySU=
+Modified: 637855358444316440
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Senectus-enim-nec.yml
+ID: "316dc6d1-4287-4806-ba72-86ee95f3b991"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Senectus-enim-nec"
+Signature: IcuXl3PUJiAgw7U/i5XhqMgInT+Gc4MvNYRQgU3u5Bk=
+Modified: 637855358441456411
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05\06\20\08\Class-tempus.yml
+ID: "4f2883ef-0d97-434e-9df4-0e716239a2e5"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Class-tempus"
+Signature: SZreMMaLVk/bqSIN/j42gAwTKRmRx0imurkmh661j/E=
+Modified: 637855358444326441
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\RichText.yml
+ID: "1929e848-9ff8-4cce-9d21-701782b5b7b6"
+Parent: "8e5916fa-c8b4-41dc-9272-729143052f47"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/RichText
+Signature: IPu2rWF2ZbfBhlSU0O3XnKf4dLL9dFchcka0eDsnaFU=
+Modified: 637855358441816401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Headless Variants\Title.yml
+ID: "7bd1b896-090f-48ed-977a-673b5bf42f45"
+Parent: "8e5916fa-c8b4-41dc-9272-729143052f47"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Headless Variants/Title
+Signature: vEN0DXZM67FStcoEdQXf6yQpsdnJvqzLYCWSjeyOxRE=
+Modified: 637855358441826408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Presentation\Partial Designs\Empty.yml
+ID: "f9814d61-fc88-40f1-a40d-152381192667"
+Parent: "b3704379-6b18-4114-a603-9577db53f07d"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Tenant/TestXmCloud/Presentation/Partial Designs/Empty
+Signature: Uvr2sBmhhjPHchdyI6itHYUad7Pl7y8OzXiPoM1p34Q=
+Modified: 637855358441846421
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\Settings\Site Grouping\TestXmCloud.yml
+ID: "9180e190-4696-478d-b07c-0436df6a5631"
+Parent: "bdfca1a9-d574-4a47-b567-9a8d8ac75cf8"
+Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
+Path: /sitecore/content/Tenant/TestXmCloud/Settings/Site Grouping/TestXmCloud
+Signature: j3WMCofqgUReO38zpO0TGO6PsxIn/cQ3ju5sSz4/LJk=
+Modified: 637855358441866395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Quisque-faucibus\Page Components.yml
+ID: "989373bd-1ec4-462f-ad92-801d16f05231"
+Parent: "53b143c6-217b-4a70-b1ff-f21c50cbcc34"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-faucibus/Page Components"
+Signature: FqghnVNyUWZf6yX58zjpFoLSWjWoeyxVm87kSVMKinQ=
+Modified: 637855358442706391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Sit-blandit-mi\Page Components.yml
+ID: "68b240ab-c86c-4044-9b6c-c04e885e615f"
+Parent: "6bdf5c3b-6841-45ef-a42a-2a23e9598d05"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Sit-blandit-mi/Page Components"
+Signature: wa6wn3g96ebsxZc45e6yUTtVTf7vr9ch64iFhsVSCLI=
+Modified: 637855358442806408
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Ut-enim-cursus\Page Components.yml
+ID: "47e49620-ad33-40e1-bf0e-e76c04aa3832"
+Parent: "16289bcd-b60d-4b9c-be8c-3d40b7b48880"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ut-enim-cursus/Page Components"
+Signature: 5que0OFqTEDkZKYwoutbXVKsLPH90vYtKFwBl6OS1JU=
+Modified: 637855358442846403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\generated\Vulputate-magna\Page Components.yml
+ID: "f6cf54a1-6db5-49cb-866b-460a5c594dca"
+Parent: "c280c0e4-43a3-44d4-ab62-e8f72958e768"
+Template: "739cbdb4-eb48-4af5-96ab-b11f9bc2a589"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Vulputate-magna/Page Components"
+Signature: KZ3QjoSXDuj3G+kSCo8cOwfB7npSVLbba6B6pJxjz/M=
+Modified: 637855358442916410
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05\06\20\08\Enim-habitant-in.yml
+ID: "e2ef37b8-2825-4bfb-98b2-dde302d67117"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Enim-habitant-in"
+Signature: 87gbkM7smaDdTBJNgK3McXzd0KnSV7Z0oS3TyHm3BQQ=
+Modified: 637855358444336394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05\06\20\08\Libero-netus.yml
+ID: "e809f938-6ff5-48c8-83d4-b19d8cedb093"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Libero-netus"
+Signature: z9y+h6qc8nr84CVBmdYgdka8EWrW6E0od2Zrv6CSP8E=
+Modified: 637855358444456423
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\content\Tenant\TestXmCloud\home\products\2021\05\06\20\08\Urna-vestibulum.yml
+ID: "cd8a27c2-1a94-442a-9087-a4e7584dcd68"
+Parent: "970fa396-3e22-4a24-ac50-f526e23e3c83"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/08/Urna-vestibulum"
+Signature: YqYxObwCcy6zQfqps2XMHDPtl24ujzvorB0ix+iqP8E=
+Modified: 637855358444586437

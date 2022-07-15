@@ -1,0 +1,32 @@
+﻿---
+ID: "feedd9a4-d7f0-42d5-97cd-578cc669d623"
+Parent: "6fb6ae1b-58d3-4fcf-97b4-a126f14d67ee"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Dui-facilisis-faucibus-mattis/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T221953Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b0a17d0-154d-489d-802e-a0b069448070"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum odio sem diam velit aliquet purus dui, iaculis fermentum justo eget ante lacinia erat fusce dui ligula egestas ante proin sit.</p>
+        <p>Nulla aliquam tristique tempus fermentum dolor massa pellentesque tempor nunc lectus gravida mauris sagittis.</p>
+        <p>Nostra dictumst facilisis curae facilisis enim praesent himenaeos praesent, velit eros dui urna sed himenaeos donec vivamus magna, lorem justo vestibulum taciti proin blandit vestibulum adipiscing praesent dictum tincidunt.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Dui facilisis faucibus mattis
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T221954Z

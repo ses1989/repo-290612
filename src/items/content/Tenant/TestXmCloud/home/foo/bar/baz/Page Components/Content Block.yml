@@ -1,0 +1,62 @@
+﻿---
+ID: "a4ff0e3a-fc7e-4f66-9b3f-6181a7d3f545"
+Parent: "0787cf7e-e222-4997-9048-a4942497bb2e"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: /sitecore/content/Tenant/TestXmCloud/home/foo/bar/baz/Page Components/Content Block
+SharedFields:
+- ID: "18b0d744-5127-4444-9f1b-40ea0cc91418"
+  Hint: Name2
+  Value: "test field Name2 [shared]"
+Languages:
+- Language: "da-DK"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T211554Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1328ac48-5acc-45ee-832b-2e2a02e49b9d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210621T184019Z
+- Language: en
+  Fields:
+  - ID: "a595ea9c-9d65-4942-9c12-806c76f55ccb"
+    Hint: Name1
+    Value: "test field Name1 [unversioned]"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210517T205950Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94c179d7-a80a-4881-b795-133fb3a77b4a"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: <p>Baz Content</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Baz Testing
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210621T182319Z

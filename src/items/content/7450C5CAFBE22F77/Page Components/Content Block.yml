@@ -1,0 +1,32 @@
+﻿---
+ID: "edbb2a38-f5f2-4e58-9982-728fb5327fdc"
+Parent: "930ece92-1277-4e8a-b67c-8ef304b51aae"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-ullamcorper/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222014Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26bad541-c3a3-4351-afaf-faeb6a4a1174"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum elementum odio consectetur erat himenaeos per suspendisse, enim proin quisque iaculis facilisis lacus proin iaculis, vehicula elementum eu duis convallis cras pharetra non pulvinar egestas neque potenti augue ut risus vivamus dolor.</p>
+        <p>Bibendum rutrum bibendum primis varius diam ultricies mauris tristique, vitae fringilla egestas himenaeos fusce risus lobortis, neque donec aptent suscipit augue integer sed aenean aliquet sollicitudin libero lobortis netus tristique, pellentesque malesuada a viverra hac, id suscipit feugiat quis lectus.</p>
+        <p>Nunc maecenas posuere sapien praesent sed fames massa quisque sociosqu sodales lacus ad, dolor auctor proin nulla suspendisse potenti conubia lacus amet sit nulla enim litora quis nec malesuada primis quam blandit turpis pretium ipsum.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Quisque ullamcorper
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222014Z

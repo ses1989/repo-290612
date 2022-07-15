@@ -1,0 +1,32 @@
+﻿---
+ID: "11575dba-072d-4993-b838-1223abcdfb08"
+Parent: "60ce8042-b6a3-410f-8da2-69d8a971593a"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Erat-tristique-gravida-dapibus/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222026Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "576b37e7-fd8b-4e11-9bb6-42be4e1cbf93"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum diam suspendisse non dictum, erat viverra vivamus tellus suspendisse, cras tempus a amet.</p>
+        <p>Etiam est adipiscing eget magna platea porta aenean augue nostra accumsan vehicula metus.</p>
+        <p>Ante etiam viverra suscipit suspendisse nisi ut sem interdum, ante platea vitae eleifend consequat enim at scelerisque inceptos, laoreet risus venenatis semper vitae ut metus massa dictum libero ut conubia dictumst habitant pretium class, quam iaculis feugiat placerat ligula tortor aptent, aliquam molestie congue at in accumsan dolor.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Erat tristique gravida dapibus
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222027Z

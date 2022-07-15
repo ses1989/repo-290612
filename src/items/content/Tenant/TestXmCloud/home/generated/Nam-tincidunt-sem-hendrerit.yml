@@ -1,0 +1,44 @@
+﻿---
+ID: "20cb50f9-88bb-4137-ae64-80c64dcdd14f"
+Parent: "103a3f95-d66f-4e0e-83b3-610dd5aec93e"
+Template: "0e7595b7-71a9-4f15-9d48-280ba55defe7"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Nam-tincidunt-sem-hendrerit"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ECAD9DF8-7781-4F2D-AB4F-9AFC020AC287}"
+              p:after="*[1=2]"
+              s:ds="{E48DCB28-F0B0-4264-8229-4162F638804A}"
+              s:id="{4B77E956-C886-4AF9-85F1-60BD8CF872EE}"
+              s:ph="TestXmCloud-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222022Z
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Nam tincidunt sem hendrerit
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Nam tincidunt sem hendrerit
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b32ccbf9-692a-484c-a2f3-b115e4eb6155"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T063254Z

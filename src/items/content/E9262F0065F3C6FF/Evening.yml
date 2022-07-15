@@ -1,0 +1,37 @@
+﻿---
+ID: "8c9e0b10-4d64-4a3b-b6f3-bc3a9dd94f52"
+Parent: "04343c36-802b-445c-9370-83de7b768e32"
+Template: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Path: /sitecore/content/Tenant/TestXmCloud/home/hello/Page Components/ContentsResolverTabs/Evening
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "043c2a5d-8ed0-49a0-9660-3a8b9a2a2dcb"
+      Hint: Heading
+      Value: Evening
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210511T131614Z
+    - ID: "3324b5e5-4ad8-4259-8c3a-b307f691eeab"
+      Hint: Content
+      Value: "Good evening!"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f91c76c2-6b35-4882-85c8-af664b19829e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210511T131630Z

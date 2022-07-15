@@ -1,0 +1,325 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Accordion.yml
+ID: "8fc93314-f687-4266-a5a9-45d5ef24081e"
+Parent: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Accordion
+Signature: 6BuQpaSrz3Aw7bOTI+NziRe1DoDtsA+tdqFEfGSgs7U=
+Modified: 637855358436846418
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Accordion Item Folder.yml
+ID: "8fb2c42c-b950-4be3-b1c6-8ba7f11b2ed8"
+Parent: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item Folder
+Signature: +YMuA2RWT/+RtzLieBfRQ5ztmv5J5Ka2PfRko8zmhu0=
+Modified: 637855358436866446
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent.yml
+ID: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/BasicContent
+Signature: m/Ss244YUEdZjtgargElIIzRjSsSyH/R3+zn4hLbifY=
+Modified: 637855358436816413
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Content Block.yml
+ID: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Parent: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Content Block
+Signature: k01gRlZuPd8vX+8nBWunH/1/s7TdlVHyZc5dpZMb9MA=
+Modified: 637855358436886416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\CustomTabs.yml
+ID: "5595852a-c641-464c-8cf2-c07435ae9e1c"
+Parent: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/CustomTabs
+Signature: echqYJMNMknMvHRzIBpYSihfieTv6oOulixB2x21xuw=
+Modified: 637855358436916433
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Content Block Folder.yml
+ID: "31da74c3-31db-4ef2-8053-b41b96cc2f14"
+Parent: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Content Block Folder
+Signature: zq4NXjq+NyMPe9l4S7/TX86oypQWb/FAf06YHl3MUPo=
+Modified: 637855358436896457
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Tab.yml
+ID: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Parent: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Tab
+Signature: n+SHbMo9FwW6KMXYLxeu4RJc0BoOsfs2c2K2AblfVvg=
+Modified: 637855358436966416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Accordion\Data.yml
+ID: "2da576ea-f1d1-4032-bd3e-e03482a4dc8a"
+Parent: "8fc93314-f687-4266-a5a9-45d5ef24081e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Accordion/Data
+Signature: TiiFOTn21hM9AEaCSeSMpVzV9C2QohtM3v04LLnq9eU=
+Modified: 637855358436976423
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Hero Banner Folder.yml
+ID: "456f5066-3169-4cda-b827-ed0917a75776"
+Parent: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner Folder
+Signature: LYnmD3ERCBMIaJ3MGRYqueZYFjeCIkeyLnom7fgIA0k=
+Modified: 637855358436946425
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\CustomTabs\Data.yml
+ID: "72ab249d-39ad-404f-b14e-5fe7e55d9abb"
+Parent: "5595852a-c641-464c-8cf2-c07435ae9e1c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/CustomTabs/Data
+Signature: NF0FUVFhJVPQFvrVx1sLjYxTbBVrVj+Fm+C5RSJ1adY=
+Modified: 637855358437036434
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Content Block Folder\__Standard Values.yml
+ID: "8eb40c0a-666d-4ba6-ab5f-698559c66904"
+Parent: "31da74c3-31db-4ef2-8053-b41b96cc2f14"
+Template: "31da74c3-31db-4ef2-8053-b41b96cc2f14"
+Path: /sitecore/templates/Feature/BasicContent/Content Block Folder/__Standard Values
+Signature: +NNxZ6bwStlZ+CuDKp53pu0dt2BOBwuelGY67urmu8A=
+Modified: 637855358437396431
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Accordion Item\Accordion Item.yml
+ID: "19d45025-3e1e-4c50-9ea4-6d335ede66e2"
+Parent: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item/Accordion Item
+Signature: DGy/btrxXF7KH/PtHmQP/dn46haV+/n6+AQi+bIRwuQ=
+Modified: 637855358436996416
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Tab\Data.yml
+ID: "eb35cc3d-b8c3-41c9-96a7-9f5ef579fcc2"
+Parent: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Tab/Data
+Signature: JVWq0AGCyc5W2MtsbiICaE16z0c26N1L5xCWiFaa8pY=
+Modified: 637855358437076405
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Hero Banner Folder\__Standard Values.yml
+ID: "e4c81f19-7cac-4bd8-9f2f-1bdf32658c59"
+Parent: "456f5066-3169-4cda-b827-ed0917a75776"
+Template: "456f5066-3169-4cda-b827-ed0917a75776"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner Folder/__Standard Values
+Signature: CPMKw7KQ7u6iZqPtqNHDQnMb/S1SOV7ffsovrHgyFoA=
+Modified: 637855358437456407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Content Block\Data.yml
+ID: "1936d6ac-083f-4127-8978-45c032b442cc"
+Parent: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Content Block/Data
+Signature: WMdZznJsDYwY6IotGmjtHC7x6m4PM97iifI7p6Ydg/c=
+Modified: 637855358437016391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Content Block\Data\Content.yml
+ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+Parent: "1936d6ac-083f-4127-8978-45c032b442cc"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Content Block/Data/Content
+Signature: fq9mwK3AIZfyJKUR1PFk796WxHzMzx3pD7U6rn5EuB4=
+Modified: 637855358437166432
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Accordion Item\Accordion Item\Content.yml
+ID: "45efe66e-5ad2-4f1d-bad5-fdf281688681"
+Parent: "19d45025-3e1e-4c50-9ea4-6d335ede66e2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item/Accordion Item/Content
+Signature: tBBMOriRq3y8iuvclFEkNTcFDkk52l6/F0x7W4+4GmQ=
+Modified: 637855358437126432
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Hero Banner\Banner.yml
+ID: "a5c01c92-af57-4a88-bf47-b778a7eb7bad"
+Parent: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/Banner
+Signature: H2Qk0GdM+xxW8gKZWBgZ+cnwzeUDULVMnBguSqVNI+c=
+Modified: 637855358437056389
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Hero Banner\Banner\Title.yml
+ID: "5179186c-b95e-4e97-95ab-7958721a9aeb"
+Parent: "a5c01c92-af57-4a88-bf47-b778a7eb7bad"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/Banner/Title
+Signature: HAX1Qa9tcNbMibx7R1cNwQu+AO1HKvAma6PknvVprl8=
+Modified: 637855358437256435
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\CustomTabs\Data\Heading.yml
+ID: "aebe204a-fd1d-49ec-9308-44d8529a9a3b"
+Parent: "72ab249d-39ad-404f-b14e-5fe7e55d9abb"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/CustomTabs/Data/Heading
+Signature: Mu+Ymd17zbZzLLpB2fvji1HMFQ38qtci6/nfVBqmNaQ=
+Modified: 637855358437226448
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Tab\__Standard Values.yml
+ID: "12cfa746-9545-4ce3-a300-0c408dfb4e7a"
+Parent: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Template: "61dc3873-c909-4b1f-8675-fb46d54237f5"
+Path: /sitecore/templates/Feature/BasicContent/Tab/__Standard Values
+Signature: IurqJU2NXhMcGEi45PzJn7rTzbz6qx0TaEP8CGujuBM=
+Modified: 637855358437466391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Content Block\Data\Heading.yml
+ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+Parent: "1936d6ac-083f-4127-8978-45c032b442cc"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Content Block/Data/Heading
+Signature: a7hY0fJXzlb3Fm4aZII7Zodmuh6finGW7pTcJVIbc64=
+Modified: 637855358437156431
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Hero Banner\Banner\Image.yml
+ID: "b5f61442-ff0f-46a5-90a8-d6d387de24a0"
+Parent: "a5c01c92-af57-4a88-bf47-b778a7eb7bad"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/Banner/Image
+Signature: J/F9M1BN4mU+e7Hd8LpEbo9823l0VCXDbhqYXGNf+Hc=
+Modified: 637855358437306420
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Hero Banner\Banner\Subtitle.yml
+ID: "89b0a8ed-0ee8-4512-b518-ab2c4c2a0b9e"
+Parent: "a5c01c92-af57-4a88-bf47-b778a7eb7bad"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/Banner/Subtitle
+Signature: Ftilv8PGEPX72rW0Kg3C6+OT3SiGb+nuHQ9AIpeOdkk=
+Modified: 637855358437286505
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Accordion Item.yml
+ID: "fe549078-8c72-472a-8ea7-51053e0e1d73"
+Parent: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item
+Signature: 0S/bwNmzzSJndVIr++9fLw+R395nxJvhhNm+KA2qmqI=
+Modified: 637855358436856391
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Hero Banner.yml
+ID: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Parent: "f348dadf-876f-43ed-9ee1-1b2aa12e2036"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner
+Signature: zLmzmXkKDHz0Mb6CqN+XrDNqcUHhx5nqeoGedGSmC5U=
+Modified: 637855358436936395
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Accordion Item Folder\__Standard Values.yml
+ID: "4dd9ca55-01af-4a83-bd53-c1793da769e4"
+Parent: "8fb2c42c-b950-4be3-b1c6-8ba7f11b2ed8"
+Template: "8fb2c42c-b950-4be3-b1c6-8ba7f11b2ed8"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item Folder/__Standard Values
+Signature: shZ/NRwN18UTb8dqhAmfTgl8P8bL9KyQVv5XMFhsMCI=
+Modified: 637855358437356401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Content Block\__Standard Values.yml
+ID: "7fa8465f-141b-42b6-b3a3-297fe9d0cfb9"
+Parent: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: /sitecore/templates/Feature/BasicContent/Content Block/__Standard Values
+Signature: Ytse3sKivrbgH2HHJrstTrThO1WSatcDA6KFwRTKP64=
+Modified: 637855358437376384
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\CustomTabs\__Standard Values.yml
+ID: "941adc85-c1c3-4aa6-89cd-ab9c2e114462"
+Parent: "5595852a-c641-464c-8cf2-c07435ae9e1c"
+Template: "5595852a-c641-464c-8cf2-c07435ae9e1c"
+Path: /sitecore/templates/Feature/BasicContent/CustomTabs/__Standard Values
+Signature: FuXqPNrgitEB2aXEUdn2w5KmRuuSXf4drEHIqOlVWmM=
+Modified: 637855358437406417
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Hero Banner\__Standard Values.yml
+ID: "eeafadce-cfcf-4734-90c1-4361482b1674"
+Parent: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Template: "4a421518-7b4a-4d43-af9b-94e17e00ec9f"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/__Standard Values
+Signature: 5DEYOMx03thv6xYsr8pG/aXJhHvcUgBSFB/hNCU5PGU=
+Modified: 637855358437426407
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Accordion\Data\Heading.yml
+ID: "f3e515cd-0bad-427b-a03c-01e18431a7ad"
+Parent: "2da576ea-f1d1-4032-bd3e-e03482a4dc8a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Accordion/Data/Heading
+Signature: n2qYsGaTbBpm7XkrhyLJgVprNDD1G3kZDEpUAtJOVuU=
+Modified: 637855358437096445
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Accordion Item\Accordion Item\Title.yml
+ID: "5718e787-142b-41d9-b5a1-0b18f45b8236"
+Parent: "19d45025-3e1e-4c50-9ea4-6d335ede66e2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item/Accordion Item/Title
+Signature: fpC/A3hpvQUwVVCMgu7DGfr2hdNhsi+Q4LjCOB9J8PQ=
+Modified: 637855358437116428
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Content Block\Data\Name1.yml
+ID: "a595ea9c-9d65-4942-9c12-806c76f55ccb"
+Parent: "1936d6ac-083f-4127-8978-45c032b442cc"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Content Block/Data/Name1
+Signature: TnE5MWkv1ccc6E/a9eC2dPHusuJ8Mlzawo5ZMeylOMI=
+Modified: 637855358437186441
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Content Block\Data\Name2.yml
+ID: "18b0d744-5127-4444-9f1b-40ea0cc91418"
+Parent: "1936d6ac-083f-4127-8978-45c032b442cc"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Content Block/Data/Name2
+Signature: wJyaXPYHG0BUoIJf95XGEAaeUA3ZYanmgR0TJFpZW/8=
+Modified: 637855358437206482
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Tab\Data\Content.yml
+ID: "3324b5e5-4ad8-4259-8c3a-b307f691eeab"
+Parent: "eb35cc3d-b8c3-41c9-96a7-9f5ef579fcc2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Tab/Data/Content
+Signature: yLZskUa9Fud87+VV5Ro9PwSRKj206uT2st7wshayZ6o=
+Modified: 637855358437336386
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\basic-content-templates\BasicContent\Tab\Data\Heading.yml
+ID: "043c2a5d-8ed0-49a0-9660-3a8b9a2a2dcb"
+Parent: "eb35cc3d-b8c3-41c9-96a7-9f5ef579fcc2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Tab/Data/Heading
+Signature: vohaGwt88tCAq8Lz9iZKZRcY1yM5mtJJA/pkb66hlG0=
+Modified: 637855358437316411

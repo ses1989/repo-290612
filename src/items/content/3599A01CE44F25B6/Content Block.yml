@@ -1,0 +1,32 @@
+﻿---
+ID: "e5f57e8a-71fd-4ed8-bdb0-77cdaa067730"
+Parent: "807aa269-4bb6-49a3-9f26-4fe921890e2e"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Porta-nec/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222029Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0e1c171-7d78-48eb-853f-3d21d2fdd6a8"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum odio at neque metus sagittis nulla convallis, aenean laoreet pharetra dictumst lobortis taciti venenatis volutpat, ornare lacinia faucibus ligula condimentum curae lorem urna mi nisi mollis habitasse curabitur placerat porttitor phasellus, magna faucibus massa etiam venenatis ullamcorper rutrum.</p>
+        <p>Quisque nisi integer aptent torquent posuere condimentum nostra ornare lacinia elementum fusce.</p>
+        <p>Ac volutpat ac vehicula inceptos sem blandit ac, odio blandit fames quisque blandit massa cubilia, odio lorem vel ante nec cubilia.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Porta nec
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222030Z

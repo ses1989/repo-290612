@@ -1,0 +1,46 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-renderings\Products.yml
+ID: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Products
+Signature: ZfPzZucixO+HD/YFpEP0Z31aw0yRPh87R1a/BtR7PN0=
+Modified: 637855358438206412
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-renderings\Products\ProductDetail.yml
+ID: "165b981e-0814-40db-8394-85c3128d9595"
+Parent: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Products/ProductDetail
+Signature: N8xpUz9RNwq02FoZp/eE+j1RzUqijyCAL8waGJe59sQ=
+Modified: 637855358438226401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-renderings\Products\ProductDetailHeader.yml
+ID: "4f577938-e122-432e-b95a-8fdd1f0a3691"
+Parent: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Products/ProductDetailHeader
+Signature: 8ZwKZIjARL1fHeOvSRxKxJPGdYyLm168cmT2+5H29E4=
+Modified: 637855358438246390
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-renderings\Products\ProductList.yml
+ID: "d91b7c6d-a10e-4b72-8327-5df0a8d79093"
+Parent: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Products/ProductList
+Signature: +HGQXZV7sTd3+dzxFgIqwrIjjzibI7lnk0oI822FEws=
+Modified: 637855358438266401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\products-renderings\Products\RelatedProducts.yml
+ID: "3d321dfb-adf6-4e16-aeee-20494acbf1e5"
+Parent: "d14d4ff5-9eb0-409f-8503-4b5e7fb1ad1b"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Products/RelatedProducts
+Signature: Yo27MXW9CUhxrApCMMm6kwcZbjUDGzRnhiJM6NG53RM=
+Modified: 637855358438276401

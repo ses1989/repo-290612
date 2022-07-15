@@ -1,0 +1,82 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-templates\Navigation\_NavigationRoot\Header and Footer.yml
+ID: "7019282e-7469-4e7a-a272-bcf4d0df0344"
+Parent: "d7f870bc-89d8-4f17-95ec-59acfd7da05c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Navigation/_NavigationRoot/Header and Footer
+Signature: OETRjAYA9N3Xm/ip1PW4A+OZW9tqi5+o3WXUJVuCYZE=
+Modified: 637855358437886398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-templates\Navigation\_NavigationItem\__Standard Values.yml
+ID: "9a697d65-723a-47ed-9066-56263dee57ed"
+Parent: "c231fbb4-dcdb-4708-99bc-94760f222cc5"
+Template: "c231fbb4-dcdb-4708-99bc-94760f222cc5"
+Path: /sitecore/templates/Feature/Navigation/_NavigationItem/__Standard Values
+Signature: 6t/fAIZs9UqfKXFwVqi5XALDaos3c5fk3yAeE6SDcVo=
+Modified: 637855358437946389
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-templates\Navigation\_NavigationItem\Navigation\NavigationTitle.yml
+ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+Parent: "fd29662b-b1ab-4df6-82c9-dfae5af66360"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Navigation/_NavigationItem/Navigation/NavigationTitle
+Signature: PrWbpWsko9Qh9yr70lVqJHy8IaVZyzsv8CVrhp0ZAkM=
+Modified: 637855358437896403
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-templates\Navigation.yml
+ID: "8c38d083-9e99-4153-99ca-a3bdbdda922e"
+Parent: "8f343079-3cc5-4ef7-bc27-32addb46f45e"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Navigation
+Signature: qaEquswAO7Hi9H//zRp1cy+hUl472XAPwK/XpyQ7NB0=
+Modified: 637855358437816394
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-templates\Navigation\_NavigationRoot.yml
+ID: "d7f870bc-89d8-4f17-95ec-59acfd7da05c"
+Parent: "8c38d083-9e99-4153-99ca-a3bdbdda922e"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Navigation/_NavigationRoot
+Signature: pNHw0QXjw40WC7fSuQCulqnznkpnP7mWTMXA2AHYAvU=
+Modified: 637855358437846401
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-templates\Navigation\_NavigationRoot\Header and Footer\FooterCopyright.yml
+ID: "f6098004-9129-41e4-a3b0-604a7583c26d"
+Parent: "7019282e-7469-4e7a-a272-bcf4d0df0344"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Navigation/_NavigationRoot/Header and Footer/FooterCopyright
+Signature: Uh+vPt4VDijnhK6qzXYZtEIWz+PT6p+V87RLZyv00wo=
+Modified: 637855358437936392
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-templates\Navigation\_NavigationItem.yml
+ID: "c231fbb4-dcdb-4708-99bc-94760f222cc5"
+Parent: "8c38d083-9e99-4153-99ca-a3bdbdda922e"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Navigation/_NavigationItem
+Signature: 8fNemrr2CBnPAX6vlJ4x+bWGUmrhr4oi7nCXZbMtXUk=
+Modified: 637855358437836398
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-templates\Navigation\_NavigationItem\Navigation.yml
+ID: "fd29662b-b1ab-4df6-82c9-dfae5af66360"
+Parent: "c231fbb4-dcdb-4708-99bc-94760f222cc5"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Navigation/_NavigationItem/Navigation
+Signature: th3n7afvv5dDLZEudbxbYMI9kvK2VGj/FGI4DftE8WQ=
+Modified: 637855358437866409
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\navigation-templates\Navigation\_NavigationRoot\Header and Footer\HeaderLogo.yml
+ID: "fee16e6b-0823-44fb-acd2-f56db2011aa3"
+Parent: "7019282e-7469-4e7a-a272-bcf4d0df0344"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Navigation/_NavigationRoot/Header and Footer/HeaderLogo
+Signature: bMzjwD37okN92cVGCgJVE6yHn8WcKmB5exVR0PYXNtM=
+Modified: 637855358437926393

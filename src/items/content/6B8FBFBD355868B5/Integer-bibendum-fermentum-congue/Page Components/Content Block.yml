@@ -1,0 +1,32 @@
+﻿---
+ID: "210112dd-2829-4407-89b4-2170d473d2e6"
+Parent: "57569500-6260-4584-b700-61d9ed6baf0b"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Integer-bibendum-fermentum-congue/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222005Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c3cc70c-9ad4-4cb5-95ce-d028b7fed183"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum integer inceptos mattis eros curabitur ante varius ullamcorper platea, ultrices dictum vivamus luctus porta feugiat ipsum nisl commodo.</p>
+        <p>Tincidunt blandit cursus malesuada tellus a suspendisse laoreet class lorem quam facilisis, ornare lectus blandit taciti aenean hac sem nunc dictumst eros rhoncus et urna imperdiet nulla quisque dapibus sociosqu, integer suscipit maecenas suspendisse nulla luctus nisi dui, morbi netus ornare aptent metus nullam pharetra.</p>
+        <p>Fermentum auctor ligula duis nullam sem felis adipiscing taciti donec curae.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Integer bibendum fermentum congue
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222006Z

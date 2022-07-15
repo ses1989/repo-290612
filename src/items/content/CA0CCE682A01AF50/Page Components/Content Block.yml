@@ -1,0 +1,32 @@
+﻿---
+ID: "7bee5fd9-755c-491d-aaad-771c1c1ced1f"
+Parent: "9153b8e9-3446-4025-8901-919c86572369"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Dictum-cursus-commodo-posuere/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222003Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1d43c5e-a790-443f-87c2-3b5e57b1354f"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum metus nisl platea dictumst duis vitae varius ut id eleifend, nostra donec lectus sociosqu tempor arcu donec lectus inceptos.</p>
+        <p>Purus potenti neque dolor enim facilisis aliquam ultricies lectus consequat volutpat sapien.</p>
+        <p>Faucibus fusce non taciti in suscipit faucibus mauris arcu venenatis, tincidunt aenean taciti id vitae quisque phasellus sapien habitasse massa, sed posuere eros tortor eros vitae luctus felis.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Dictum cursus commodo posuere
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222003Z

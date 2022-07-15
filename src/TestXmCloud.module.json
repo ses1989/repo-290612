@@ -1,0 +1,61 @@
+{
+  "namespace": "TestXmCloud",
+  "items": {
+    "includes": [
+      {
+        "name": "languages",
+        "path": "/sitecore/system/Languages",
+        "rules": [
+          {
+            "path": "/en",
+            "scope": "ignored"
+          },
+          {
+            "path": "/da",
+            "scope": "ignored"
+          },
+          {
+            "path": "/uk-UA",
+            "scope": "ignored"
+          },
+          {
+            "path": "/ru-RU",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "layouts",
+        "path": "/sitecore/layout/Layouts/Project/TestXmCloud"
+      },
+      {
+        "name": "placeholders",
+        "path": "/sitecore/layout/Placeholder Settings/Project/TestXmCloud"
+      },
+      {
+        "name": "placeholders-tenant",
+        "path": "/sitecore/layout/Placeholder Settings/Project/Tenant"
+      },
+      {
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Project/TestXmCloud"
+      },
+      {
+        "name": "renderings-tenant",
+        "path": "/sitecore/layout/Renderings/Project/Tenant"
+      },
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Project/TestXmCloud"
+      },
+      {
+        "name": "templates-tenant",
+        "path": "/sitecore/templates/Project/Tenant"
+      },
+      {
+        "name": "branches",
+        "path": "/sitecore/templates/Branches/Project/TestXmCloud"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+﻿---
+ID: "db088a06-9073-40b5-bdc2-2e5052c74995"
+Parent: "47e49620-ad33-40e1-bf0e-e76c04aa3832"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ut-enim-cursus/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222038Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1fe2df6d-88c5-45e7-ac0e-a9f7eb101ba5"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum laoreet lobortis vel dui faucibus, at aliquam odio platea magna, habitasse ante pharetra aenean justo.</p>
+        <p>Curae cubilia curabitur eros tempor malesuada diam nostra elit, platea tellus eu massa suspendisse nostra volutpat, curabitur scelerisque proin aliquet nostra feugiat dui.</p>
+        <p>Habitasse porttitor velit fermentum nisl nisi aliquam id sem vitae, interdum placerat eros ad egestas at sodales aenean cubilia, euismod ultricies platea ullamcorper nostra justo nulla varius risus tincidunt eget massa cursus feugiat est tempus.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Ut enim cursus
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222038Z

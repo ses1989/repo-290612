@@ -1,0 +1,15 @@
+{
+    "namespace": "TestXmCloud-products",
+    "items": {
+        "includes": [
+            {
+                "name": "products-templates",
+                "path": "/sitecore/templates/Feature/Products"
+            },
+            {
+                "name": "products-renderings",
+                "path": "/sitecore/layout/Renderings/Feature/Products"
+            }
+        ]
+    }
+}

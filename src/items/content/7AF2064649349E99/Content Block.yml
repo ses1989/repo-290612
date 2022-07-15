@@ -1,0 +1,32 @@
+﻿---
+ID: "011816d8-caa1-4efe-a192-a4de5e0dc4f4"
+Parent: "3986b1ad-977f-47d0-86f4-c0bdd13ce4ad"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Mauris-est/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222031Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6186bcf5-be43-491b-b739-c4f63f1560ea"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum dapibus imperdiet turpis orci fringilla mauris ad pharetra.</p>
+        <p>Arcu dui sollicitudin proin maecenas nisl metus non eleifend eget quisque rhoncus fusce venenatis nulla, et non erat non massa ultricies mattis luctus dictum proin feugiat vel.</p>
+        <p>Etiam quisque consequat rutrum mauris suspendisse nulla tristique arcu sodales aenean, viverra suscipit sapien inceptos tellus hac lacinia vehicula congue at placerat euismod diam magna fusce, ut etiam rutrum leo accumsan, integer elementum orci aliquet.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Mauris est
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222031Z

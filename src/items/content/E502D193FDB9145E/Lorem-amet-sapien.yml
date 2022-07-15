@@ -1,0 +1,65 @@
+﻿---
+ID: "6c58997f-edcd-4b7a-a103-6cf01e716b0d"
+Parent: "de272049-05be-42d4-a5c0-8a14b86f4c59"
+Template: "20c2276a-ac13-47d4-83f4-882b39b6017f"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/products/2021/05/06/20/07/Lorem-amet-sapien"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23f42f5e-645c-4a72-9c61-79db1a331e64"
+      Hint: Image
+      Value: |
+        <image mediaid="{929050F5-D994-4E7E-940B-98605CCD636A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210506T200758Z
+    - ID: "2c2c386c-17c7-44c3-8796-3e720ba08079"
+      Hint: Features
+      Value: |
+        <ul>
+        <li>Congue in</li>
+        <li>Aliquam donec molestie posuere</li>
+        <li>Vulputate integer</li>
+        </ul>
+    - ID: "32cff90d-4fdf-4402-a364-21199e88753d"
+      Hint: NavigationTitle
+      Value: Lorem amet sapien
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: Lorem amet sapien
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c4efd134-4afc-44df-9a3a-8b06de2d2b37"
+    - ID: "9977fbe7-a0ff-475c-9a7c-ecb81c7f51cf"
+      Hint: Price
+      Value: 12.99
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be500a38-36a0-417b-86c5-e63ba71d0939"
+      Hint: Title
+      Value: Lorem amet sapien
+    - ID: "be7e2d00-e405-4498-85f9-4f89d8ea2cfc"
+      Hint: ShortDescription
+      Value: Semper a posuere semper euismod vivamus condimentum
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210506T200758Z
+    - ID: "fc7c99d4-7301-44eb-908c-bf4ffca5a131"
+      Hint: RelatedProducts
+      Value: |
+        {C9987B5D-F501-4D8C-9F76-EAA4EEF14191}
+        {4F3D31E0-C029-4DB9-ABA9-F332BF280D81}
+        {D46288F4-56CA-4E4D-826B-F5542C339D02}
+        {A8CCA5C3-118F-4FED-BC03-1F206623E5C7}
+        {B9E07A5A-F4D0-4176-B157-8762F72C8AE2}
+        {E0490F69-33C3-417D-8732-8B8B1D137E0B}
+        {AE55FCF4-21FA-4531-AC83-BEBC45C2A0B0}
+        {07123A10-8C16-4CEA-B9E0-082F7BCADCE1}

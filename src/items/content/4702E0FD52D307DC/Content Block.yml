@@ -1,0 +1,32 @@
+﻿---
+ID: "ccbbfb1d-9925-4106-b748-bf2dccd5a407"
+Parent: "989373bd-1ec4-462f-ad92-801d16f05231"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Quisque-faucibus/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222053Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ff56431-00c4-4b00-a1ea-7d1edffe7e54"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum dictum tristique dui aenean platea aliquam tempus pellentesque, blandit quisque nostra bibendum curae justo euismod suscipit, congue ut interdum habitasse hendrerit enim litora mi cras neque vestibulum sapien platea nullam euismod odio tempor dui mollis fringilla ad velit.</p>
+        <p>Lacinia imperdiet eleifend fermentum nec primis et, id accumsan ullamcorper id sodales per habitasse, mauris ad nulla suspendisse aptent.</p>
+        <p>Ut luctus donec at hac nibh tristique potenti taciti commodo aliquet vel, curae vulputate porta dui tortor habitasse primis suscipit lobortis arcu placerat ornare, duis proin consequat tempus commodo vitae turpis accumsan ultricies donec posuere scelerisque metus dictumst cubilia turpis, porta rutrum scelerisque ad risus, taciti nulla imperdiet aptent.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Quisque faucibus
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222053Z

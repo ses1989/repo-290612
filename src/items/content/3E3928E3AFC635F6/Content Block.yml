@@ -1,0 +1,32 @@
+﻿---
+ID: "7bd0c0d5-5d63-4541-89ef-e1b5fc60fef6"
+Parent: "cea1ae4e-5f66-4c69-8b8e-9e178f5245d1"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Gravida-litora/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T221959Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a051041-b477-4d13-8f77-90fcd0089c65"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum elit at sapien class himenaeos, est hac taciti inceptos bibendum odio, posuere egestas velit etiam purus.</p>
+        <p>Sapien elementum torquent fermentum dolor malesuada non id donec vivamus.</p>
+        <p>Lacus mollis inceptos nunc ultricies lacus urna metus, a commodo nec varius diam luctus posuere, tempus ultrices pretium nec augue consectetur.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Gravida litora
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T221959Z

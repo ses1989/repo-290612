@@ -1,0 +1,27 @@
+﻿---
+ID: "a9ccdfe9-2b5e-4521-8062-110bd6149827"
+Parent: "6f4ea3bc-1dda-43b3-af1b-af4a5d31a000"
+Template: "651bcad2-f32d-4cb3-9bd4-db9b895382bf"
+Path: /sitecore/content/Tenant/Multi/Settings/Sitemap
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220411T073834Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40d8cd05-24fa-42af-b8c2-7555b9558b65"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220411T073834Z

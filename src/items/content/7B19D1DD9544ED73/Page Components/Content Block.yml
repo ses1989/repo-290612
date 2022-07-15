@@ -1,0 +1,32 @@
+﻿---
+ID: "1e8e9785-a720-48b0-a1b4-79eaf558b20d"
+Parent: "30b5fb50-d32e-4932-b9ce-285782d8183f"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Velit-odio-praesent-per/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222044Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ab2e4a9-ca21-47ba-9c97-a0e2b3b08e3a"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum vestibulum vel pellentesque ante per, tortor placerat fusce vitae erat, metus mattis facilisis erat morbi.</p>
+        <p>Mattis vel ante eu eros cras condimentum platea primis ante, est sem vitae ante ad ipsum duis morbi dui, ullamcorper aliquam porta odio proin velit dolor a.</p>
+        <p>Hendrerit urna convallis mi nisi interdum consequat elementum donec, blandit malesuada pretium aliquam netus egestas eget, vulputate pharetra felis lacus volutpat class aptent.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Velit odio praesent per
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222045Z

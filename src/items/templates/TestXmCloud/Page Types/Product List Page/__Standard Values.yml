@@ -1,0 +1,62 @@
+﻿---
+ID: "3cb46bde-7e72-44d0-8cd9-1fa968631631"
+Parent: "10b730ef-d8b6-4a15-bb50-101c15dea5f7"
+Template: "10b730ef-d8b6-4a15-bb50-101c15dea5f7"
+Path: /sitecore/templates/Project/TestXmCloud/Page Types/Product List Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{20C2276A-AC13-47D4-83F4-882B39B6017F}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{8EDCB8E4-553C-404D-8E42-74D8CA9246CC}">
+        <p
+          uid="{96B341FB-B035-41A3-A8BF-E34CAEF714A0}"
+          key="TestXmCloud-main"
+          md="{A017C50C-C3C1-40D4-AE44-D1EB8945EEE7}" />
+        <r
+          id="{AF0D28F1-B659-4392-8FCF-E250DF527FA3}"
+          ph="TestXmCloud-header"
+          uid="{003DC8BB-A89C-41C2-AE33-5FCCC69CF312}" />
+        <r
+          id="{CC7BA644-7B5B-4092-A4F2-E82ED84289B2}"
+          ph="TestXmCloud-header"
+          uid="{A2372E34-5306-4EA7-AEB9-C413B6581B07}" />
+        <r
+          id="{C2260F8E-922F-4922-97D7-1866B367F81F}"
+          ph="TestXmCloud-header"
+          uid="{A72A519E-EEE1-4FFB-B2DF-0E98BD6A13AC}" />
+        <r
+          id="{D91B7C6D-A10E-4B72-8327-5DF0A8D79093}"
+          ph="TestXmCloud-main"
+          uid="{34C721E9-BA0D-4BFA-9253-623B793EF653}" />
+      </d>
+    </r>
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210504T213815Z
+    - ID: "6e84ff6a-a60e-4317-9c49-b1147b411ff6"
+      Hint: PageTitle
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7a26641-3be8-4ec1-988b-6f80047bae39"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T064804Z

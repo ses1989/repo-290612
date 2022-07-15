@@ -1,0 +1,32 @@
+﻿---
+ID: "b66e9f67-12f3-438c-a595-5f3b633dd829"
+Parent: "345c3c1d-e38f-42ee-b5a3-6435a23f3079"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Erat-elit-ut-senectus/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222042Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d17fd09-f8f7-462c-bfd0-7613161e6533"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum sodales auctor iaculis integer tortor volutpat suscipit, aenean suscipit taciti potenti eu aliquet sociosqu, massa ac donec vivamus sem curabitur aenean habitasse augue neque quisque curae hendrerit himenaeos lorem non pellentesque justo amet curabitur porttitor.</p>
+        <p>Arcu fames elit curae quam volutpat erat curabitur eros, volutpat fames orci felis nunc pharetra potenti, purus porta aenean ad arcu aliquam facilisis risus elementum turpis interdum senectus cubilia vulputate aliquet per interdum, volutpat condimentum egestas aenean amet dictum amet odio per etiam iaculis lacus vel.</p>
+        <p>Quam suscipit platea erat class pellentesque orci cursus netus adipiscing libero donec, litora accumsan convallis a sollicitudin in praesent sodales dapibus sapien.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Erat elit ut senectus
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222042Z

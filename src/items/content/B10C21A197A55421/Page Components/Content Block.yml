@@ -1,0 +1,32 @@
+﻿---
+ID: "4d442954-1a35-42a2-9dac-621222d73522"
+Parent: "80f056dc-f052-4aa2-9150-4526cf7469b8"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Ullamcorper-risus-ante/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222049Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6563b9c-3686-4912-b8fb-dee9a8c548df"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum augue vehicula id diam phasellus hac sem felis.</p>
+        <p>Ante sem facilisis ultricies habitasse odio curae aliquam platea leo congue massa id.</p>
+        <p>Enim a purus tempus faucibus duis id dui quam netus primis sed.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Ullamcorper risus ante
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222049Z

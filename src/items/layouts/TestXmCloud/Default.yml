@@ -1,0 +1,29 @@
+﻿---
+ID: "8edcb8e4-553c-404d-8e42-74d8ca9246cc"
+Parent: "7f1e7920-4244-55af-a9d7-76fba414eb0f"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/layout/Layouts/Project/TestXmCloud/Default
+SharedFields:
+- ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
+  Hint: Placeholders
+  Value: |
+    {E5E93324-53A0-42FD-96D7-164BF2019C0A}
+    {DD7D2519-67D7-4CF8-88DA-3F81C4673B52}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210504T134720Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5aa89e72-1ae4-4eae-9e49-96378aff7a66"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210505T222902Z

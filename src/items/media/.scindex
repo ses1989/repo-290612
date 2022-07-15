@@ -1,0 +1,154 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\Sitecore-logo.yml
+ID: "b0117f27-407e-428f-b988-4b949c9a95c3"
+Parent: "d1cf1e5a-a8bb-51e0-ba14-0a2a06cd989d"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/TestXmCloud/Sitecore-logo"
+Signature: KZmUK0txH3/D6pUFhGTzU4lIYMXNIlFy+PMEPzhO1M8=
+Modified: 637855358445488513
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\banners\hero_1.yml
+ID: "23baab67-4312-4a99-8bbe-a23efc4baf3b"
+Parent: "b6e6536b-1a03-4d45-a5f2-be9f7d4eebff"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/banners/hero_1
+Signature: eyw2QXiDZkXaPWaQoXlzgcS2pdH5zGcBQ1N3z5DmPvQ=
+Modified: 637855358445598488
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\banners\hero_2.yml
+ID: "18c245d1-9eef-41a6-9093-fa240f84cb2a"
+Parent: "b6e6536b-1a03-4d45-a5f2-be9f7d4eebff"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/banners/hero_2
+Signature: MMvgpFtPTdj54atc3TtsWSjUW5spyUx8Izzi4Wp0Eg0=
+Modified: 637855358445648497
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_1.yml
+ID: "089bb547-8380-425b-8122-e7f5181707a7"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_1
+Signature: 8xU+gfzJUpR94DTWKph9F2wZxGy0+TgyNYyaKyDh2Fs=
+Modified: 637855358445918502
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_3.yml
+ID: "108ea342-11a8-4afd-822e-7098a4257d90"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_3
+Signature: //2oOzEPsSD7//GGVKfN5VXsqBnh2Cs1Jdk2vVYbOJ8=
+Modified: 637855358446108519
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_5.yml
+ID: "e584ebdf-0ef6-460f-8363-20c29585b9aa"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_5
+Signature: OMpYPyrAm2edKIk1uQD4V7RPw6rk3ZGh4Eh/f2kzexI=
+Modified: 637855358446218495
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_7.yml
+ID: "8097546c-95a8-4f35-9015-a622a31e094e"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_7
+Signature: lsssr+8w4r5xdVaV9eBuoWUOJHZRPzmBzoeONYH1pBc=
+Modified: 637855358446488523
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_8.yml
+ID: "c4e5ab81-0f8b-47f9-af63-7ebca1094523"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_8
+Signature: NTnr6Iz7uSX5mA/K43EByo5S/cKC+4QHq5dJ8n5kIPQ=
+Modified: 637855358446638498
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud.yml
+ID: "d1cf1e5a-a8bb-51e0-ba14-0a2a06cd989d"
+Parent: "3d6658d8-a0bf-4e75-b3e2-d050fabcf4e1"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/TestXmCloud
+Signature: FfigWn0pNF67GqHPzxSOzMdlupOpcy8R8OeRz5ZvPyc=
+Modified: 637855358445408514
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\banners.yml
+ID: "b6e6536b-1a03-4d45-a5f2-be9f7d4eebff"
+Parent: "d1cf1e5a-a8bb-51e0-ba14-0a2a06cd989d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/TestXmCloud/banners
+Signature: JPAptMNpe1lo0VVv3qWKBNrgQgiAto6Oa3HD9skkA2w=
+Modified: 637855358445428530
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products.yml
+ID: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Parent: "d1cf1e5a-a8bb-51e0-ba14-0a2a06cd989d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/TestXmCloud/products
+Signature: JCELgc3MNIkvkPnO5xPWAkviXpZIVWrqVw8DDGEoZOo=
+Modified: 637855358445448495
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\banners\hero_0.yml
+ID: "9bb49739-5642-465a-ae1a-5adac359436f"
+Parent: "b6e6536b-1a03-4d45-a5f2-be9f7d4eebff"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/banners/hero_0
+Signature: LdMJfA9ejw5INj8gsdP3A0PpCDhxCr7+2DsD/UvLTK0=
+Modified: 637855358445568496
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_0.yml
+ID: "929050f5-d994-4e7e-940b-98605ccd636a"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_0
+Signature: qiqkJaDdTe7Ud4OW2MYEwGzusVYuBFDzaRuP3Y5UIos=
+Modified: 637855358445728506
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_2.yml
+ID: "9cb07701-77d9-4138-9b28-ce43009d22f6"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_2
+Signature: a2pnzYHUUManzTGRLZrs1uSxIvt703e5s5wxA32Bf0I=
+Modified: 637855358446038514
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_4.yml
+ID: "7bd6db0d-d0da-4a6c-ab5f-a7c37ad00db7"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_4
+Signature: I4urJVMHyoVVcpsovOF9TXhdzZ7ar9CHxAp6i34YAJc=
+Modified: 637855358446168535
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_6.yml
+ID: "92f6d2ce-137a-4bbd-8c17-67be12f26b45"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_6
+Signature: /0PUXLmYSwZW8UVx3xVxRoT5qZgzVqp39QD60CEjzIs=
+Modified: 637855358446328498
+---
+File: |
+  C:\Repos\Sitecore.XMCloud.Starterkit\TestXmCloud\src\items\media\TestXmCloud\products\product_9.yml
+ID: "97ee6c76-4e63-4bfc-859a-0bbcccc0d28d"
+Parent: "276c5b2b-c763-42c0-bb5f-17d02f65e9f2"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/TestXmCloud/products/product_9
+Signature: bnJRKj4q+H3eB81raW4goBknQ+WPX9TDcr6/8tQmTmY=
+Modified: 637855358446788608

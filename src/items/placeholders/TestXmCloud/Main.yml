@@ -1,0 +1,33 @@
+﻿---
+ID: "e5e93324-53a0-42fd-96d7-164bf2019c0a"
+Parent: "5c1cccf6-d6b4-5e50-9178-e0afef5d2a7e"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/TestXmCloud/Main
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "TestXmCloud-main"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {4B77E956-C886-4AF9-85F1-60BD8CF872EE}
+    {F8CAE35C-3DD6-42CD-A4DA-4223027A6A61}
+    {ABB770AC-0240-40E9-8F11-43A1A0D7596C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210504T134938Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e57db80d-be50-4fe2-8448-03830f1e053d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T063905Z

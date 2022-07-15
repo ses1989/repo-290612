@@ -1,0 +1,32 @@
+﻿---
+ID: "8fa68456-e097-4633-9994-940838324a71"
+Parent: "b63f0771-86a6-412b-ab0f-1ffbd1afaa60"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Accumsan-himenaeos/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222011Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6cc262d4-74e1-4b15-a3c6-d95a7e66e1a2"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum eros iaculis torquent sollicitudin sagittis sit condimentum neque sem amet, cras curabitur fusce nec et tellus vitae luctus duis purus, duis elementum venenatis adipiscing integer aenean tempor pulvinar rutrum nisi ad et lobortis posuere commodo sociosqu eleifend.</p>
+        <p>Vehicula neque posuere metus placerat bibendum ullamcorper, metus neque habitant proin odio rutrum, aenean vitae porttitor bibendum libero.</p>
+        <p>Himenaeos imperdiet lobortis neque sem feugiat orci congue at, per sapien aptent curabitur maecenas per rutrum, venenatis luctus id dictum urna quis adipiscing pellentesque nunc justo pharetra quisque faucibus nullam cras iaculis, volutpat turpis lectus congue accumsan ante.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Accumsan himenaeos
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222011Z

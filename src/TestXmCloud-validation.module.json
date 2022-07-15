@@ -1,0 +1,11 @@
+{
+    "namespace": "TestXmCloud-validation",
+    "items": {
+        "includes": [
+            {
+                "name": "system",
+                "path": "/sitecore/system/Settings/Validation Rules/Global Rules"
+            }
+        ]
+    }
+}

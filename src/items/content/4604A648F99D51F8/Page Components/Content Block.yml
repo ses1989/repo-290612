@@ -1,0 +1,32 @@
+﻿---
+ID: "c0e73e55-f6c4-4e4e-a2c3-c0238bd5f25d"
+Parent: "82d778e4-814e-4160-baa3-93e8120205c9"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Sapien-in-taciti-urna/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222051Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84c367f6-dbb5-408f-b40f-14a556a23316"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum etiam consectetur quam curae id diam leo consectetur, sagittis malesuada orci felis cubilia tristique vulputate ligula hendrerit, amet tristique auctor habitant maecenas nostra faucibus venenatis.</p>
+        <p>Integer vitae quisque interdum posuere eleifend inceptos magna platea commodo pellentesque malesuada non, lacinia enim eros tortor neque nisi litora porttitor donec dictum bibendum tristique nibh posuere class quam aliquam pulvinar habitasse proin etiam hac gravida ornare, gravida magna lacinia congue mollis egestas tellus sagittis elit cras mattis.</p>
+        <p>Dolor ultrices turpis nam fusce dui suscipit, proin netus ante placerat ultricies, sapien lorem ligula venenatis lobortis.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Sapien in taciti urna
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222052Z

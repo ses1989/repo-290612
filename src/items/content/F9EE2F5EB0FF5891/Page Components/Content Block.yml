@@ -1,0 +1,32 @@
+﻿---
+ID: "8827b690-e68a-4534-bd0a-65fb85d42e07"
+Parent: "e02925bf-d381-4549-904b-556b0a24ac28"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Amet-imperdiet-suspendisse/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222021Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d79bfc5-8ef6-4b11-8e4d-92300abb65c6"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum erat platea purus eleifend tempor nullam quisque magna iaculis duis turpis.</p>
+        <p>Erat sed quis cras etiam blandit imperdiet convallis libero litora, himenaeos purus nibh vehicula himenaeos congue dolor pulvinar eleifend, quam eget turpis phasellus pellentesque dui lacinia sapien praesent purus mattis mauris tristique porta tellus, dui ultrices eu nunc nec metus, gravida interdum vulputate senectus morbi.</p>
+        <p>Quis blandit suspendisse donec conubia viverra sagittis libero congue eros aliquam, curae sociosqu maecenas duis tempus dolor torquent sagittis sed amet, eget nec purus etiam maecenas etiam pulvinar et habitant auctor condimentum lacinia tincidunt magna vivamus scelerisque, iaculis fringilla aliquam duis aliquet consectetur gravida, mollis odio auctor tincidunt leo.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Amet imperdiet suspendisse
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222021Z

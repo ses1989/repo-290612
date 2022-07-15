@@ -1,0 +1,15 @@
+@using Feature.BasicContent
+@using Foundation.FieldRendering
+
+<section class="hero is-medium is-black" data-e2e-id="hero-banner-section" style="background-image: url(@Html.Sitecore().MediaUrl(Templates.HeroBanner.Fields.Image))">
+    <div class="hero-body">
+        <div class="container">
+            <h1 class="title" data-e2e-id="hero-banner-title">
+                @Html.Sitecore().Field(Templates.HeroBanner.Fields.Title)
+            </h1>
+            <h2 class="subtitle" data-e2e-id="hero-banner-subtitle">
+                @Html.Sitecore().Field(Templates.HeroBanner.Fields.Subtitle)
+            </h2>
+        </div>
+    </div>
+</section>

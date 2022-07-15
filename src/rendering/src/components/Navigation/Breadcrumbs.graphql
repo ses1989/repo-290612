@@ -1,0 +1,26 @@
+query Breadcrumbs(
+  $site: String!
+  $routePath: String!
+  $language: String!
+  $templateIds: [String!]
+) {
+  layout(site: $site, routePath: $routePath, language: $language) {
+    item {
+      ... on _NavigationItem {
+        navigationTitle {
+          value
+        }
+      }
+      ancestors(includeTemplateIDs: $templateIds) {
+        ... on _NavigationItem {
+          navigationTitle {
+            value
+          }
+        }
+        url {
+          path
+        }
+      }
+    }
+  }
+}

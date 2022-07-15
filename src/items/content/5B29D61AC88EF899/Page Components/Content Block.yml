@@ -1,0 +1,32 @@
+﻿---
+ID: "585981a9-ac5a-42d9-ac7a-bfd86ecc4dad"
+Parent: "51951242-1d3f-434b-bdad-5cd0e3854563"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Proin-quisque-per-litora/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T221956Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d19a161-9c27-4e02-9c83-828d58cf0889"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum vel id tincidunt massa pharetra, sodales metus iaculis arcu sapien, habitant egestas dictum molestie nisl.</p>
+        <p>Hac maecenas donec quis nisl sociosqu vulputate, semper eu id conubia malesuada netus, fames libero eleifend tristique odio.</p>
+        <p>Class mi rhoncus mauris id vivamus neque justo urna porttitor molestie, habitasse euismod vel rutrum aenean primis maecenas fermentum habitant nostra litora aenean imperdiet tempus feugiat etiam neque eu vulputate, eros fames donec fusce tortor porttitor felis eget feugiat leo lacus suscipit hac vitae neque ullamcorper ut placerat etiam.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Proin quisque per litora
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T221956Z

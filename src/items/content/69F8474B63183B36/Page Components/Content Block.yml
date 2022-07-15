@@ -1,0 +1,32 @@
+﻿---
+ID: "b5a77693-57c2-43ba-8554-10ec47f4e141"
+Parent: "3333f062-f536-4912-92de-70e0029abc94"
+Template: "8e82ebad-c544-461c-93ba-29fd595eb5d6"
+Path: "/sitecore/content/Tenant/TestXmCloud/home/generated/Odio-quisque-habitasse/Page Components/Content Block"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210510T222001Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b14bfaaa-45bc-4083-8055-2d87ee971e0f"
+    - ID: "a8dc1994-17f1-4c72-96eb-cc0bc3633694"
+      Hint: Content
+      Value: |
+        <p>Lorem ipsum felis habitasse lacinia facilisis vulputate porttitor tempus, tellus adipiscing rhoncus malesuada etiam rutrum nullam curabitur fames sagittis quis curabitur dui placerat leo.</p>
+        <p>Aenean elit enim fusce aliquam nec convallis ante aptent curabitur, sagittis est phasellus purus adipiscing ac lectus neque dictumst purus, lobortis habitant vivamus vitae vestibulum auctor consectetur elementum nunc placerat praesent mauris tristique blandit posuere, lacinia est accumsan posuere ullamcorper velit nibh, vehicula odio habitant mollis nec.</p>
+        <p>Vitae fusce vivamus nunc dictum ultricies at potenti dolor sem tristique dictumst non.</p>
+    - ID: "ae347872-b492-43f5-affd-0f5adc59bdd0"
+      Hint: Heading
+      Value: Odio quisque habitasse
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210510T222002Z
